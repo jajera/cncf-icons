@@ -1,0 +1,8 @@
+CNCF project icons:
+  Source: https://github.com/cncf/artwork
+  Variants: *-icon-color.svg, *-icon-black.svg, *-icon-white.svg
+
+Kubernetes architecture icons:
+  Source: https://github.com/kubernetes/community (icons/svg)
+  Categories: k8s-resources, k8s-control-plane, k8s-infrastructure
+  Labeled variants use the "-labeled" filename suffix.

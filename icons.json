@@ -1,0 +1,2323 @@
+[
+  {
+    "path": "icons/argo/argo-icon-black.svg",
+    "tags": [
+      "argo",
+      "black",
+      "cd",
+      "gitops",
+      "workflows"
+    ],
+    "category": "argo",
+    "color": "#0086C9",
+    "description": "Argo (black) CNCF project icon (Argo).",
+    "fullname": "Argo (black)",
+    "name": "argo-icon-black"
+  },
+  {
+    "path": "icons/argo/argo-icon-color.svg",
+    "tags": [
+      "argo",
+      "cd",
+      "color",
+      "gitops",
+      "workflows"
+    ],
+    "category": "argo",
+    "color": "#0086C9",
+    "description": "Argo (color) CNCF project icon (Argo).",
+    "fullname": "Argo (color)",
+    "name": "argo-icon-color"
+  },
+  {
+    "path": "icons/argo/argo-icon-white.svg",
+    "tags": [
+      "argo",
+      "cd",
+      "gitops",
+      "white",
+      "workflows"
+    ],
+    "category": "argo",
+    "color": "#0086C9",
+    "description": "Argo (white) CNCF project icon (Argo).",
+    "fullname": "Argo (white)",
+    "name": "argo-icon-white"
+  },
+  {
+    "path": "icons/backstage/backstage-icon-black.svg",
+    "tags": [
+      "backstage",
+      "black",
+      "developer-portal",
+      "idp"
+    ],
+    "category": "backstage",
+    "color": "#0086C9",
+    "description": "Backstage (black) CNCF project icon (Backstage).",
+    "fullname": "Backstage (black)",
+    "name": "backstage-icon-black"
+  },
+  {
+    "path": "icons/backstage/backstage-icon-color.svg",
+    "tags": [
+      "backstage",
+      "color",
+      "developer-portal",
+      "idp"
+    ],
+    "category": "backstage",
+    "color": "#0086C9",
+    "description": "Backstage (color) CNCF project icon (Backstage).",
+    "fullname": "Backstage (color)",
+    "name": "backstage-icon-color"
+  },
+  {
+    "path": "icons/backstage/backstage-icon-white.svg",
+    "tags": [
+      "backstage",
+      "developer-portal",
+      "idp",
+      "white"
+    ],
+    "category": "backstage",
+    "color": "#0086C9",
+    "description": "Backstage (white) CNCF project icon (Backstage).",
+    "fullname": "Backstage (white)",
+    "name": "backstage-icon-white"
+  },
+  {
+    "path": "icons/cilium/cilium_icon-black.svg",
+    "tags": [
+      "black",
+      "cilium",
+      "cni",
+      "ebpf",
+      "networking"
+    ],
+    "category": "cilium",
+    "color": "#0086C9",
+    "description": "Cilium_icon Black CNCF project icon (Cilium).",
+    "fullname": "Cilium_icon Black",
+    "name": "cilium_icon-black"
+  },
+  {
+    "path": "icons/cilium/cilium_icon-color.svg",
+    "tags": [
+      "cilium",
+      "cni",
+      "color",
+      "ebpf",
+      "networking"
+    ],
+    "category": "cilium",
+    "color": "#0086C9",
+    "description": "Cilium_icon Color CNCF project icon (Cilium).",
+    "fullname": "Cilium_icon Color",
+    "name": "cilium_icon-color"
+  },
+  {
+    "path": "icons/cilium/cilium_icon-white.svg",
+    "tags": [
+      "cilium",
+      "cni",
+      "ebpf",
+      "networking",
+      "white"
+    ],
+    "category": "cilium",
+    "color": "#0086C9",
+    "description": "Cilium_icon White CNCF project icon (Cilium).",
+    "fullname": "Cilium_icon White",
+    "name": "cilium_icon-white"
+  },
+  {
+    "path": "icons/containerd/containerd-icon-black.svg",
+    "tags": [
+      "black",
+      "containerd",
+      "cri",
+      "runtime"
+    ],
+    "category": "containerd",
+    "color": "#0086C9",
+    "description": "containerd (black) CNCF project icon (containerd).",
+    "fullname": "containerd (black)",
+    "name": "containerd-icon-black"
+  },
+  {
+    "path": "icons/containerd/containerd-icon-color.svg",
+    "tags": [
+      "color",
+      "containerd",
+      "cri",
+      "runtime"
+    ],
+    "category": "containerd",
+    "color": "#0086C9",
+    "description": "containerd (color) CNCF project icon (containerd).",
+    "fullname": "containerd (color)",
+    "name": "containerd-icon-color"
+  },
+  {
+    "path": "icons/containerd/containerd-icon-white.svg",
+    "tags": [
+      "containerd",
+      "cri",
+      "runtime",
+      "white"
+    ],
+    "category": "containerd",
+    "color": "#0086C9",
+    "description": "containerd (white) CNCF project icon (containerd).",
+    "fullname": "containerd (white)",
+    "name": "containerd-icon-white"
+  },
+  {
+    "path": "icons/coredns/coredns-icon-black.svg",
+    "tags": [
+      "black",
+      "coredns",
+      "dns"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "CoreDNS (black) CNCF project icon (CoreDNS).",
+    "fullname": "CoreDNS (black)",
+    "name": "coredns-icon-black"
+  },
+  {
+    "path": "icons/coredns/coredns-icon-color.svg",
+    "tags": [
+      "color",
+      "coredns",
+      "dns"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "CoreDNS (color) CNCF project icon (CoreDNS).",
+    "fullname": "CoreDNS (color)",
+    "name": "coredns-icon-color"
+  },
+  {
+    "path": "icons/coredns/coredns-icon-white.svg",
+    "tags": [
+      "coredns",
+      "dns",
+      "white"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "CoreDNS (white) CNCF project icon (CoreDNS).",
+    "fullname": "CoreDNS (white)",
+    "name": "coredns-icon-white"
+  },
+  {
+    "path": "icons/coredns/coredns-icon-grey.svg",
+    "tags": [
+      "coredns",
+      "dns"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "Coredns Icon Grey CNCF project icon (CoreDNS).",
+    "fullname": "Coredns Icon Grey",
+    "name": "coredns-icon-grey"
+  },
+  {
+    "path": "icons/coredns/coredns-icon-solid-color.svg",
+    "tags": [
+      "color",
+      "coredns",
+      "dns"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "Coredns Icon Solid Color CNCF project icon (CoreDNS).",
+    "fullname": "Coredns Icon Solid Color",
+    "name": "coredns-icon-solid-color"
+  },
+  {
+    "path": "icons/crio/crio-icon-black.svg",
+    "tags": [
+      "black",
+      "cri",
+      "crio",
+      "runtime"
+    ],
+    "category": "crio",
+    "color": "#0086C9",
+    "description": "CRI-O (black) CNCF project icon (CRI-O).",
+    "fullname": "CRI-O (black)",
+    "name": "crio-icon-black"
+  },
+  {
+    "path": "icons/crio/crio-icon-color.svg",
+    "tags": [
+      "color",
+      "cri",
+      "crio",
+      "runtime"
+    ],
+    "category": "crio",
+    "color": "#0086C9",
+    "description": "CRI-O (color) CNCF project icon (CRI-O).",
+    "fullname": "CRI-O (color)",
+    "name": "crio-icon-color"
+  },
+  {
+    "path": "icons/crio/crio-icon-white.svg",
+    "tags": [
+      "cri",
+      "crio",
+      "runtime",
+      "white"
+    ],
+    "category": "crio",
+    "color": "#0086C9",
+    "description": "CRI-O (white) CNCF project icon (CRI-O).",
+    "fullname": "CRI-O (white)",
+    "name": "crio-icon-white"
+  },
+  {
+    "path": "icons/crossplane/crossplane-icon-black.svg",
+    "tags": [
+      "black",
+      "control-plane",
+      "crossplane",
+      "iac"
+    ],
+    "category": "crossplane",
+    "color": "#0086C9",
+    "description": "Crossplane (black) CNCF project icon (Crossplane).",
+    "fullname": "Crossplane (black)",
+    "name": "crossplane-icon-black"
+  },
+  {
+    "path": "icons/crossplane/crossplane-icon-color.svg",
+    "tags": [
+      "color",
+      "control-plane",
+      "crossplane",
+      "iac"
+    ],
+    "category": "crossplane",
+    "color": "#0086C9",
+    "description": "Crossplane (color) CNCF project icon (Crossplane).",
+    "fullname": "Crossplane (color)",
+    "name": "crossplane-icon-color"
+  },
+  {
+    "path": "icons/crossplane/crossplane-icon-white.svg",
+    "tags": [
+      "control-plane",
+      "crossplane",
+      "iac",
+      "white"
+    ],
+    "category": "crossplane",
+    "color": "#0086C9",
+    "description": "Crossplane (white) CNCF project icon (Crossplane).",
+    "fullname": "Crossplane (white)",
+    "name": "crossplane-icon-white"
+  },
+  {
+    "path": "icons/dapr/dapr-icon-black.svg",
+    "tags": [
+      "black",
+      "dapr",
+      "microservices",
+      "sidecar"
+    ],
+    "category": "dapr",
+    "color": "#0086C9",
+    "description": "Dapr (black) CNCF project icon (Dapr).",
+    "fullname": "Dapr (black)",
+    "name": "dapr-icon-black"
+  },
+  {
+    "path": "icons/dapr/dapr-icon-color.svg",
+    "tags": [
+      "color",
+      "dapr",
+      "microservices",
+      "sidecar"
+    ],
+    "category": "dapr",
+    "color": "#0086C9",
+    "description": "Dapr (color) CNCF project icon (Dapr).",
+    "fullname": "Dapr (color)",
+    "name": "dapr-icon-color"
+  },
+  {
+    "path": "icons/dapr/dapr-icon-white.svg",
+    "tags": [
+      "dapr",
+      "microservices",
+      "sidecar",
+      "white"
+    ],
+    "category": "dapr",
+    "color": "#0086C9",
+    "description": "Dapr (white) CNCF project icon (Dapr).",
+    "fullname": "Dapr (white)",
+    "name": "dapr-icon-white"
+  },
+  {
+    "path": "icons/envoy/envoy-icon-black.svg",
+    "tags": [
+      "black",
+      "envoy",
+      "gateway",
+      "proxy"
+    ],
+    "category": "envoy",
+    "color": "#0086C9",
+    "description": "Envoy (black) CNCF project icon (Envoy).",
+    "fullname": "Envoy (black)",
+    "name": "envoy-icon-black"
+  },
+  {
+    "path": "icons/envoy/envoy-icon-color.svg",
+    "tags": [
+      "color",
+      "envoy",
+      "gateway",
+      "proxy"
+    ],
+    "category": "envoy",
+    "color": "#0086C9",
+    "description": "Envoy (color) CNCF project icon (Envoy).",
+    "fullname": "Envoy (color)",
+    "name": "envoy-icon-color"
+  },
+  {
+    "path": "icons/envoy/envoy-icon-white.svg",
+    "tags": [
+      "envoy",
+      "gateway",
+      "proxy",
+      "white"
+    ],
+    "category": "envoy",
+    "color": "#0086C9",
+    "description": "Envoy (white) CNCF project icon (Envoy).",
+    "fullname": "Envoy (white)",
+    "name": "envoy-icon-white"
+  },
+  {
+    "path": "icons/etcd/etcd-icon-black.svg",
+    "tags": [
+      "black",
+      "consensus",
+      "etcd",
+      "kv"
+    ],
+    "category": "etcd",
+    "color": "#0086C9",
+    "description": "etcd (black) CNCF project icon (etcd).",
+    "fullname": "etcd (black)",
+    "name": "etcd-icon-black"
+  },
+  {
+    "path": "icons/etcd/etcd-icon-color.svg",
+    "tags": [
+      "color",
+      "consensus",
+      "etcd",
+      "kv"
+    ],
+    "category": "etcd",
+    "color": "#0086C9",
+    "description": "etcd (color) CNCF project icon (etcd).",
+    "fullname": "etcd (color)",
+    "name": "etcd-icon-color"
+  },
+  {
+    "path": "icons/etcd/etcd-icon-white.svg",
+    "tags": [
+      "consensus",
+      "etcd",
+      "kv",
+      "white"
+    ],
+    "category": "etcd",
+    "color": "#0086C9",
+    "description": "etcd (white) CNCF project icon (etcd).",
+    "fullname": "etcd (white)",
+    "name": "etcd-icon-white"
+  },
+  {
+    "path": "icons/falco/falco-icon-black.svg",
+    "tags": [
+      "black",
+      "falco",
+      "runtime",
+      "security"
+    ],
+    "category": "falco",
+    "color": "#0086C9",
+    "description": "Falco (black) CNCF project icon (Falco).",
+    "fullname": "Falco (black)",
+    "name": "falco-icon-black"
+  },
+  {
+    "path": "icons/falco/falco-icon-color.svg",
+    "tags": [
+      "color",
+      "falco",
+      "runtime",
+      "security"
+    ],
+    "category": "falco",
+    "color": "#0086C9",
+    "description": "Falco (color) CNCF project icon (Falco).",
+    "fullname": "Falco (color)",
+    "name": "falco-icon-color"
+  },
+  {
+    "path": "icons/falco/falco-icon-white.svg",
+    "tags": [
+      "falco",
+      "runtime",
+      "security",
+      "white"
+    ],
+    "category": "falco",
+    "color": "#0086C9",
+    "description": "Falco (white) CNCF project icon (Falco).",
+    "fullname": "Falco (white)",
+    "name": "falco-icon-white"
+  },
+  {
+    "path": "icons/fluent-bit/fluentbit-icon-color.svg",
+    "tags": [
+      "color",
+      "fluent-bit",
+      "logging"
+    ],
+    "category": "fluent-bit",
+    "color": "#0086C9",
+    "description": "Fluentbit Icon Color CNCF project icon (Fluent Bit).",
+    "fullname": "Fluentbit Icon Color",
+    "name": "fluentbit-icon-color"
+  },
+  {
+    "path": "icons/fluentd/fluentd-icon-black.svg",
+    "tags": [
+      "black",
+      "fluentd",
+      "logging"
+    ],
+    "category": "fluentd",
+    "color": "#0086C9",
+    "description": "Fluentd (black) CNCF project icon (Fluentd).",
+    "fullname": "Fluentd (black)",
+    "name": "fluentd-icon-black"
+  },
+  {
+    "path": "icons/fluentd/fluentd-icon-color.svg",
+    "tags": [
+      "color",
+      "fluentd",
+      "logging"
+    ],
+    "category": "fluentd",
+    "color": "#0086C9",
+    "description": "Fluentd (color) CNCF project icon (Fluentd).",
+    "fullname": "Fluentd (color)",
+    "name": "fluentd-icon-color"
+  },
+  {
+    "path": "icons/fluentd/fluentd-icon-white.svg",
+    "tags": [
+      "fluentd",
+      "logging",
+      "white"
+    ],
+    "category": "fluentd",
+    "color": "#0086C9",
+    "description": "Fluentd (white) CNCF project icon (Fluentd).",
+    "fullname": "Fluentd (white)",
+    "name": "fluentd-icon-white"
+  },
+  {
+    "path": "icons/flux/flux-icon-black.svg",
+    "tags": [
+      "black",
+      "cd",
+      "flux",
+      "gitops"
+    ],
+    "category": "flux",
+    "color": "#0086C9",
+    "description": "Flux (black) CNCF project icon (Flux).",
+    "fullname": "Flux (black)",
+    "name": "flux-icon-black"
+  },
+  {
+    "path": "icons/flux/flux-icon-color.svg",
+    "tags": [
+      "cd",
+      "color",
+      "flux",
+      "gitops"
+    ],
+    "category": "flux",
+    "color": "#0086C9",
+    "description": "Flux (color) CNCF project icon (Flux).",
+    "fullname": "Flux (color)",
+    "name": "flux-icon-color"
+  },
+  {
+    "path": "icons/flux/flux-icon-white.svg",
+    "tags": [
+      "cd",
+      "flux",
+      "gitops",
+      "white"
+    ],
+    "category": "flux",
+    "color": "#0086C9",
+    "description": "Flux (white) CNCF project icon (Flux).",
+    "fullname": "Flux (white)",
+    "name": "flux-icon-white"
+  },
+  {
+    "path": "icons/grpc/grpc-icon-black.svg",
+    "tags": [
+      "black",
+      "grpc",
+      "rpc"
+    ],
+    "category": "grpc",
+    "color": "#0086C9",
+    "description": "gRPC (black) CNCF project icon (gRPC).",
+    "fullname": "gRPC (black)",
+    "name": "grpc-icon-black"
+  },
+  {
+    "path": "icons/grpc/grpc-icon-color.svg",
+    "tags": [
+      "color",
+      "grpc",
+      "rpc"
+    ],
+    "category": "grpc",
+    "color": "#0086C9",
+    "description": "gRPC (color) CNCF project icon (gRPC).",
+    "fullname": "gRPC (color)",
+    "name": "grpc-icon-color"
+  },
+  {
+    "path": "icons/grpc/grpc-icon-white.svg",
+    "tags": [
+      "grpc",
+      "rpc",
+      "white"
+    ],
+    "category": "grpc",
+    "color": "#0086C9",
+    "description": "gRPC (white) CNCF project icon (gRPC).",
+    "fullname": "gRPC (white)",
+    "name": "grpc-icon-white"
+  },
+  {
+    "path": "icons/harbor/harbor-icon-black.svg",
+    "tags": [
+      "black",
+      "harbor",
+      "registry"
+    ],
+    "category": "harbor",
+    "color": "#0086C9",
+    "description": "Harbor (black) CNCF project icon (Harbor).",
+    "fullname": "Harbor (black)",
+    "name": "harbor-icon-black"
+  },
+  {
+    "path": "icons/harbor/harbor-icon-color.svg",
+    "tags": [
+      "color",
+      "harbor",
+      "registry"
+    ],
+    "category": "harbor",
+    "color": "#0086C9",
+    "description": "Harbor (color) CNCF project icon (Harbor).",
+    "fullname": "Harbor (color)",
+    "name": "harbor-icon-color"
+  },
+  {
+    "path": "icons/harbor/harbor-icon-white.svg",
+    "tags": [
+      "harbor",
+      "registry",
+      "white"
+    ],
+    "category": "harbor",
+    "color": "#0086C9",
+    "description": "Harbor (white) CNCF project icon (Harbor).",
+    "fullname": "Harbor (white)",
+    "name": "harbor-icon-white"
+  },
+  {
+    "path": "icons/helm/helm-icon-black.svg",
+    "tags": [
+      "black",
+      "charts",
+      "helm",
+      "package"
+    ],
+    "category": "helm",
+    "color": "#0086C9",
+    "description": "Helm (black) CNCF project icon (Helm).",
+    "fullname": "Helm (black)",
+    "name": "helm-icon-black"
+  },
+  {
+    "path": "icons/helm/helm-icon-color.svg",
+    "tags": [
+      "charts",
+      "color",
+      "helm",
+      "package"
+    ],
+    "category": "helm",
+    "color": "#0086C9",
+    "description": "Helm (color) CNCF project icon (Helm).",
+    "fullname": "Helm (color)",
+    "name": "helm-icon-color"
+  },
+  {
+    "path": "icons/helm/helm-icon-white.svg",
+    "tags": [
+      "charts",
+      "helm",
+      "package",
+      "white"
+    ],
+    "category": "helm",
+    "color": "#0086C9",
+    "description": "Helm (white) CNCF project icon (Helm).",
+    "fullname": "Helm (white)",
+    "name": "helm-icon-white"
+  },
+  {
+    "path": "icons/istio/istio-icon-black.svg",
+    "tags": [
+      "black",
+      "istio",
+      "mesh",
+      "service-mesh"
+    ],
+    "category": "istio",
+    "color": "#0086C9",
+    "description": "Istio (black) CNCF project icon (Istio).",
+    "fullname": "Istio (black)",
+    "name": "istio-icon-black"
+  },
+  {
+    "path": "icons/istio/istio-icon-color.svg",
+    "tags": [
+      "color",
+      "istio",
+      "mesh",
+      "service-mesh"
+    ],
+    "category": "istio",
+    "color": "#0086C9",
+    "description": "Istio (color) CNCF project icon (Istio).",
+    "fullname": "Istio (color)",
+    "name": "istio-icon-color"
+  },
+  {
+    "path": "icons/istio/istio-icon-white.svg",
+    "tags": [
+      "istio",
+      "mesh",
+      "service-mesh",
+      "white"
+    ],
+    "category": "istio",
+    "color": "#0086C9",
+    "description": "Istio (white) CNCF project icon (Istio).",
+    "fullname": "Istio (white)",
+    "name": "istio-icon-white"
+  },
+  {
+    "path": "icons/jaeger/jaeger-icon-black.svg",
+    "tags": [
+      "black",
+      "jaeger",
+      "tracing"
+    ],
+    "category": "jaeger",
+    "color": "#0086C9",
+    "description": "Jaeger (black) CNCF project icon (Jaeger).",
+    "fullname": "Jaeger (black)",
+    "name": "jaeger-icon-black"
+  },
+  {
+    "path": "icons/jaeger/jaeger-icon-color.svg",
+    "tags": [
+      "color",
+      "jaeger",
+      "tracing"
+    ],
+    "category": "jaeger",
+    "color": "#0086C9",
+    "description": "Jaeger (color) CNCF project icon (Jaeger).",
+    "fullname": "Jaeger (color)",
+    "name": "jaeger-icon-color"
+  },
+  {
+    "path": "icons/jaeger/jaeger-icon-white.svg",
+    "tags": [
+      "jaeger",
+      "tracing",
+      "white"
+    ],
+    "category": "jaeger",
+    "color": "#0086C9",
+    "description": "Jaeger (white) CNCF project icon (Jaeger).",
+    "fullname": "Jaeger (white)",
+    "name": "jaeger-icon-white"
+  },
+  {
+    "path": "icons/jaeger/jaeger-icon-reverse-color.svg",
+    "tags": [
+      "color",
+      "jaeger",
+      "tracing"
+    ],
+    "category": "jaeger",
+    "color": "#0086C9",
+    "description": "Jaeger Icon Reverse Color CNCF project icon (Jaeger).",
+    "fullname": "Jaeger Icon Reverse Color",
+    "name": "jaeger-icon-reverse-color"
+  },
+  {
+    "path": "icons/k8s-control-plane/api-labeled.svg",
+    "tags": [
+      "control-plane",
+      "k8s",
+      "k8s-control-plane",
+      "labeled"
+    ],
+    "category": "k8s-control-plane",
+    "color": "#326CE5",
+    "description": "API Server (labeled) Kubernetes architecture icon (Kubernetes Control Plane).",
+    "fullname": "API Server (labeled)",
+    "name": "api-labeled"
+  },
+  {
+    "path": "icons/k8s-control-plane/c-c-m-labeled.svg",
+    "tags": [
+      "control-plane",
+      "k8s",
+      "k8s-control-plane",
+      "labeled"
+    ],
+    "category": "k8s-control-plane",
+    "color": "#326CE5",
+    "description": "Cloud Controller Manager (labeled) Kubernetes architecture icon (Kubernetes Control Plane).",
+    "fullname": "Cloud Controller Manager (labeled)",
+    "name": "c-c-m-labeled"
+  },
+  {
+    "path": "icons/k8s-control-plane/c-m-labeled.svg",
+    "tags": [
+      "control-plane",
+      "k8s",
+      "k8s-control-plane",
+      "labeled"
+    ],
+    "category": "k8s-control-plane",
+    "color": "#326CE5",
+    "description": "Controller Manager (labeled) Kubernetes architecture icon (Kubernetes Control Plane).",
+    "fullname": "Controller Manager (labeled)",
+    "name": "c-m-labeled"
+  },
+  {
+    "path": "icons/k8s-control-plane/k-proxy-labeled.svg",
+    "tags": [
+      "control-plane",
+      "k8s",
+      "k8s-control-plane",
+      "labeled"
+    ],
+    "category": "k8s-control-plane",
+    "color": "#326CE5",
+    "description": "Kube Proxy (labeled) Kubernetes architecture icon (Kubernetes Control Plane).",
+    "fullname": "Kube Proxy (labeled)",
+    "name": "k-proxy-labeled"
+  },
+  {
+    "path": "icons/k8s-control-plane/kubelet-labeled.svg",
+    "tags": [
+      "control-plane",
+      "k8s",
+      "k8s-control-plane",
+      "labeled"
+    ],
+    "category": "k8s-control-plane",
+    "color": "#326CE5",
+    "description": "Kubelet (labeled) Kubernetes architecture icon (Kubernetes Control Plane).",
+    "fullname": "Kubelet (labeled)",
+    "name": "kubelet-labeled"
+  },
+  {
+    "path": "icons/k8s-control-plane/sched-labeled.svg",
+    "tags": [
+      "control-plane",
+      "k8s",
+      "k8s-control-plane",
+      "labeled"
+    ],
+    "category": "k8s-control-plane",
+    "color": "#326CE5",
+    "description": "Scheduler (labeled) Kubernetes architecture icon (Kubernetes Control Plane).",
+    "fullname": "Scheduler (labeled)",
+    "name": "sched-labeled"
+  },
+  {
+    "path": "icons/k8s-infrastructure/control-plane.svg",
+    "tags": [
+      "infrastructure",
+      "k8s",
+      "k8s-infrastructure",
+      "unlabeled"
+    ],
+    "category": "k8s-infrastructure",
+    "color": "#326CE5",
+    "description": "Control Plane Kubernetes architecture icon (Kubernetes Infrastructure).",
+    "fullname": "Control Plane",
+    "name": "control-plane"
+  },
+  {
+    "path": "icons/k8s-infrastructure/control-plane-labeled.svg",
+    "tags": [
+      "infrastructure",
+      "k8s",
+      "k8s-infrastructure",
+      "labeled"
+    ],
+    "category": "k8s-infrastructure",
+    "color": "#326CE5",
+    "description": "Control Plane (labeled) Kubernetes architecture icon (Kubernetes Infrastructure).",
+    "fullname": "Control Plane (labeled)",
+    "name": "control-plane-labeled"
+  },
+  {
+    "path": "icons/k8s-infrastructure/etcd.svg",
+    "tags": [
+      "infrastructure",
+      "k8s",
+      "k8s-infrastructure",
+      "unlabeled"
+    ],
+    "category": "k8s-infrastructure",
+    "color": "#326CE5",
+    "description": "etcd Kubernetes architecture icon (Kubernetes Infrastructure).",
+    "fullname": "etcd",
+    "name": "etcd"
+  },
+  {
+    "path": "icons/k8s-infrastructure/etcd-labeled.svg",
+    "tags": [
+      "infrastructure",
+      "k8s",
+      "k8s-infrastructure",
+      "labeled"
+    ],
+    "category": "k8s-infrastructure",
+    "color": "#326CE5",
+    "description": "etcd (labeled) Kubernetes architecture icon (Kubernetes Infrastructure).",
+    "fullname": "etcd (labeled)",
+    "name": "etcd-labeled"
+  },
+  {
+    "path": "icons/k8s-infrastructure/node.svg",
+    "tags": [
+      "infrastructure",
+      "k8s",
+      "k8s-infrastructure",
+      "unlabeled"
+    ],
+    "category": "k8s-infrastructure",
+    "color": "#326CE5",
+    "description": "Node Kubernetes architecture icon (Kubernetes Infrastructure).",
+    "fullname": "Node",
+    "name": "node"
+  },
+  {
+    "path": "icons/k8s-infrastructure/node-labeled.svg",
+    "tags": [
+      "infrastructure",
+      "k8s",
+      "k8s-infrastructure",
+      "labeled"
+    ],
+    "category": "k8s-infrastructure",
+    "color": "#326CE5",
+    "description": "Node (labeled) Kubernetes architecture icon (Kubernetes Infrastructure).",
+    "fullname": "Node (labeled)",
+    "name": "node-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/c-role.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Cluster Role Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Cluster Role",
+    "name": "c-role"
+  },
+  {
+    "path": "icons/k8s-resources/c-role-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Cluster Role (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Cluster Role (labeled)",
+    "name": "c-role-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/crb.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Cluster Role Binding Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Cluster Role Binding",
+    "name": "crb"
+  },
+  {
+    "path": "icons/k8s-resources/crb-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Cluster Role Binding (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Cluster Role Binding (labeled)",
+    "name": "crb-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/cm.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "ConfigMap Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "ConfigMap",
+    "name": "cm"
+  },
+  {
+    "path": "icons/k8s-resources/cm-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "ConfigMap (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "ConfigMap (labeled)",
+    "name": "cm-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/cronjob.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "CronJob Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "CronJob",
+    "name": "cronjob"
+  },
+  {
+    "path": "icons/k8s-resources/cronjob-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "CronJob (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "CronJob (labeled)",
+    "name": "cronjob-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/crd.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Custom Resource Definition Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Custom Resource Definition",
+    "name": "crd"
+  },
+  {
+    "path": "icons/k8s-resources/crd-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Custom Resource Definition (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Custom Resource Definition (labeled)",
+    "name": "crd-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/ds.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "DaemonSet Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "DaemonSet",
+    "name": "ds"
+  },
+  {
+    "path": "icons/k8s-resources/ds-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "DaemonSet (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "DaemonSet (labeled)",
+    "name": "ds-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/deploy.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Deployment Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Deployment",
+    "name": "deploy"
+  },
+  {
+    "path": "icons/k8s-resources/deploy-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Deployment (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Deployment (labeled)",
+    "name": "deploy-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/ep.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Endpoints Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Endpoints",
+    "name": "ep"
+  },
+  {
+    "path": "icons/k8s-resources/ep-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Endpoints (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Endpoints (labeled)",
+    "name": "ep-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/group.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Group Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Group",
+    "name": "group"
+  },
+  {
+    "path": "icons/k8s-resources/group-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Group (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Group (labeled)",
+    "name": "group-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/hpa.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Horizontal Pod Autoscaler Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Horizontal Pod Autoscaler",
+    "name": "hpa"
+  },
+  {
+    "path": "icons/k8s-resources/hpa-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Horizontal Pod Autoscaler (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Horizontal Pod Autoscaler (labeled)",
+    "name": "hpa-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/ing.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Ingress Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Ingress",
+    "name": "ing"
+  },
+  {
+    "path": "icons/k8s-resources/ing-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Ingress (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Ingress (labeled)",
+    "name": "ing-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/job.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Job Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Job",
+    "name": "job"
+  },
+  {
+    "path": "icons/k8s-resources/job-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Job (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Job (labeled)",
+    "name": "job-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/limits.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Limit Range Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Limit Range",
+    "name": "limits"
+  },
+  {
+    "path": "icons/k8s-resources/limits-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Limit Range (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Limit Range (labeled)",
+    "name": "limits-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/ns.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Namespace Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Namespace",
+    "name": "ns"
+  },
+  {
+    "path": "icons/k8s-resources/ns-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Namespace (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Namespace (labeled)",
+    "name": "ns-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/netpol.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Network Policy Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Network Policy",
+    "name": "netpol"
+  },
+  {
+    "path": "icons/k8s-resources/netpol-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Network Policy (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Network Policy (labeled)",
+    "name": "netpol-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/pv.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Persistent Volume Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Persistent Volume",
+    "name": "pv"
+  },
+  {
+    "path": "icons/k8s-resources/pv-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Persistent Volume (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Persistent Volume (labeled)",
+    "name": "pv-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/pvc.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Persistent Volume Claim Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Persistent Volume Claim",
+    "name": "pvc"
+  },
+  {
+    "path": "icons/k8s-resources/pvc-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Persistent Volume Claim (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Persistent Volume Claim (labeled)",
+    "name": "pvc-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/pod.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Pod Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Pod",
+    "name": "pod"
+  },
+  {
+    "path": "icons/k8s-resources/pod-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Pod (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Pod (labeled)",
+    "name": "pod-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/psp.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Pod Security Policy Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Pod Security Policy",
+    "name": "psp"
+  },
+  {
+    "path": "icons/k8s-resources/psp-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Pod Security Policy (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Pod Security Policy (labeled)",
+    "name": "psp-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/rs.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "ReplicaSet Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "ReplicaSet",
+    "name": "rs"
+  },
+  {
+    "path": "icons/k8s-resources/rs-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "ReplicaSet (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "ReplicaSet (labeled)",
+    "name": "rs-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/quota.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Resource Quota Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Resource Quota",
+    "name": "quota"
+  },
+  {
+    "path": "icons/k8s-resources/quota-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Resource Quota (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Resource Quota (labeled)",
+    "name": "quota-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/role.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Role Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Role",
+    "name": "role"
+  },
+  {
+    "path": "icons/k8s-resources/role-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Role (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Role (labeled)",
+    "name": "role-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/rb.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Role Binding Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Role Binding",
+    "name": "rb"
+  },
+  {
+    "path": "icons/k8s-resources/rb-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Role Binding (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Role Binding (labeled)",
+    "name": "rb-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/secret.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Secret Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Secret",
+    "name": "secret"
+  },
+  {
+    "path": "icons/k8s-resources/secret-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Secret (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Secret (labeled)",
+    "name": "secret-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/svc.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Service Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Service",
+    "name": "svc"
+  },
+  {
+    "path": "icons/k8s-resources/svc-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Service (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Service (labeled)",
+    "name": "svc-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/sa.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Service Account Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Service Account",
+    "name": "sa"
+  },
+  {
+    "path": "icons/k8s-resources/sa-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Service Account (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Service Account (labeled)",
+    "name": "sa-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/sts.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "StatefulSet Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "StatefulSet",
+    "name": "sts"
+  },
+  {
+    "path": "icons/k8s-resources/sts-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "StatefulSet (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "StatefulSet (labeled)",
+    "name": "sts-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/sc.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Storage Class Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Storage Class",
+    "name": "sc"
+  },
+  {
+    "path": "icons/k8s-resources/sc-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Storage Class (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Storage Class (labeled)",
+    "name": "sc-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/user.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "User Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "User",
+    "name": "user"
+  },
+  {
+    "path": "icons/k8s-resources/user-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "User (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "User (labeled)",
+    "name": "user-labeled"
+  },
+  {
+    "path": "icons/k8s-resources/vol.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "resources",
+      "unlabeled"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Volume Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Volume",
+    "name": "vol"
+  },
+  {
+    "path": "icons/k8s-resources/vol-labeled.svg",
+    "tags": [
+      "k8s",
+      "k8s-resources",
+      "labeled",
+      "resources"
+    ],
+    "category": "k8s-resources",
+    "color": "#326CE5",
+    "description": "Volume (labeled) Kubernetes architecture icon (Kubernetes Resources).",
+    "fullname": "Volume (labeled)",
+    "name": "vol-labeled"
+  },
+  {
+    "path": "icons/knative/knative-icon-color.svg",
+    "tags": [
+      "color",
+      "knative",
+      "serverless"
+    ],
+    "category": "knative",
+    "color": "#0086C9",
+    "description": "Knative (color) CNCF project icon (Knative).",
+    "fullname": "Knative (color)",
+    "name": "knative-icon-color"
+  },
+  {
+    "path": "icons/kubernetes/kubernetes-icon-black.svg",
+    "tags": [
+      "black",
+      "k8s",
+      "kubernetes"
+    ],
+    "category": "kubernetes",
+    "color": "#326CE5",
+    "description": "Kubernetes (black) CNCF project icon (Kubernetes).",
+    "fullname": "Kubernetes (black)",
+    "name": "kubernetes-icon-black"
+  },
+  {
+    "path": "icons/kubernetes/kubernetes-icon-color.svg",
+    "tags": [
+      "color",
+      "k8s",
+      "kubernetes"
+    ],
+    "category": "kubernetes",
+    "color": "#326CE5",
+    "description": "Kubernetes (color) CNCF project icon (Kubernetes).",
+    "fullname": "Kubernetes (color)",
+    "name": "kubernetes-icon-color"
+  },
+  {
+    "path": "icons/kubernetes/kubernetes-icon-white.svg",
+    "tags": [
+      "k8s",
+      "kubernetes",
+      "white"
+    ],
+    "category": "kubernetes",
+    "color": "#326CE5",
+    "description": "Kubernetes (white) CNCF project icon (Kubernetes).",
+    "fullname": "Kubernetes (white)",
+    "name": "kubernetes-icon-white"
+  },
+  {
+    "path": "icons/kyverno/kyverno-icon-black.svg",
+    "tags": [
+      "black",
+      "kyverno",
+      "policy"
+    ],
+    "category": "kyverno",
+    "color": "#0086C9",
+    "description": "Kyverno (black) CNCF project icon (Kyverno).",
+    "fullname": "Kyverno (black)",
+    "name": "kyverno-icon-black"
+  },
+  {
+    "path": "icons/kyverno/kyverno-icon-color.svg",
+    "tags": [
+      "color",
+      "kyverno",
+      "policy"
+    ],
+    "category": "kyverno",
+    "color": "#0086C9",
+    "description": "Kyverno (color) CNCF project icon (Kyverno).",
+    "fullname": "Kyverno (color)",
+    "name": "kyverno-icon-color"
+  },
+  {
+    "path": "icons/kyverno/kyverno-icon-white.svg",
+    "tags": [
+      "kyverno",
+      "policy",
+      "white"
+    ],
+    "category": "kyverno",
+    "color": "#0086C9",
+    "description": "Kyverno (white) CNCF project icon (Kyverno).",
+    "fullname": "Kyverno (white)",
+    "name": "kyverno-icon-white"
+  },
+  {
+    "path": "icons/linkerd/linkerd-icon-black.svg",
+    "tags": [
+      "black",
+      "linkerd",
+      "mesh",
+      "service-mesh"
+    ],
+    "category": "linkerd",
+    "color": "#0086C9",
+    "description": "Linkerd (black) CNCF project icon (Linkerd).",
+    "fullname": "Linkerd (black)",
+    "name": "linkerd-icon-black"
+  },
+  {
+    "path": "icons/linkerd/linkerd-icon-color.svg",
+    "tags": [
+      "color",
+      "linkerd",
+      "mesh",
+      "service-mesh"
+    ],
+    "category": "linkerd",
+    "color": "#0086C9",
+    "description": "Linkerd (color) CNCF project icon (Linkerd).",
+    "fullname": "Linkerd (color)",
+    "name": "linkerd-icon-color"
+  },
+  {
+    "path": "icons/linkerd/linkerd-icon-white.svg",
+    "tags": [
+      "linkerd",
+      "mesh",
+      "service-mesh",
+      "white"
+    ],
+    "category": "linkerd",
+    "color": "#0086C9",
+    "description": "Linkerd (white) CNCF project icon (Linkerd).",
+    "fullname": "Linkerd (white)",
+    "name": "linkerd-icon-white"
+  },
+  {
+    "path": "icons/linkerd/linkerd-icon-wireframe.svg",
+    "tags": [
+      "linkerd",
+      "mesh",
+      "service-mesh"
+    ],
+    "category": "linkerd",
+    "color": "#0086C9",
+    "description": "Linkerd Icon Wireframe CNCF project icon (Linkerd).",
+    "fullname": "Linkerd Icon Wireframe",
+    "name": "linkerd-icon-wireframe"
+  },
+  {
+    "path": "icons/nats/nats-icon-black.svg",
+    "tags": [
+      "black",
+      "messaging",
+      "nats"
+    ],
+    "category": "nats",
+    "color": "#0086C9",
+    "description": "NATS (black) CNCF project icon (NATS).",
+    "fullname": "NATS (black)",
+    "name": "nats-icon-black"
+  },
+  {
+    "path": "icons/nats/nats-icon-color.svg",
+    "tags": [
+      "color",
+      "messaging",
+      "nats"
+    ],
+    "category": "nats",
+    "color": "#0086C9",
+    "description": "NATS (color) CNCF project icon (NATS).",
+    "fullname": "NATS (color)",
+    "name": "nats-icon-color"
+  },
+  {
+    "path": "icons/nats/nats-icon-white.svg",
+    "tags": [
+      "messaging",
+      "nats",
+      "white"
+    ],
+    "category": "nats",
+    "color": "#0086C9",
+    "description": "NATS (white) CNCF project icon (NATS).",
+    "fullname": "NATS (white)",
+    "name": "nats-icon-white"
+  },
+  {
+    "path": "icons/open-policy-agent/opa-icon-black.svg",
+    "tags": [
+      "black",
+      "opa",
+      "open-policy-agent",
+      "policy"
+    ],
+    "category": "open-policy-agent",
+    "color": "#0086C9",
+    "description": "OPA Icon Black CNCF project icon (Open Policy Agent).",
+    "fullname": "OPA Icon Black",
+    "name": "opa-icon-black"
+  },
+  {
+    "path": "icons/open-policy-agent/opa-icon-color.svg",
+    "tags": [
+      "color",
+      "opa",
+      "open-policy-agent",
+      "policy"
+    ],
+    "category": "open-policy-agent",
+    "color": "#0086C9",
+    "description": "OPA Icon Color CNCF project icon (Open Policy Agent).",
+    "fullname": "OPA Icon Color",
+    "name": "opa-icon-color"
+  },
+  {
+    "path": "icons/open-policy-agent/opa-icon-white.svg",
+    "tags": [
+      "opa",
+      "open-policy-agent",
+      "policy",
+      "white"
+    ],
+    "category": "open-policy-agent",
+    "color": "#0086C9",
+    "description": "OPA Icon White CNCF project icon (Open Policy Agent).",
+    "fullname": "OPA Icon White",
+    "name": "opa-icon-white"
+  },
+  {
+    "path": "icons/opentelemetry/opentelemetry-icon-black.svg",
+    "tags": [
+      "black",
+      "observability",
+      "opentelemetry",
+      "otel"
+    ],
+    "category": "opentelemetry",
+    "color": "#0086C9",
+    "description": "OpenTelemetry (black) CNCF project icon (OpenTelemetry).",
+    "fullname": "OpenTelemetry (black)",
+    "name": "opentelemetry-icon-black"
+  },
+  {
+    "path": "icons/opentelemetry/opentelemetry-icon-color.svg",
+    "tags": [
+      "color",
+      "observability",
+      "opentelemetry",
+      "otel"
+    ],
+    "category": "opentelemetry",
+    "color": "#0086C9",
+    "description": "OpenTelemetry (color) CNCF project icon (OpenTelemetry).",
+    "fullname": "OpenTelemetry (color)",
+    "name": "opentelemetry-icon-color"
+  },
+  {
+    "path": "icons/opentelemetry/opentelemetry-icon-white.svg",
+    "tags": [
+      "observability",
+      "opentelemetry",
+      "otel",
+      "white"
+    ],
+    "category": "opentelemetry",
+    "color": "#0086C9",
+    "description": "OpenTelemetry (white) CNCF project icon (OpenTelemetry).",
+    "fullname": "OpenTelemetry (white)",
+    "name": "opentelemetry-icon-white"
+  },
+  {
+    "path": "icons/prometheus/prometheus-icon-black.svg",
+    "tags": [
+      "black",
+      "metrics",
+      "monitoring",
+      "prometheus"
+    ],
+    "category": "prometheus",
+    "color": "#0086C9",
+    "description": "Prometheus (black) CNCF project icon (Prometheus).",
+    "fullname": "Prometheus (black)",
+    "name": "prometheus-icon-black"
+  },
+  {
+    "path": "icons/prometheus/prometheus-icon-color.svg",
+    "tags": [
+      "color",
+      "metrics",
+      "monitoring",
+      "prometheus"
+    ],
+    "category": "prometheus",
+    "color": "#0086C9",
+    "description": "Prometheus (color) CNCF project icon (Prometheus).",
+    "fullname": "Prometheus (color)",
+    "name": "prometheus-icon-color"
+  },
+  {
+    "path": "icons/prometheus/prometheus-icon-white.svg",
+    "tags": [
+      "metrics",
+      "monitoring",
+      "prometheus",
+      "white"
+    ],
+    "category": "prometheus",
+    "color": "#0086C9",
+    "description": "Prometheus (white) CNCF project icon (Prometheus).",
+    "fullname": "Prometheus (white)",
+    "name": "prometheus-icon-white"
+  },
+  {
+    "path": "icons/rook/rook-icon-black.svg",
+    "tags": [
+      "black",
+      "ceph",
+      "rook",
+      "storage"
+    ],
+    "category": "rook",
+    "color": "#0086C9",
+    "description": "Rook (black) CNCF project icon (Rook).",
+    "fullname": "Rook (black)",
+    "name": "rook-icon-black"
+  },
+  {
+    "path": "icons/rook/rook-icon-color.svg",
+    "tags": [
+      "ceph",
+      "color",
+      "rook",
+      "storage"
+    ],
+    "category": "rook",
+    "color": "#0086C9",
+    "description": "Rook (color) CNCF project icon (Rook).",
+    "fullname": "Rook (color)",
+    "name": "rook-icon-color"
+  },
+  {
+    "path": "icons/rook/rook-icon-white.svg",
+    "tags": [
+      "ceph",
+      "rook",
+      "storage",
+      "white"
+    ],
+    "category": "rook",
+    "color": "#0086C9",
+    "description": "Rook (white) CNCF project icon (Rook).",
+    "fullname": "Rook (white)",
+    "name": "rook-icon-white"
+  },
+  {
+    "path": "icons/spiffe/spiffe-icon-black.svg",
+    "tags": [
+      "black",
+      "identity",
+      "spiffe"
+    ],
+    "category": "spiffe",
+    "color": "#0086C9",
+    "description": "SPIFFE (black) CNCF project icon (SPIFFE).",
+    "fullname": "SPIFFE (black)",
+    "name": "spiffe-icon-black"
+  },
+  {
+    "path": "icons/spiffe/spiffe-icon-color.svg",
+    "tags": [
+      "color",
+      "identity",
+      "spiffe"
+    ],
+    "category": "spiffe",
+    "color": "#0086C9",
+    "description": "SPIFFE (color) CNCF project icon (SPIFFE).",
+    "fullname": "SPIFFE (color)",
+    "name": "spiffe-icon-color"
+  },
+  {
+    "path": "icons/spiffe/spiffe-icon-white.svg",
+    "tags": [
+      "identity",
+      "spiffe",
+      "white"
+    ],
+    "category": "spiffe",
+    "color": "#0086C9",
+    "description": "SPIFFE (white) CNCF project icon (SPIFFE).",
+    "fullname": "SPIFFE (white)",
+    "name": "spiffe-icon-white"
+  },
+  {
+    "path": "icons/spire/spire-icon-black.svg",
+    "tags": [
+      "black",
+      "identity",
+      "spire"
+    ],
+    "category": "spire",
+    "color": "#0086C9",
+    "description": "SPIRE (black) CNCF project icon (SPIRE).",
+    "fullname": "SPIRE (black)",
+    "name": "spire-icon-black"
+  },
+  {
+    "path": "icons/spire/spire-icon-color.svg",
+    "tags": [
+      "color",
+      "identity",
+      "spire"
+    ],
+    "category": "spire",
+    "color": "#0086C9",
+    "description": "SPIRE (color) CNCF project icon (SPIRE).",
+    "fullname": "SPIRE (color)",
+    "name": "spire-icon-color"
+  },
+  {
+    "path": "icons/spire/spire-icon-white.svg",
+    "tags": [
+      "identity",
+      "spire",
+      "white"
+    ],
+    "category": "spire",
+    "color": "#0086C9",
+    "description": "SPIRE (white) CNCF project icon (SPIRE).",
+    "fullname": "SPIRE (white)",
+    "name": "spire-icon-white"
+  },
+  {
+    "path": "icons/tekton/tekton-icon-black.svg",
+    "tags": [
+      "black",
+      "ci",
+      "pipelines",
+      "tekton"
+    ],
+    "category": "tekton",
+    "color": "#0086C9",
+    "description": "Tekton (black) CNCF project icon (Tekton).",
+    "fullname": "Tekton (black)",
+    "name": "tekton-icon-black"
+  },
+  {
+    "path": "icons/tekton/tekton-icon-color.svg",
+    "tags": [
+      "ci",
+      "color",
+      "pipelines",
+      "tekton"
+    ],
+    "category": "tekton",
+    "color": "#0086C9",
+    "description": "Tekton (color) CNCF project icon (Tekton).",
+    "fullname": "Tekton (color)",
+    "name": "tekton-icon-color"
+  },
+  {
+    "path": "icons/tekton/tekton-icon-white.svg",
+    "tags": [
+      "ci",
+      "pipelines",
+      "tekton",
+      "white"
+    ],
+    "category": "tekton",
+    "color": "#0086C9",
+    "description": "Tekton (white) CNCF project icon (Tekton).",
+    "fullname": "Tekton (white)",
+    "name": "tekton-icon-white"
+  },
+  {
+    "path": "icons/thanos/thanos-icon-black.svg",
+    "tags": [
+      "black",
+      "metrics",
+      "prometheus",
+      "thanos"
+    ],
+    "category": "thanos",
+    "color": "#0086C9",
+    "description": "Thanos (black) CNCF project icon (Thanos).",
+    "fullname": "Thanos (black)",
+    "name": "thanos-icon-black"
+  },
+  {
+    "path": "icons/thanos/thanos-icon-color.svg",
+    "tags": [
+      "color",
+      "metrics",
+      "prometheus",
+      "thanos"
+    ],
+    "category": "thanos",
+    "color": "#0086C9",
+    "description": "Thanos (color) CNCF project icon (Thanos).",
+    "fullname": "Thanos (color)",
+    "name": "thanos-icon-color"
+  },
+  {
+    "path": "icons/thanos/thanos-icon-white.svg",
+    "tags": [
+      "metrics",
+      "prometheus",
+      "thanos",
+      "white"
+    ],
+    "category": "thanos",
+    "color": "#0086C9",
+    "description": "Thanos (white) CNCF project icon (Thanos).",
+    "fullname": "Thanos (white)",
+    "name": "thanos-icon-white"
+  }
+]
