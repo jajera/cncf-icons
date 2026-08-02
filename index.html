@@ -1,0 +1,537 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>CNCF Icons</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+        content="Searchable library of CNCF project icons and Kubernetes architecture icons. Browse, copy, and download SVG or PNG service icons.">
+    <meta name="theme-color" content="#0086C9">
+    <link rel="canonical" href="https://jajera.github.io/cncf-icons/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="CNCF Icons">
+    <meta property="og:title" content="CNCF Icons">
+    <meta property="og:description"
+        content="Searchable library of CNCF project icons and Kubernetes architecture icons. Browse, copy, and download SVG or PNG service icons.">
+    <meta property="og:url" content="https://jajera.github.io/cncf-icons/">
+    <meta property="og:image" content="https://jajera.github.io/cncf-icons/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="CNCF Icons — searchable icon library">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CNCF Icons">
+    <meta name="twitter:description"
+        content="Searchable library of CNCF project icons and Kubernetes architecture icons. Browse, copy, and download SVG or PNG service icons.">
+    <meta name="twitter:image" content="https://jajera.github.io/cncf-icons/og-image.png">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <header class="header">
+        <h1><a href="https://jajera.github.io/cncf-icons/" class="header-title-link">CNCF Icons</a></h1>
+        <div class="header-actions">
+            <a href="https://github.com/jajera/cncf-icons" class="github-button" aria-label="View on GitHub"
+                target="_blank" rel="noopener noreferrer">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <path
+                        d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" />
+                </svg>
+            </a>
+            <button id="darkModeToggle" class="dark-mode-toggle" aria-label="Toggle dark mode" type="button">
+                <span class="dark-mode-icon" aria-hidden="true">🌙</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="container">
+        <p class="page-intro">Browse and copy CNCF project icons and Kubernetes architecture icons for diagrams and docs.</p>
+
+        <div class="search-header">
+            <label for="search" class="sr-only">Search icons</label>
+            <input id="search" type="search" placeholder="Search by name, tag, or abbreviation" class="search-input"
+                autocomplete="off" spellcheck="false">
+            <div id="iconCount" class="icon-count" aria-live="polite"></div>
+        </div>
+
+        <div class="tags-section">
+            <div class="tags-header">
+                <button id="tagsToggle" class="tags-toggle" aria-label="Toggle tags filter" type="button"
+                    aria-expanded="false" aria-controls="tags">
+                    <span id="tagsToggleText">Show Tags</span>
+                    <span id="tagsToggleIcon" aria-hidden="true">▼</span>
+                </button>
+                <div id="activeTags" class="active-tags"></div>
+            </div>
+            <div id="tags" class="tags tags-collapsed"></div>
+        </div>
+
+        <div id="grid" class="grid"></div>
+        <div id="emptyState" class="empty-state" hidden>
+            No icons match your search. Try a different name or clear the active tags.
+        </div>
+
+        <button id="backToTop" class="back-to-top" aria-label="Back to top" title="Back to top" type="button">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z" />
+            </svg>
+        </button>
+
+                <p class="note">
+            Project icons are from
+            <a href="https://github.com/cncf/artwork" target="_blank"
+                rel="noopener noreferrer">cncf/artwork</a>.
+            Kubernetes architecture icons are from
+            <a href="https://github.com/kubernetes/community" target="_blank"
+                rel="noopener noreferrer">kubernetes/community</a>.
+            Marks are trademarks of their respective owners / the CNCF.
+        </p>
+    </main>
+
+    <script>
+        const PNG_SIZE = 512;
+        const state = { q: "", tags: new Set(), data: [] };
+
+        const CATEGORY_LABELS = {
+            "argo": "Argo",
+            "backstage": "Backstage",
+            "cilium": "Cilium",
+            "containerd": "containerd",
+            "coredns": "CoreDNS",
+            "crio": "CRI-O",
+            "crossplane": "Crossplane",
+            "dapr": "Dapr",
+            "envoy": "Envoy",
+            "etcd": "etcd",
+            "falco": "Falco",
+            "fluent-bit": "Fluent Bit",
+            "fluentd": "Fluentd",
+            "flux": "Flux",
+            "grpc": "gRPC",
+            "harbor": "Harbor",
+            "helm": "Helm",
+            "istio": "Istio",
+            "jaeger": "Jaeger",
+            "k8s-control-plane": "Kubernetes Control Plane",
+            "k8s-infrastructure": "Kubernetes Infrastructure",
+            "k8s-resources": "Kubernetes Resources",
+            "knative": "Knative",
+            "kubernetes": "Kubernetes",
+            "kyverno": "Kyverno",
+            "linkerd": "Linkerd",
+            "nats": "NATS",
+            "open-policy-agent": "Open Policy Agent",
+            "opentelemetry": "OpenTelemetry",
+            "prometheus": "Prometheus",
+            "rook": "Rook",
+            "spiffe": "SPIFFE",
+            "spire": "SPIRE",
+            "tekton": "Tekton",
+            "thanos": "Thanos",
+            "color": "Color",
+            "black": "Black",
+            "white": "White",
+            "labeled": "Labeled",
+            "unlabeled": "Unlabeled",
+            "k8s": "K8s"
+        };
+
+        function escapeHtml(value) {
+            return String(value ?? "")
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#39;");
+        }
+
+        function labelForTag(tag) {
+            return CATEGORY_LABELS[tag] || tag;
+        }
+
+        function initDarkMode() {
+            const saved = localStorage.getItem("darkMode");
+            const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+            const isDark = saved !== null ? saved === "true" : systemPrefersDark;
+
+            const html = document.documentElement;
+            if (isDark) {
+                html.classList.add("dark");
+                html.classList.remove("light-mode");
+            } else {
+                html.classList.remove("dark");
+                html.classList.add("light-mode");
+            }
+            updateDarkModeIcon(isDark);
+        }
+
+        function updateDarkModeIcon(isDark) {
+            const icon = document.getElementById("darkModeToggle")?.querySelector(".dark-mode-icon");
+            if (icon) {
+                icon.textContent = isDark ? "☀️" : "🌙";
+            }
+        }
+
+        function toggleDarkMode() {
+            const html = document.documentElement;
+            const isDark = html.classList.toggle("dark");
+            if (isDark) {
+                html.classList.remove("light-mode");
+            } else {
+                html.classList.add("light-mode");
+            }
+            localStorage.setItem("darkMode", isDark.toString());
+            updateDarkModeIcon(isDark);
+        }
+
+        function getParams() {
+            const u = new URL(location.href);
+            const q = u.searchParams.get("q") || "";
+            const tags = (u.searchParams.get("tags") || "").split(",").filter(Boolean);
+            return { q, tags };
+        }
+
+        function setParams() {
+            const u = new URL(location.href);
+            const tags = [...state.tags].join(",");
+            if (state.q) u.searchParams.set("q", state.q);
+            else u.searchParams.delete("q");
+            if (tags) u.searchParams.set("tags", tags);
+            else u.searchParams.delete("tags");
+            history.replaceState(null, "", u);
+        }
+
+        function renderTags() {
+            const categoryTags = new Set();
+            const otherTags = new Map();
+            state.data.forEach(i => {
+                if (i.category) categoryTags.add(i.category);
+                (i.tags || []).forEach(t => {
+                    if (t === i.category) return;
+                    otherTags.set(t, (otherTags.get(t) || 0) + 1);
+                });
+            });
+
+            const aliasTags = [...otherTags.keys()].sort();
+            const all = [...categoryTags].sort().concat(aliasTags.filter(t => !categoryTags.has(t)));
+            const wrap = document.getElementById("tags");
+            const activeWrap = document.getElementById("activeTags");
+            wrap.innerHTML = "";
+            activeWrap.innerHTML = "";
+
+            if (state.tags.size > 0) {
+                [...state.tags].sort().forEach(t => {
+                    const b = document.createElement("button");
+                    b.type = "button";
+                    b.textContent = labelForTag(t);
+                    b.className = "chip chip_on chip-active";
+                    b.onclick = () => {
+                        state.tags.delete(t);
+                        setParams();
+                        render();
+                        renderTags();
+                    };
+                    activeWrap.appendChild(b);
+                });
+            }
+
+            all.forEach(t => {
+                const b = document.createElement("button");
+                b.type = "button";
+                b.textContent = labelForTag(t);
+                b.className = state.tags.has(t) ? "chip chip_on" : "chip";
+                b.onclick = () => {
+                    if (state.tags.has(t)) state.tags.delete(t);
+                    else state.tags.add(t);
+                    setParams();
+                    render();
+                    renderTags();
+                };
+                wrap.appendChild(b);
+            });
+        }
+
+        function matches(i) {
+            const q = state.q.toLowerCase().trim();
+            const nameHit = i.name && i.name.toLowerCase().includes(q);
+            const fullnameHit = i.fullname && i.fullname.toLowerCase().includes(q);
+            const tagHit = i.tags && i.tags.some(t => t.toLowerCase().includes(q));
+            const categoryHit = i.category && i.category.toLowerCase().includes(q);
+            const tagsOk = state.tags.size === 0 || [...state.tags].every(t => i.tags && i.tags.includes(t));
+            return (q ? (nameHit || fullnameHit || tagHit || categoryHit) : true) && tagsOk;
+        }
+
+        async function svgToPng(svgPath, size = PNG_SIZE) {
+            const svgText = await fetch(svgPath).then(r => {
+                if (!r.ok) throw new Error(`Failed to fetch ${svgPath}`);
+                return r.text();
+            });
+            const parser = new DOMParser();
+            const svgDoc = parser.parseFromString(svgText, "image/svg+xml");
+            const svgElement = svgDoc.documentElement;
+
+            let width = Number(svgElement.getAttribute("width")) || size;
+            let height = Number(svgElement.getAttribute("height")) || size;
+            const viewBox = svgElement.getAttribute("viewBox");
+            if (viewBox) {
+                const parts = viewBox.trim().split(/[\s,]+/).map(Number);
+                if (parts.length === 4 && parts[2] > 0 && parts[3] > 0) {
+                    width = parts[2];
+                    height = parts[3];
+                }
+            }
+
+            const scale = size / Math.max(width, height);
+            const outW = Math.max(1, Math.round(width * scale));
+            const outH = Math.max(1, Math.round(height * scale));
+
+            const img = new Image();
+            const svgBlob = new Blob([svgText], { type: "image/svg+xml" });
+            const url = URL.createObjectURL(svgBlob);
+
+            return new Promise((resolve, reject) => {
+                img.onload = () => {
+                    const canvas = document.createElement("canvas");
+                    canvas.width = outW;
+                    canvas.height = outH;
+                    const ctx = canvas.getContext("2d");
+                    ctx.clearRect(0, 0, outW, outH);
+                    ctx.drawImage(img, 0, 0, outW, outH);
+                    canvas.toBlob((blob) => {
+                        URL.revokeObjectURL(url);
+                        if (!blob) reject(new Error("PNG conversion failed"));
+                        else resolve(blob);
+                    }, "image/png");
+                };
+                img.onerror = () => {
+                    URL.revokeObjectURL(url);
+                    reject(new Error("Failed to load SVG for PNG conversion"));
+                };
+                img.src = url;
+            });
+        }
+
+        async function withButtonFeedback(button, action) {
+            const old = button.getAttribute("data-label") || button.getAttribute("title") || "Done";
+            try {
+                await action();
+                button.classList.add("action-btn-ok");
+                button.title = "Copied";
+                setTimeout(() => {
+                    button.classList.remove("action-btn-ok");
+                    button.title = old;
+                }, 1000);
+            } catch (err) {
+                console.error(err);
+                button.title = "Failed";
+                setTimeout(() => { button.title = old; }, 1200);
+            }
+        }
+
+        async function copySvg(icon, button) {
+            await withButtonFeedback(button, async () => {
+                const svg = await fetch(icon.path).then(r => r.text());
+                await navigator.clipboard.writeText(svg);
+            });
+        }
+
+        async function copyPng(icon, button) {
+            await withButtonFeedback(button, async () => {
+                const blob = await svgToPng(icon.path);
+                await navigator.clipboard.write([
+                    new ClipboardItem({ "image/png": blob })
+                ]);
+            });
+        }
+
+        async function downloadSvg(icon) {
+            const svg = await fetch(icon.path).then(r => r.text());
+            const blob = new Blob([svg], { type: "image/svg+xml" });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = icon.path.split("/").pop();
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        async function downloadPng(icon) {
+            const blob = await svgToPng(icon.path);
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = icon.path.split("/").pop().replace(/\.svg$/i, ".png");
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        function render() {
+            const grid = document.getElementById("grid");
+            const emptyState = document.getElementById("emptyState");
+            grid.innerHTML = "";
+            const frag = document.createDocumentFragment();
+
+            const filteredIcons = state.data.filter(matches);
+            const count = filteredIcons.length;
+            const total = state.data.length;
+
+            const countElement = document.getElementById("iconCount");
+            if (countElement) {
+                countElement.textContent = count === total
+                    ? `${total} icons`
+                    : `${count} of ${total} icons`;
+            }
+
+            emptyState.hidden = count !== 0;
+
+            filteredIcons.forEach(icon => {
+                const card = document.createElement("div");
+                card.className = "card";
+
+                const displayName = icon.fullname || icon.name || "Unknown";
+                const description = (icon.description && String(icon.description).trim())
+                    || `${displayName} icon.`;
+                const categoryLabel = labelForTag(icon.category || "other");
+                const safeName = escapeHtml(displayName);
+                const safeDescription = escapeHtml(description);
+                const safePath = escapeHtml(icon.path);
+                const safeCategory = escapeHtml(categoryLabel);
+                const isWhite = (icon.tags || []).includes("white")
+                    || /(?:^|[-_])white(?:\.svg)?$/i.test(icon.name || icon.path || "");
+                const surfaceClass = isWhite ? " icon-container-on-dark" : "";
+
+                card.innerHTML = `
+          <div class="icon-container icon-container-service${surfaceClass}">
+            <img src="${safePath}" alt="${safeName}" class="icon-image" loading="lazy" width="72" height="72">
+            <div class="card-actions">
+              <button type="button" class="action-btn copy-svg" aria-label="Copy SVG" title="Copy SVG" data-label="Copy SVG">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/>
+                </svg>
+              </button>
+              <button type="button" class="action-btn copy-png" aria-label="Copy PNG" title="Copy PNG" data-label="Copy PNG">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zm-5.04-6.71l-2.75 3.54-1.96-2.36L6.5 17h11l-3.54-4.71z"/>
+                </svg>
+              </button>
+              <button type="button" class="action-btn download-svg" aria-label="Download SVG" title="Download SVG">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+                </svg>
+                <span class="action-badge">SVG</span>
+              </button>
+              <button type="button" class="action-btn download-png" aria-label="Download PNG" title="Download PNG">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+                </svg>
+                <span class="action-badge">PNG</span>
+              </button>
+            </div>
+          </div>
+          <div class="icon-tooltip">
+            <div class="tooltip-title">${safeName}</div>
+            <div class="tooltip-category">${safeCategory}</div>
+            <div class="tooltip-description">${safeDescription}</div>
+          </div>
+          <div class="card-content">
+            <div class="name">${safeName}</div>
+          </div>
+        `;
+
+                card.querySelector(".copy-svg").onclick = (e) => {
+                    e.stopPropagation();
+                    copySvg(icon, e.currentTarget);
+                };
+                card.querySelector(".copy-png").onclick = (e) => {
+                    e.stopPropagation();
+                    copyPng(icon, e.currentTarget);
+                };
+                card.querySelector(".download-svg").onclick = (e) => {
+                    e.stopPropagation();
+                    downloadSvg(icon).catch(console.error);
+                };
+                card.querySelector(".download-png").onclick = (e) => {
+                    e.stopPropagation();
+                    downloadPng(icon).catch(console.error);
+                };
+
+                frag.appendChild(card);
+            });
+
+            grid.appendChild(frag);
+        }
+
+        function initTagsToggle() {
+            const toggle = document.getElementById("tagsToggle");
+            const tagsContainer = document.getElementById("tags");
+            const toggleText = document.getElementById("tagsToggleText");
+            const toggleIcon = document.getElementById("tagsToggleIcon");
+
+            toggle.onclick = () => {
+                tagsContainer.classList.toggle("tags-collapsed");
+                const isCollapsed = tagsContainer.classList.contains("tags-collapsed");
+                toggleText.textContent = isCollapsed ? "Show Tags" : "Hide Tags";
+                toggleIcon.textContent = isCollapsed ? "▼" : "▲";
+                toggle.setAttribute("aria-expanded", String(!isCollapsed));
+            };
+        }
+
+        function initBackToTop() {
+            const backToTopBtn = document.getElementById("backToTop");
+
+            function toggleBackToTop() {
+                if (window.scrollY > 300) {
+                    backToTopBtn.classList.add("visible");
+                } else {
+                    backToTopBtn.classList.remove("visible");
+                }
+            }
+
+            window.addEventListener("scroll", toggleBackToTop, { passive: true });
+
+            backToTopBtn.onclick = () => {
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            };
+        }
+
+        async function init() {
+            initDarkMode();
+            initTagsToggle();
+            initBackToTop();
+
+            document.getElementById("darkModeToggle").onclick = toggleDarkMode;
+
+            const p = getParams();
+            state.q = p.q;
+            state.tags = new Set(p.tags);
+            document.getElementById("search").value = state.q;
+
+            try {
+                const response = await fetch("icons.json");
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                state.data = await response.json();
+            } catch (err) {
+                console.error("Failed to load icons.json:", err);
+                document.getElementById("emptyState").hidden = false;
+                document.getElementById("emptyState").textContent =
+                    "Could not load icon metadata. Serve this folder over HTTP and refresh.";
+                document.getElementById("iconCount").textContent = "0 icons";
+                return;
+            }
+
+            renderTags();
+            render();
+        }
+
+        document.getElementById("search").addEventListener("input", e => {
+            state.q = e.target.value;
+            setParams();
+            render();
+        });
+
+        init();
+    </script>
+</body>
+
+</html>
