@@ -1,5 +1,185 @@
 [
   {
+    "path": "icons/aerakimesh/aerakimesh-icon-black.svg",
+    "tags": [
+      "aerakimesh",
+      "black"
+    ],
+    "category": "aerakimesh",
+    "color": "#0086C9",
+    "description": "Aerakimesh (black) CNCF project icon (Aerakimesh).",
+    "fullname": "Aerakimesh (black)",
+    "name": "aerakimesh-icon-black"
+  },
+  {
+    "path": "icons/aerakimesh/aerakimesh-icon-color.svg",
+    "tags": [
+      "aerakimesh",
+      "color"
+    ],
+    "category": "aerakimesh",
+    "color": "#0086C9",
+    "description": "Aerakimesh (color) CNCF project icon (Aerakimesh).",
+    "fullname": "Aerakimesh (color)",
+    "name": "aerakimesh-icon-color"
+  },
+  {
+    "path": "icons/aerakimesh/aerakimesh-icon-white.svg",
+    "tags": [
+      "aerakimesh",
+      "white"
+    ],
+    "category": "aerakimesh",
+    "color": "#0086C9",
+    "description": "Aerakimesh (white) CNCF project icon (Aerakimesh).",
+    "fullname": "Aerakimesh (white)",
+    "name": "aerakimesh-icon-white"
+  },
+  {
+    "path": "icons/agones/agones-icon-black.svg",
+    "tags": [
+      "agones",
+      "black"
+    ],
+    "category": "agones",
+    "color": "#0086C9",
+    "description": "Agones (black) CNCF project icon (Agones).",
+    "fullname": "Agones (black)",
+    "name": "agones-icon-black"
+  },
+  {
+    "path": "icons/agones/agones-icon-color.svg",
+    "tags": [
+      "agones",
+      "color"
+    ],
+    "category": "agones",
+    "color": "#0086C9",
+    "description": "Agones (color) CNCF project icon (Agones).",
+    "fullname": "Agones (color)",
+    "name": "agones-icon-color"
+  },
+  {
+    "path": "icons/agones/agones-icon-white.svg",
+    "tags": [
+      "agones",
+      "white"
+    ],
+    "category": "agones",
+    "color": "#0086C9",
+    "description": "Agones (white) CNCF project icon (Agones).",
+    "fullname": "Agones (white)",
+    "name": "agones-icon-white"
+  },
+  {
+    "path": "icons/akri/akri-icon-black.svg",
+    "tags": [
+      "akri",
+      "black"
+    ],
+    "category": "akri",
+    "color": "#0086C9",
+    "description": "Akri (black) CNCF project icon (Akri).",
+    "fullname": "Akri (black)",
+    "name": "akri-icon-black"
+  },
+  {
+    "path": "icons/akri/akri-icon-color.svg",
+    "tags": [
+      "akri",
+      "color"
+    ],
+    "category": "akri",
+    "color": "#0086C9",
+    "description": "Akri (color) CNCF project icon (Akri).",
+    "fullname": "Akri (color)",
+    "name": "akri-icon-color"
+  },
+  {
+    "path": "icons/akri/akri-icon-white.svg",
+    "tags": [
+      "akri",
+      "white"
+    ],
+    "category": "akri",
+    "color": "#0086C9",
+    "description": "Akri (white) CNCF project icon (Akri).",
+    "fullname": "Akri (white)",
+    "name": "akri-icon-white"
+  },
+  {
+    "path": "icons/antrea/antrea-icon-black.svg",
+    "tags": [
+      "antrea",
+      "black"
+    ],
+    "category": "antrea",
+    "color": "#0086C9",
+    "description": "Antrea (black) CNCF project icon (Antrea).",
+    "fullname": "Antrea (black)",
+    "name": "antrea-icon-black"
+  },
+  {
+    "path": "icons/antrea/antrea-icon-color.svg",
+    "tags": [
+      "antrea",
+      "color"
+    ],
+    "category": "antrea",
+    "color": "#0086C9",
+    "description": "Antrea (color) CNCF project icon (Antrea).",
+    "fullname": "Antrea (color)",
+    "name": "antrea-icon-color"
+  },
+  {
+    "path": "icons/antrea/antrea-icon-white.svg",
+    "tags": [
+      "antrea",
+      "white"
+    ],
+    "category": "antrea",
+    "color": "#0086C9",
+    "description": "Antrea (white) CNCF project icon (Antrea).",
+    "fullname": "Antrea (white)",
+    "name": "antrea-icon-white"
+  },
+  {
+    "path": "icons/apicurio-registry/apicurio-registry-icon-black.svg",
+    "tags": [
+      "apicurio-registry",
+      "black"
+    ],
+    "category": "apicurio-registry",
+    "color": "#0086C9",
+    "description": "Apicurio Registry (black) CNCF project icon (Apicurio Registry).",
+    "fullname": "Apicurio Registry (black)",
+    "name": "apicurio-registry-icon-black"
+  },
+  {
+    "path": "icons/apicurio-registry/apicurio-registry-icon-color.svg",
+    "tags": [
+      "apicurio-registry",
+      "color"
+    ],
+    "category": "apicurio-registry",
+    "color": "#0086C9",
+    "description": "Apicurio Registry (color) CNCF project icon (Apicurio Registry).",
+    "fullname": "Apicurio Registry (color)",
+    "name": "apicurio-registry-icon-color"
+  },
+  {
+    "path": "icons/apicurio-registry/apicurio-registry-icon-white.svg",
+    "tags": [
+      "apicurio-registry",
+      "white"
+    ],
+    "category": "apicurio-registry",
+    "color": "#0086C9",
+    "description": "Apicurio Registry (white) CNCF project icon (Apicurio Registry).",
+    "fullname": "Apicurio Registry (white)",
+    "name": "apicurio-registry-icon-white"
+  },
+  {
     "path": "icons/argo/argo-icon-black.svg",
     "tags": [
       "argo",
@@ -45,6 +225,156 @@
     "name": "argo-icon-white"
   },
   {
+    "path": "icons/armada/armada-icon-black.svg",
+    "tags": [
+      "armada",
+      "black"
+    ],
+    "category": "armada",
+    "color": "#0086C9",
+    "description": "Armada (black) CNCF project icon (Armada).",
+    "fullname": "Armada (black)",
+    "name": "armada-icon-black"
+  },
+  {
+    "path": "icons/armada/armada-icon-color.svg",
+    "tags": [
+      "armada",
+      "color"
+    ],
+    "category": "armada",
+    "color": "#0086C9",
+    "description": "Armada (color) CNCF project icon (Armada).",
+    "fullname": "Armada (color)",
+    "name": "armada-icon-color"
+  },
+  {
+    "path": "icons/armada/armada-icon-white.svg",
+    "tags": [
+      "armada",
+      "white"
+    ],
+    "category": "armada",
+    "color": "#0086C9",
+    "description": "Armada (white) CNCF project icon (Armada).",
+    "fullname": "Armada (white)",
+    "name": "armada-icon-white"
+  },
+  {
+    "path": "icons/artifact-hub/artifact-hub-icon-black.svg",
+    "tags": [
+      "artifact-hub",
+      "black",
+      "helm",
+      "registry"
+    ],
+    "category": "artifact-hub",
+    "color": "#0086C9",
+    "description": "Artifact Hub (black) CNCF project icon (Artifact Hub).",
+    "fullname": "Artifact Hub (black)",
+    "name": "artifact-hub-icon-black"
+  },
+  {
+    "path": "icons/artifact-hub/artifact-hub-icon-color.svg",
+    "tags": [
+      "artifact-hub",
+      "color",
+      "helm",
+      "registry"
+    ],
+    "category": "artifact-hub",
+    "color": "#0086C9",
+    "description": "Artifact Hub (color) CNCF project icon (Artifact Hub).",
+    "fullname": "Artifact Hub (color)",
+    "name": "artifact-hub-icon-color"
+  },
+  {
+    "path": "icons/artifact-hub/artifact-hub-icon-white.svg",
+    "tags": [
+      "artifact-hub",
+      "helm",
+      "registry",
+      "white"
+    ],
+    "category": "artifact-hub",
+    "color": "#0086C9",
+    "description": "Artifact Hub (white) CNCF project icon (Artifact Hub).",
+    "fullname": "Artifact Hub (white)",
+    "name": "artifact-hub-icon-white"
+  },
+  {
+    "path": "icons/athenz/athenz-icon-black.svg",
+    "tags": [
+      "athenz",
+      "black"
+    ],
+    "category": "athenz",
+    "color": "#0086C9",
+    "description": "Athenz (black) CNCF project icon (Athenz).",
+    "fullname": "Athenz (black)",
+    "name": "athenz-icon-black"
+  },
+  {
+    "path": "icons/athenz/athenz-icon-color.svg",
+    "tags": [
+      "athenz",
+      "color"
+    ],
+    "category": "athenz",
+    "color": "#0086C9",
+    "description": "Athenz (color) CNCF project icon (Athenz).",
+    "fullname": "Athenz (color)",
+    "name": "athenz-icon-color"
+  },
+  {
+    "path": "icons/athenz/athenz-icon-white.svg",
+    "tags": [
+      "athenz",
+      "white"
+    ],
+    "category": "athenz",
+    "color": "#0086C9",
+    "description": "Athenz (white) CNCF project icon (Athenz).",
+    "fullname": "Athenz (white)",
+    "name": "athenz-icon-white"
+  },
+  {
+    "path": "icons/atlantis/atlantis-icon-black.svg",
+    "tags": [
+      "atlantis",
+      "black"
+    ],
+    "category": "atlantis",
+    "color": "#0086C9",
+    "description": "Atlantis (black) CNCF project icon (Atlantis).",
+    "fullname": "Atlantis (black)",
+    "name": "atlantis-icon-black"
+  },
+  {
+    "path": "icons/atlantis/atlantis-icon-color.svg",
+    "tags": [
+      "atlantis",
+      "color"
+    ],
+    "category": "atlantis",
+    "color": "#0086C9",
+    "description": "Atlantis (color) CNCF project icon (Atlantis).",
+    "fullname": "Atlantis (color)",
+    "name": "atlantis-icon-color"
+  },
+  {
+    "path": "icons/atlantis/atlantis-icon-white.svg",
+    "tags": [
+      "atlantis",
+      "white"
+    ],
+    "category": "atlantis",
+    "color": "#0086C9",
+    "description": "Atlantis (white) CNCF project icon (Atlantis).",
+    "fullname": "Atlantis (white)",
+    "name": "atlantis-icon-white"
+  },
+  {
     "path": "icons/backstage/backstage-icon-black.svg",
     "tags": [
       "backstage",
@@ -85,6 +415,528 @@
     "description": "Backstage (white) CNCF project icon (Backstage).",
     "fullname": "Backstage (white)",
     "name": "backstage-icon-white"
+  },
+  {
+    "path": "icons/bank-vaults/bank-vaults-icon-black.svg",
+    "tags": [
+      "bank-vaults",
+      "black"
+    ],
+    "category": "bank-vaults",
+    "color": "#0086C9",
+    "description": "Bank Vaults (black) CNCF project icon (Bank Vaults).",
+    "fullname": "Bank Vaults (black)",
+    "name": "bank-vaults-icon-black"
+  },
+  {
+    "path": "icons/bank-vaults/bank-vaults-icon-color.svg",
+    "tags": [
+      "bank-vaults",
+      "color"
+    ],
+    "category": "bank-vaults",
+    "color": "#0086C9",
+    "description": "Bank Vaults (color) CNCF project icon (Bank Vaults).",
+    "fullname": "Bank Vaults (color)",
+    "name": "bank-vaults-icon-color"
+  },
+  {
+    "path": "icons/bank-vaults/bank-vaults-icon-white.svg",
+    "tags": [
+      "bank-vaults",
+      "white"
+    ],
+    "category": "bank-vaults",
+    "color": "#0086C9",
+    "description": "Bank Vaults (white) CNCF project icon (Bank Vaults).",
+    "fullname": "Bank Vaults (white)",
+    "name": "bank-vaults-icon-white"
+  },
+  {
+    "path": "icons/bfe/bfe-icon-black.svg",
+    "tags": [
+      "bfe",
+      "black"
+    ],
+    "category": "bfe",
+    "color": "#0086C9",
+    "description": "Bfe (black) CNCF project icon (Bfe).",
+    "fullname": "Bfe (black)",
+    "name": "bfe-icon-black"
+  },
+  {
+    "path": "icons/bfe/bfe-icon-color.svg",
+    "tags": [
+      "bfe",
+      "color"
+    ],
+    "category": "bfe",
+    "color": "#0086C9",
+    "description": "Bfe (color) CNCF project icon (Bfe).",
+    "fullname": "Bfe (color)",
+    "name": "bfe-icon-color"
+  },
+  {
+    "path": "icons/bfe/bfe-icon-white.svg",
+    "tags": [
+      "bfe",
+      "white"
+    ],
+    "category": "bfe",
+    "color": "#0086C9",
+    "description": "Bfe (white) CNCF project icon (Bfe).",
+    "fullname": "Bfe (white)",
+    "name": "bfe-icon-white"
+  },
+  {
+    "path": "icons/bootc/bootc-icon-black.svg",
+    "tags": [
+      "black",
+      "bootc"
+    ],
+    "category": "bootc",
+    "color": "#0086C9",
+    "description": "Bootc (black) CNCF project icon (Bootc).",
+    "fullname": "Bootc (black)",
+    "name": "bootc-icon-black"
+  },
+  {
+    "path": "icons/bootc/bootc-icon-color.svg",
+    "tags": [
+      "bootc",
+      "color"
+    ],
+    "category": "bootc",
+    "color": "#0086C9",
+    "description": "Bootc (color) CNCF project icon (Bootc).",
+    "fullname": "Bootc (color)",
+    "name": "bootc-icon-color"
+  },
+  {
+    "path": "icons/bootc/bootc-icon-white.svg",
+    "tags": [
+      "bootc",
+      "white"
+    ],
+    "category": "bootc",
+    "color": "#0086C9",
+    "description": "Bootc (white) CNCF project icon (Bootc).",
+    "fullname": "Bootc (white)",
+    "name": "bootc-icon-white"
+  },
+  {
+    "path": "icons/bpfman/bpfman-icon-black.svg",
+    "tags": [
+      "black",
+      "bpfman"
+    ],
+    "category": "bpfman",
+    "color": "#0086C9",
+    "description": "bpfman (black) CNCF project icon (bpfman).",
+    "fullname": "bpfman (black)",
+    "name": "bpfman-icon-black"
+  },
+  {
+    "path": "icons/bpfman/bpfman-icon-color.svg",
+    "tags": [
+      "bpfman",
+      "color"
+    ],
+    "category": "bpfman",
+    "color": "#0086C9",
+    "description": "bpfman (color) CNCF project icon (bpfman).",
+    "fullname": "bpfman (color)",
+    "name": "bpfman-icon-color"
+  },
+  {
+    "path": "icons/bpfman/bpfman-icon-white.svg",
+    "tags": [
+      "bpfman",
+      "white"
+    ],
+    "category": "bpfman",
+    "color": "#0086C9",
+    "description": "bpfman (white) CNCF project icon (bpfman).",
+    "fullname": "bpfman (white)",
+    "name": "bpfman-icon-white"
+  },
+  {
+    "path": "icons/buildpacks/buildpacks-icon-black.svg",
+    "tags": [
+      "black",
+      "build",
+      "buildpacks",
+      "oci"
+    ],
+    "category": "buildpacks",
+    "color": "#0086C9",
+    "description": "Buildpacks (black) CNCF project icon (Buildpacks).",
+    "fullname": "Buildpacks (black)",
+    "name": "buildpacks-icon-black"
+  },
+  {
+    "path": "icons/buildpacks/buildpacks-icon-color.svg",
+    "tags": [
+      "build",
+      "buildpacks",
+      "color",
+      "oci"
+    ],
+    "category": "buildpacks",
+    "color": "#0086C9",
+    "description": "Buildpacks (color) CNCF project icon (Buildpacks).",
+    "fullname": "Buildpacks (color)",
+    "name": "buildpacks-icon-color"
+  },
+  {
+    "path": "icons/buildpacks/buildpacks-icon-white.svg",
+    "tags": [
+      "build",
+      "buildpacks",
+      "oci",
+      "white"
+    ],
+    "category": "buildpacks",
+    "color": "#0086C9",
+    "description": "Buildpacks (white) CNCF project icon (Buildpacks).",
+    "fullname": "Buildpacks (white)",
+    "name": "buildpacks-icon-white"
+  },
+  {
+    "path": "icons/cadence/cadence-icon-black.svg",
+    "tags": [
+      "black",
+      "cadence"
+    ],
+    "category": "cadence",
+    "color": "#0086C9",
+    "description": "Cadence (black) CNCF project icon (Cadence).",
+    "fullname": "Cadence (black)",
+    "name": "cadence-icon-black"
+  },
+  {
+    "path": "icons/cadence/cadence-icon-color.svg",
+    "tags": [
+      "cadence",
+      "color"
+    ],
+    "category": "cadence",
+    "color": "#0086C9",
+    "description": "Cadence (color) CNCF project icon (Cadence).",
+    "fullname": "Cadence (color)",
+    "name": "cadence-icon-color"
+  },
+  {
+    "path": "icons/cadence/cadence-icon-white.svg",
+    "tags": [
+      "cadence",
+      "white"
+    ],
+    "category": "cadence",
+    "color": "#0086C9",
+    "description": "Cadence (white) CNCF project icon (Cadence).",
+    "fullname": "Cadence (white)",
+    "name": "cadence-icon-white"
+  },
+  {
+    "path": "icons/capsule/capsule-icon-black.svg",
+    "tags": [
+      "black",
+      "capsule"
+    ],
+    "category": "capsule",
+    "color": "#0086C9",
+    "description": "Capsule (black) CNCF project icon (Capsule).",
+    "fullname": "Capsule (black)",
+    "name": "capsule-icon-black"
+  },
+  {
+    "path": "icons/capsule/capsule-icon-color.svg",
+    "tags": [
+      "capsule",
+      "color"
+    ],
+    "category": "capsule",
+    "color": "#0086C9",
+    "description": "Capsule (color) CNCF project icon (Capsule).",
+    "fullname": "Capsule (color)",
+    "name": "capsule-icon-color"
+  },
+  {
+    "path": "icons/capsule/capsule-icon-white.svg",
+    "tags": [
+      "capsule",
+      "white"
+    ],
+    "category": "capsule",
+    "color": "#0086C9",
+    "description": "Capsule (white) CNCF project icon (Capsule).",
+    "fullname": "Capsule (white)",
+    "name": "capsule-icon-white"
+  },
+  {
+    "path": "icons/carina/carina-icon-black.svg",
+    "tags": [
+      "black",
+      "carina"
+    ],
+    "category": "carina",
+    "color": "#0086C9",
+    "description": "Carina (black) CNCF project icon (Carina).",
+    "fullname": "Carina (black)",
+    "name": "carina-icon-black"
+  },
+  {
+    "path": "icons/carina/carina-icon-color.svg",
+    "tags": [
+      "carina",
+      "color"
+    ],
+    "category": "carina",
+    "color": "#0086C9",
+    "description": "Carina (color) CNCF project icon (Carina).",
+    "fullname": "Carina (color)",
+    "name": "carina-icon-color"
+  },
+  {
+    "path": "icons/carina/carina-icon-white.svg",
+    "tags": [
+      "carina",
+      "white"
+    ],
+    "category": "carina",
+    "color": "#0086C9",
+    "description": "Carina (white) CNCF project icon (Carina).",
+    "fullname": "Carina (white)",
+    "name": "carina-icon-white"
+  },
+  {
+    "path": "icons/carvel/carvel-icon-black.svg",
+    "tags": [
+      "black",
+      "carvel"
+    ],
+    "category": "carvel",
+    "color": "#0086C9",
+    "description": "Carvel (black) CNCF project icon (Carvel).",
+    "fullname": "Carvel (black)",
+    "name": "carvel-icon-black"
+  },
+  {
+    "path": "icons/carvel/carvel-icon-color.svg",
+    "tags": [
+      "carvel",
+      "color"
+    ],
+    "category": "carvel",
+    "color": "#0086C9",
+    "description": "Carvel (color) CNCF project icon (Carvel).",
+    "fullname": "Carvel (color)",
+    "name": "carvel-icon-color"
+  },
+  {
+    "path": "icons/carvel/carvel-icon-white.svg",
+    "tags": [
+      "carvel",
+      "white"
+    ],
+    "category": "carvel",
+    "color": "#0086C9",
+    "description": "Carvel (white) CNCF project icon (Carvel).",
+    "fullname": "Carvel (white)",
+    "name": "carvel-icon-white"
+  },
+  {
+    "path": "icons/cdk8s/cdk8s-icon-black.svg",
+    "tags": [
+      "black",
+      "cdk8s"
+    ],
+    "category": "cdk8s",
+    "color": "#0086C9",
+    "description": "cdk8s (black) CNCF project icon (cdk8s).",
+    "fullname": "cdk8s (black)",
+    "name": "cdk8s-icon-black"
+  },
+  {
+    "path": "icons/cdk8s/cdk8s-icon-color.svg",
+    "tags": [
+      "cdk8s",
+      "color"
+    ],
+    "category": "cdk8s",
+    "color": "#0086C9",
+    "description": "cdk8s (color) CNCF project icon (cdk8s).",
+    "fullname": "cdk8s (color)",
+    "name": "cdk8s-icon-color"
+  },
+  {
+    "path": "icons/cdk8s/cdk8s-icon-white.svg",
+    "tags": [
+      "cdk8s",
+      "white"
+    ],
+    "category": "cdk8s",
+    "color": "#0086C9",
+    "description": "cdk8s (white) CNCF project icon (cdk8s).",
+    "fullname": "cdk8s (white)",
+    "name": "cdk8s-icon-white"
+  },
+  {
+    "path": "icons/cert-manager/cert-manager-icon-black.svg",
+    "tags": [
+      "black",
+      "cert-manager",
+      "certificates",
+      "tls"
+    ],
+    "category": "cert-manager",
+    "color": "#0086C9",
+    "description": "cert-manager (black) CNCF project icon (cert-manager).",
+    "fullname": "cert-manager (black)",
+    "name": "cert-manager-icon-black"
+  },
+  {
+    "path": "icons/cert-manager/cert-manager-icon-color.svg",
+    "tags": [
+      "cert-manager",
+      "certificates",
+      "color",
+      "tls"
+    ],
+    "category": "cert-manager",
+    "color": "#0086C9",
+    "description": "cert-manager (color) CNCF project icon (cert-manager).",
+    "fullname": "cert-manager (color)",
+    "name": "cert-manager-icon-color"
+  },
+  {
+    "path": "icons/cert-manager/cert-manager-icon-white.svg",
+    "tags": [
+      "cert-manager",
+      "certificates",
+      "tls",
+      "white"
+    ],
+    "category": "cert-manager",
+    "color": "#0086C9",
+    "description": "cert-manager (white) CNCF project icon (cert-manager).",
+    "fullname": "cert-manager (white)",
+    "name": "cert-manager-icon-white"
+  },
+  {
+    "path": "icons/chaos-mesh/chaos-mesh-icon-black.svg",
+    "tags": [
+      "black",
+      "chaos",
+      "chaos-mesh",
+      "testing"
+    ],
+    "category": "chaos-mesh",
+    "color": "#0086C9",
+    "description": "Chaos Mesh (black) CNCF project icon (Chaos Mesh).",
+    "fullname": "Chaos Mesh (black)",
+    "name": "chaos-mesh-icon-black"
+  },
+  {
+    "path": "icons/chaos-mesh/chaos-mesh-icon-color.svg",
+    "tags": [
+      "chaos",
+      "chaos-mesh",
+      "color",
+      "testing"
+    ],
+    "category": "chaos-mesh",
+    "color": "#0086C9",
+    "description": "Chaos Mesh (color) CNCF project icon (Chaos Mesh).",
+    "fullname": "Chaos Mesh (color)",
+    "name": "chaos-mesh-icon-color"
+  },
+  {
+    "path": "icons/chaos-mesh/chaos-mesh-icon-white.svg",
+    "tags": [
+      "chaos",
+      "chaos-mesh",
+      "testing",
+      "white"
+    ],
+    "category": "chaos-mesh",
+    "color": "#0086C9",
+    "description": "Chaos Mesh (white) CNCF project icon (Chaos Mesh).",
+    "fullname": "Chaos Mesh (white)",
+    "name": "chaos-mesh-icon-white"
+  },
+  {
+    "path": "icons/chaosblade/chaosblade-icon-black.svg",
+    "tags": [
+      "black",
+      "chaosblade"
+    ],
+    "category": "chaosblade",
+    "color": "#0086C9",
+    "description": "Chaosblade (black) CNCF project icon (Chaosblade).",
+    "fullname": "Chaosblade (black)",
+    "name": "chaosblade-icon-black"
+  },
+  {
+    "path": "icons/chaosblade/chaosblade-icon-color.svg",
+    "tags": [
+      "chaosblade",
+      "color"
+    ],
+    "category": "chaosblade",
+    "color": "#0086C9",
+    "description": "Chaosblade (color) CNCF project icon (Chaosblade).",
+    "fullname": "Chaosblade (color)",
+    "name": "chaosblade-icon-color"
+  },
+  {
+    "path": "icons/chaosblade/chaosblade-icon-white.svg",
+    "tags": [
+      "chaosblade",
+      "white"
+    ],
+    "category": "chaosblade",
+    "color": "#0086C9",
+    "description": "Chaosblade (white) CNCF project icon (Chaosblade).",
+    "fullname": "Chaosblade (white)",
+    "name": "chaosblade-icon-white"
+  },
+  {
+    "path": "icons/chubaofs/chubaofs-icon-black.svg",
+    "tags": [
+      "black",
+      "chubaofs"
+    ],
+    "category": "chubaofs",
+    "color": "#0086C9",
+    "description": "Chubaofs (black) CNCF project icon (Chubaofs).",
+    "fullname": "Chubaofs (black)",
+    "name": "chubaofs-icon-black"
+  },
+  {
+    "path": "icons/chubaofs/chubaofs-icon-color.svg",
+    "tags": [
+      "chubaofs",
+      "color"
+    ],
+    "category": "chubaofs",
+    "color": "#0086C9",
+    "description": "Chubaofs (color) CNCF project icon (Chubaofs).",
+    "fullname": "Chubaofs (color)",
+    "name": "chubaofs-icon-color"
+  },
+  {
+    "path": "icons/chubaofs/chubaofs-icon-white.svg",
+    "tags": [
+      "chubaofs",
+      "white"
+    ],
+    "category": "chubaofs",
+    "color": "#0086C9",
+    "description": "Chubaofs (white) CNCF project icon (Chubaofs).",
+    "fullname": "Chubaofs (white)",
+    "name": "chubaofs-icon-white"
   },
   {
     "path": "icons/cilium/cilium_icon-black.svg",
@@ -132,6 +984,384 @@
     "name": "cilium_icon-white"
   },
   {
+    "path": "icons/cloud-custodian/cloud-custodian-icon-black.svg",
+    "tags": [
+      "black",
+      "cloud",
+      "cloud-custodian",
+      "policy"
+    ],
+    "category": "cloud-custodian",
+    "color": "#0086C9",
+    "description": "Cloud Custodian (black) CNCF project icon (Cloud Custodian).",
+    "fullname": "Cloud Custodian (black)",
+    "name": "cloud-custodian-icon-black"
+  },
+  {
+    "path": "icons/cloud-custodian/cloud-custodian-icon-color.svg",
+    "tags": [
+      "cloud",
+      "cloud-custodian",
+      "color",
+      "policy"
+    ],
+    "category": "cloud-custodian",
+    "color": "#0086C9",
+    "description": "Cloud Custodian (color) CNCF project icon (Cloud Custodian).",
+    "fullname": "Cloud Custodian (color)",
+    "name": "cloud-custodian-icon-color"
+  },
+  {
+    "path": "icons/cloud-custodian/cloud-custodian-icon-white.svg",
+    "tags": [
+      "cloud",
+      "cloud-custodian",
+      "policy",
+      "white"
+    ],
+    "category": "cloud-custodian",
+    "color": "#0086C9",
+    "description": "Cloud Custodian (white) CNCF project icon (Cloud Custodian).",
+    "fullname": "Cloud Custodian (white)",
+    "name": "cloud-custodian-icon-white"
+  },
+  {
+    "path": "icons/cloudevents/cloudevents-icon-black.svg",
+    "tags": [
+      "black",
+      "cloudevents",
+      "events"
+    ],
+    "category": "cloudevents",
+    "color": "#0086C9",
+    "description": "CloudEvents (black) CNCF project icon (CloudEvents).",
+    "fullname": "CloudEvents (black)",
+    "name": "cloudevents-icon-black"
+  },
+  {
+    "path": "icons/cloudevents/cloudevents-icon-color.svg",
+    "tags": [
+      "cloudevents",
+      "color",
+      "events"
+    ],
+    "category": "cloudevents",
+    "color": "#0086C9",
+    "description": "CloudEvents (color) CNCF project icon (CloudEvents).",
+    "fullname": "CloudEvents (color)",
+    "name": "cloudevents-icon-color"
+  },
+  {
+    "path": "icons/cloudevents/cloudevents-icon-white.svg",
+    "tags": [
+      "cloudevents",
+      "events",
+      "white"
+    ],
+    "category": "cloudevents",
+    "color": "#0086C9",
+    "description": "CloudEvents (white) CNCF project icon (CloudEvents).",
+    "fullname": "CloudEvents (white)",
+    "name": "cloudevents-icon-white"
+  },
+  {
+    "path": "icons/cloudnativepg/cloudnativepg-icon-black.svg",
+    "tags": [
+      "black",
+      "cloudnativepg"
+    ],
+    "category": "cloudnativepg",
+    "color": "#0086C9",
+    "description": "CloudNativePG (black) CNCF project icon (CloudNativePG).",
+    "fullname": "CloudNativePG (black)",
+    "name": "cloudnativepg-icon-black"
+  },
+  {
+    "path": "icons/cloudnativepg/cloudnativepg-icon-color.svg",
+    "tags": [
+      "cloudnativepg",
+      "color"
+    ],
+    "category": "cloudnativepg",
+    "color": "#0086C9",
+    "description": "CloudNativePG (color) CNCF project icon (CloudNativePG).",
+    "fullname": "CloudNativePG (color)",
+    "name": "cloudnativepg-icon-color"
+  },
+  {
+    "path": "icons/cloudnativepg/cloudnativepg-icon-white.svg",
+    "tags": [
+      "cloudnativepg",
+      "white"
+    ],
+    "category": "cloudnativepg",
+    "color": "#0086C9",
+    "description": "CloudNativePG (white) CNCF project icon (CloudNativePG).",
+    "fullname": "CloudNativePG (white)",
+    "name": "cloudnativepg-icon-white"
+  },
+  {
+    "path": "icons/clusternet/clusternet-icon-black.svg",
+    "tags": [
+      "black",
+      "clusternet"
+    ],
+    "category": "clusternet",
+    "color": "#0086C9",
+    "description": "Clusternet (black) CNCF project icon (Clusternet).",
+    "fullname": "Clusternet (black)",
+    "name": "clusternet-icon-black"
+  },
+  {
+    "path": "icons/clusternet/clusternet-icon-color.svg",
+    "tags": [
+      "clusternet",
+      "color"
+    ],
+    "category": "clusternet",
+    "color": "#0086C9",
+    "description": "Clusternet (color) CNCF project icon (Clusternet).",
+    "fullname": "Clusternet (color)",
+    "name": "clusternet-icon-color"
+  },
+  {
+    "path": "icons/clusternet/clusternet-icon-white.svg",
+    "tags": [
+      "clusternet",
+      "white"
+    ],
+    "category": "clusternet",
+    "color": "#0086C9",
+    "description": "Clusternet (white) CNCF project icon (Clusternet).",
+    "fullname": "Clusternet (white)",
+    "name": "clusternet-icon-white"
+  },
+  {
+    "path": "icons/clusterpedia/clusterpedia-icon-black.svg",
+    "tags": [
+      "black",
+      "clusterpedia"
+    ],
+    "category": "clusterpedia",
+    "color": "#0086C9",
+    "description": "Clusterpedia (black) CNCF project icon (Clusterpedia).",
+    "fullname": "Clusterpedia (black)",
+    "name": "clusterpedia-icon-black"
+  },
+  {
+    "path": "icons/clusterpedia/clusterpedia-icon-color.svg",
+    "tags": [
+      "clusterpedia",
+      "color"
+    ],
+    "category": "clusterpedia",
+    "color": "#0086C9",
+    "description": "Clusterpedia (color) CNCF project icon (Clusterpedia).",
+    "fullname": "Clusterpedia (color)",
+    "name": "clusterpedia-icon-color"
+  },
+  {
+    "path": "icons/clusterpedia/clusterpedia-icon-white.svg",
+    "tags": [
+      "clusterpedia",
+      "white"
+    ],
+    "category": "clusterpedia",
+    "color": "#0086C9",
+    "description": "Clusterpedia (white) CNCF project icon (Clusterpedia).",
+    "fullname": "Clusterpedia (white)",
+    "name": "clusterpedia-icon-white"
+  },
+  {
+    "path": "icons/cni/cni-icon-black.svg",
+    "tags": [
+      "black",
+      "cni",
+      "networking"
+    ],
+    "category": "cni",
+    "color": "#0086C9",
+    "description": "CNI (black) CNCF project icon (CNI).",
+    "fullname": "CNI (black)",
+    "name": "cni-icon-black"
+  },
+  {
+    "path": "icons/cni/cni-icon-color.svg",
+    "tags": [
+      "cni",
+      "color",
+      "networking"
+    ],
+    "category": "cni",
+    "color": "#0086C9",
+    "description": "CNI (color) CNCF project icon (CNI).",
+    "fullname": "CNI (color)",
+    "name": "cni-icon-color"
+  },
+  {
+    "path": "icons/cni/cni-icon-white.svg",
+    "tags": [
+      "cni",
+      "networking",
+      "white"
+    ],
+    "category": "cni",
+    "color": "#0086C9",
+    "description": "CNI (white) CNCF project icon (CNI).",
+    "fullname": "CNI (white)",
+    "name": "cni-icon-white"
+  },
+  {
+    "path": "icons/cohdi/cohdi-icon-black.svg",
+    "tags": [
+      "black",
+      "cohdi"
+    ],
+    "category": "cohdi",
+    "color": "#0086C9",
+    "description": "Cohdi (black) CNCF project icon (Cohdi).",
+    "fullname": "Cohdi (black)",
+    "name": "cohdi-icon-black"
+  },
+  {
+    "path": "icons/cohdi/cohdi-icon-color.svg",
+    "tags": [
+      "cohdi",
+      "color"
+    ],
+    "category": "cohdi",
+    "color": "#0086C9",
+    "description": "Cohdi (color) CNCF project icon (Cohdi).",
+    "fullname": "Cohdi (color)",
+    "name": "cohdi-icon-color"
+  },
+  {
+    "path": "icons/cohdi/cohdi-icon-white.svg",
+    "tags": [
+      "cohdi",
+      "white"
+    ],
+    "category": "cohdi",
+    "color": "#0086C9",
+    "description": "Cohdi (white) CNCF project icon (Cohdi).",
+    "fullname": "Cohdi (white)",
+    "name": "cohdi-icon-white"
+  },
+  {
+    "path": "icons/confidential-containers/confidential-containers-icon-black.svg",
+    "tags": [
+      "black",
+      "confidential-containers"
+    ],
+    "category": "confidential-containers",
+    "color": "#0086C9",
+    "description": "Confidential Containers (black) CNCF project icon (Confidential Containers).",
+    "fullname": "Confidential Containers (black)",
+    "name": "confidential-containers-icon-black"
+  },
+  {
+    "path": "icons/confidential-containers/confidential-containers-icon-color.svg",
+    "tags": [
+      "color",
+      "confidential-containers"
+    ],
+    "category": "confidential-containers",
+    "color": "#0086C9",
+    "description": "Confidential Containers (color) CNCF project icon (Confidential Containers).",
+    "fullname": "Confidential Containers (color)",
+    "name": "confidential-containers-icon-color"
+  },
+  {
+    "path": "icons/confidential-containers/confidential-containers-icon-white.svg",
+    "tags": [
+      "confidential-containers",
+      "white"
+    ],
+    "category": "confidential-containers",
+    "color": "#0086C9",
+    "description": "Confidential Containers (white) CNCF project icon (Confidential Containers).",
+    "fullname": "Confidential Containers (white)",
+    "name": "confidential-containers-icon-white"
+  },
+  {
+    "path": "icons/connect-rpc/connect-rpc-icon-black.svg",
+    "tags": [
+      "black",
+      "connect-rpc",
+      "grpc",
+      "rpc"
+    ],
+    "category": "connect-rpc",
+    "color": "#0086C9",
+    "description": "Connect RPC (black) CNCF project icon (Connect RPC).",
+    "fullname": "Connect RPC (black)",
+    "name": "connect-rpc-icon-black"
+  },
+  {
+    "path": "icons/connect-rpc/connect-rpc-icon-color.svg",
+    "tags": [
+      "color",
+      "connect-rpc",
+      "grpc",
+      "rpc"
+    ],
+    "category": "connect-rpc",
+    "color": "#0086C9",
+    "description": "Connect RPC (color) CNCF project icon (Connect RPC).",
+    "fullname": "Connect RPC (color)",
+    "name": "connect-rpc-icon-color"
+  },
+  {
+    "path": "icons/connect-rpc/connect-rpc-icon-white.svg",
+    "tags": [
+      "connect-rpc",
+      "grpc",
+      "rpc",
+      "white"
+    ],
+    "category": "connect-rpc",
+    "color": "#0086C9",
+    "description": "Connect RPC (white) CNCF project icon (Connect RPC).",
+    "fullname": "Connect RPC (white)",
+    "name": "connect-rpc-icon-white"
+  },
+  {
+    "path": "icons/container2wasm/container2wasm-icon-black.svg",
+    "tags": [
+      "black",
+      "container2wasm"
+    ],
+    "category": "container2wasm",
+    "color": "#0086C9",
+    "description": "Container2wasm (black) CNCF project icon (Container2wasm).",
+    "fullname": "Container2wasm (black)",
+    "name": "container2wasm-icon-black"
+  },
+  {
+    "path": "icons/container2wasm/container2wasm-icon-color.svg",
+    "tags": [
+      "color",
+      "container2wasm"
+    ],
+    "category": "container2wasm",
+    "color": "#0086C9",
+    "description": "Container2wasm (color) CNCF project icon (Container2wasm).",
+    "fullname": "Container2wasm (color)",
+    "name": "container2wasm-icon-color"
+  },
+  {
+    "path": "icons/container2wasm/container2wasm-icon-white.svg",
+    "tags": [
+      "container2wasm",
+      "white"
+    ],
+    "category": "container2wasm",
+    "color": "#0086C9",
+    "description": "Container2wasm (white) CNCF project icon (Container2wasm).",
+    "fullname": "Container2wasm (white)",
+    "name": "container2wasm-icon-white"
+  },
+  {
     "path": "icons/containerd/containerd-icon-black.svg",
     "tags": [
       "black",
@@ -174,6 +1404,42 @@
     "name": "containerd-icon-white"
   },
   {
+    "path": "icons/contour/contour-icon-black.svg",
+    "tags": [
+      "black",
+      "contour"
+    ],
+    "category": "contour",
+    "color": "#0086C9",
+    "description": "Contour (black) CNCF project icon (Contour).",
+    "fullname": "Contour (black)",
+    "name": "contour-icon-black"
+  },
+  {
+    "path": "icons/contour/contour-icon-color.svg",
+    "tags": [
+      "color",
+      "contour"
+    ],
+    "category": "contour",
+    "color": "#0086C9",
+    "description": "Contour (color) CNCF project icon (Contour).",
+    "fullname": "Contour (color)",
+    "name": "contour-icon-color"
+  },
+  {
+    "path": "icons/contour/contour-icon-white.svg",
+    "tags": [
+      "contour",
+      "white"
+    ],
+    "category": "contour",
+    "color": "#0086C9",
+    "description": "Contour (white) CNCF project icon (Contour).",
+    "fullname": "Contour (white)",
+    "name": "contour-icon-white"
+  },
+  {
     "path": "icons/coredns/coredns-icon-black.svg",
     "tags": [
       "black",
@@ -200,6 +1466,32 @@
     "name": "coredns-icon-color"
   },
   {
+    "path": "icons/coredns/coredns-icon-grey.svg",
+    "tags": [
+      "coredns",
+      "dns",
+      "grey"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "CoreDNS (grey) CNCF project icon (CoreDNS).",
+    "fullname": "CoreDNS (grey)",
+    "name": "coredns-icon-grey"
+  },
+  {
+    "path": "icons/coredns/coredns-icon-solid-color.svg",
+    "tags": [
+      "coredns",
+      "dns",
+      "solid-color"
+    ],
+    "category": "coredns",
+    "color": "#0086C9",
+    "description": "CoreDNS (solid-color) CNCF project icon (CoreDNS).",
+    "fullname": "CoreDNS (solid-color)",
+    "name": "coredns-icon-solid-color"
+  },
+  {
     "path": "icons/coredns/coredns-icon-white.svg",
     "tags": [
       "coredns",
@@ -213,29 +1505,76 @@
     "name": "coredns-icon-white"
   },
   {
-    "path": "icons/coredns/coredns-icon-grey.svg",
+    "path": "icons/cortex/cortex-icon-black.svg",
     "tags": [
-      "coredns",
-      "dns"
+      "black",
+      "cortex"
     ],
-    "category": "coredns",
+    "category": "cortex",
     "color": "#0086C9",
-    "description": "Coredns Icon Grey CNCF project icon (CoreDNS).",
-    "fullname": "Coredns Icon Grey",
-    "name": "coredns-icon-grey"
+    "description": "Cortex (black) CNCF project icon (Cortex).",
+    "fullname": "Cortex (black)",
+    "name": "cortex-icon-black"
   },
   {
-    "path": "icons/coredns/coredns-icon-solid-color.svg",
+    "path": "icons/cortex/cortex-icon-color.svg",
     "tags": [
       "color",
-      "coredns",
-      "dns"
+      "cortex"
     ],
-    "category": "coredns",
+    "category": "cortex",
     "color": "#0086C9",
-    "description": "Coredns Icon Solid Color CNCF project icon (CoreDNS).",
-    "fullname": "Coredns Icon Solid Color",
-    "name": "coredns-icon-solid-color"
+    "description": "Cortex (color) CNCF project icon (Cortex).",
+    "fullname": "Cortex (color)",
+    "name": "cortex-icon-color"
+  },
+  {
+    "path": "icons/cortex/cortex-icon-white.svg",
+    "tags": [
+      "cortex",
+      "white"
+    ],
+    "category": "cortex",
+    "color": "#0086C9",
+    "description": "Cortex (white) CNCF project icon (Cortex).",
+    "fullname": "Cortex (white)",
+    "name": "cortex-icon-white"
+  },
+  {
+    "path": "icons/cozystack/cozystack-icon-black.svg",
+    "tags": [
+      "black",
+      "cozystack"
+    ],
+    "category": "cozystack",
+    "color": "#0086C9",
+    "description": "Cozystack (black) CNCF project icon (Cozystack).",
+    "fullname": "Cozystack (black)",
+    "name": "cozystack-icon-black"
+  },
+  {
+    "path": "icons/cozystack/cozystack-icon-color.svg",
+    "tags": [
+      "color",
+      "cozystack"
+    ],
+    "category": "cozystack",
+    "color": "#0086C9",
+    "description": "Cozystack (color) CNCF project icon (Cozystack).",
+    "fullname": "Cozystack (color)",
+    "name": "cozystack-icon-color"
+  },
+  {
+    "path": "icons/cozystack/cozystack-icon-white.svg",
+    "tags": [
+      "cozystack",
+      "white"
+    ],
+    "category": "cozystack",
+    "color": "#0086C9",
+    "description": "Cozystack (white) CNCF project icon (Cozystack).",
+    "fullname": "Cozystack (white)",
+    "name": "cozystack-icon-white"
   },
   {
     "path": "icons/crio/crio-icon-black.svg",
@@ -322,6 +1661,78 @@
     "name": "crossplane-icon-white"
   },
   {
+    "path": "icons/cubefs/cubefs-icon-black.svg",
+    "tags": [
+      "black",
+      "cubefs"
+    ],
+    "category": "cubefs",
+    "color": "#0086C9",
+    "description": "CubeFS (black) CNCF project icon (CubeFS).",
+    "fullname": "CubeFS (black)",
+    "name": "cubefs-icon-black"
+  },
+  {
+    "path": "icons/cubefs/cubefs-icon-color.svg",
+    "tags": [
+      "color",
+      "cubefs"
+    ],
+    "category": "cubefs",
+    "color": "#0086C9",
+    "description": "CubeFS (color) CNCF project icon (CubeFS).",
+    "fullname": "CubeFS (color)",
+    "name": "cubefs-icon-color"
+  },
+  {
+    "path": "icons/cubefs/cubefs-icon-white.svg",
+    "tags": [
+      "cubefs",
+      "white"
+    ],
+    "category": "cubefs",
+    "color": "#0086C9",
+    "description": "CubeFS (white) CNCF project icon (CubeFS).",
+    "fullname": "CubeFS (white)",
+    "name": "cubefs-icon-white"
+  },
+  {
+    "path": "icons/dalec/dalec-icon-black.svg",
+    "tags": [
+      "black",
+      "dalec"
+    ],
+    "category": "dalec",
+    "color": "#0086C9",
+    "description": "Dalec (black) CNCF project icon (Dalec).",
+    "fullname": "Dalec (black)",
+    "name": "dalec-icon-black"
+  },
+  {
+    "path": "icons/dalec/dalec-icon-color.svg",
+    "tags": [
+      "color",
+      "dalec"
+    ],
+    "category": "dalec",
+    "color": "#0086C9",
+    "description": "Dalec (color) CNCF project icon (Dalec).",
+    "fullname": "Dalec (color)",
+    "name": "dalec-icon-color"
+  },
+  {
+    "path": "icons/dalec/dalec-icon-white.svg",
+    "tags": [
+      "dalec",
+      "white"
+    ],
+    "category": "dalec",
+    "color": "#0086C9",
+    "description": "Dalec (white) CNCF project icon (Dalec).",
+    "fullname": "Dalec (white)",
+    "name": "dalec-icon-white"
+  },
+  {
     "path": "icons/dapr/dapr-icon-black.svg",
     "tags": [
       "black",
@@ -362,6 +1773,278 @@
     "description": "Dapr (white) CNCF project icon (Dapr).",
     "fullname": "Dapr (white)",
     "name": "dapr-icon-white"
+  },
+  {
+    "path": "icons/devfile/devfile-icon-black.svg",
+    "tags": [
+      "black",
+      "devfile"
+    ],
+    "category": "devfile",
+    "color": "#0086C9",
+    "description": "Devfile (black) CNCF project icon (Devfile).",
+    "fullname": "Devfile (black)",
+    "name": "devfile-icon-black"
+  },
+  {
+    "path": "icons/devfile/devfile-icon-color.svg",
+    "tags": [
+      "color",
+      "devfile"
+    ],
+    "category": "devfile",
+    "color": "#0086C9",
+    "description": "Devfile (color) CNCF project icon (Devfile).",
+    "fullname": "Devfile (color)",
+    "name": "devfile-icon-color"
+  },
+  {
+    "path": "icons/devfile/devfile-icon-white.svg",
+    "tags": [
+      "devfile",
+      "white"
+    ],
+    "category": "devfile",
+    "color": "#0086C9",
+    "description": "Devfile (white) CNCF project icon (Devfile).",
+    "fullname": "Devfile (white)",
+    "name": "devfile-icon-white"
+  },
+  {
+    "path": "icons/devspace/devspace-icon-color.svg",
+    "tags": [
+      "color",
+      "dev",
+      "devspace",
+      "ide"
+    ],
+    "category": "devspace",
+    "color": "#0086C9",
+    "description": "DevSpace (color) CNCF project icon (DevSpace).",
+    "fullname": "DevSpace (color)",
+    "name": "devspace-icon-color"
+  },
+  {
+    "path": "icons/dex/dex-icon-black.svg",
+    "tags": [
+      "black",
+      "dex"
+    ],
+    "category": "dex",
+    "color": "#0086C9",
+    "description": "Dex (black) CNCF project icon (Dex).",
+    "fullname": "Dex (black)",
+    "name": "dex-icon-black"
+  },
+  {
+    "path": "icons/dex/dex-icon-color.svg",
+    "tags": [
+      "color",
+      "dex"
+    ],
+    "category": "dex",
+    "color": "#0086C9",
+    "description": "Dex (color) CNCF project icon (Dex).",
+    "fullname": "Dex (color)",
+    "name": "dex-icon-color"
+  },
+  {
+    "path": "icons/dex/dex-icon-white.svg",
+    "tags": [
+      "dex",
+      "white"
+    ],
+    "category": "dex",
+    "color": "#0086C9",
+    "description": "Dex (white) CNCF project icon (Dex).",
+    "fullname": "Dex (white)",
+    "name": "dex-icon-white"
+  },
+  {
+    "path": "icons/distribution/distribution-icon-black.svg",
+    "tags": [
+      "black",
+      "distribution"
+    ],
+    "category": "distribution",
+    "color": "#0086C9",
+    "description": "Distribution (black) CNCF project icon (Distribution).",
+    "fullname": "Distribution (black)",
+    "name": "distribution-icon-black"
+  },
+  {
+    "path": "icons/distribution/distribution-icon-color.svg",
+    "tags": [
+      "color",
+      "distribution"
+    ],
+    "category": "distribution",
+    "color": "#0086C9",
+    "description": "Distribution (color) CNCF project icon (Distribution).",
+    "fullname": "Distribution (color)",
+    "name": "distribution-icon-color"
+  },
+  {
+    "path": "icons/distribution/distribution-icon-white.svg",
+    "tags": [
+      "distribution",
+      "white"
+    ],
+    "category": "distribution",
+    "color": "#0086C9",
+    "description": "Distribution (white) CNCF project icon (Distribution).",
+    "fullname": "Distribution (white)",
+    "name": "distribution-icon-white"
+  },
+  {
+    "path": "icons/dragonfly/dragonfly-icon-black.svg",
+    "tags": [
+      "black",
+      "dragonfly",
+      "p2p",
+      "registry"
+    ],
+    "category": "dragonfly",
+    "color": "#0086C9",
+    "description": "Dragonfly (black) CNCF project icon (Dragonfly).",
+    "fullname": "Dragonfly (black)",
+    "name": "dragonfly-icon-black"
+  },
+  {
+    "path": "icons/dragonfly/dragonfly-icon-color.svg",
+    "tags": [
+      "color",
+      "dragonfly",
+      "p2p",
+      "registry"
+    ],
+    "category": "dragonfly",
+    "color": "#0086C9",
+    "description": "Dragonfly (color) CNCF project icon (Dragonfly).",
+    "fullname": "Dragonfly (color)",
+    "name": "dragonfly-icon-color"
+  },
+  {
+    "path": "icons/dragonfly/dragonfly-icon-white.svg",
+    "tags": [
+      "dragonfly",
+      "p2p",
+      "registry",
+      "white"
+    ],
+    "category": "dragonfly",
+    "color": "#0086C9",
+    "description": "Dragonfly (white) CNCF project icon (Dragonfly).",
+    "fullname": "Dragonfly (white)",
+    "name": "dragonfly-icon-white"
+  },
+  {
+    "path": "icons/drasi/drasi-icon-black.svg",
+    "tags": [
+      "black",
+      "drasi"
+    ],
+    "category": "drasi",
+    "color": "#0086C9",
+    "description": "Drasi (black) CNCF project icon (Drasi).",
+    "fullname": "Drasi (black)",
+    "name": "drasi-icon-black"
+  },
+  {
+    "path": "icons/drasi/drasi-icon-color.svg",
+    "tags": [
+      "color",
+      "drasi"
+    ],
+    "category": "drasi",
+    "color": "#0086C9",
+    "description": "Drasi (color) CNCF project icon (Drasi).",
+    "fullname": "Drasi (color)",
+    "name": "drasi-icon-color"
+  },
+  {
+    "path": "icons/drasi/drasi-icon-white.svg",
+    "tags": [
+      "drasi",
+      "white"
+    ],
+    "category": "drasi",
+    "color": "#0086C9",
+    "description": "Drasi (white) CNCF project icon (Drasi).",
+    "fullname": "Drasi (white)",
+    "name": "drasi-icon-white"
+  },
+  {
+    "path": "icons/easegress/easegress-icon-black.svg",
+    "tags": [
+      "black",
+      "easegress"
+    ],
+    "category": "easegress",
+    "color": "#0086C9",
+    "description": "Easegress (black) CNCF project icon (Easegress).",
+    "fullname": "Easegress (black)",
+    "name": "easegress-icon-black"
+  },
+  {
+    "path": "icons/easegress/easegress-icon-color.svg",
+    "tags": [
+      "color",
+      "easegress"
+    ],
+    "category": "easegress",
+    "color": "#0086C9",
+    "description": "Easegress (color) CNCF project icon (Easegress).",
+    "fullname": "Easegress (color)",
+    "name": "easegress-icon-color"
+  },
+  {
+    "path": "icons/easegress/easegress-icon-white.svg",
+    "tags": [
+      "easegress",
+      "white"
+    ],
+    "category": "easegress",
+    "color": "#0086C9",
+    "description": "Easegress (white) CNCF project icon (Easegress).",
+    "fullname": "Easegress (white)",
+    "name": "easegress-icon-white"
+  },
+  {
+    "path": "icons/emissary-ingress/emissary-ingress-icon-black.svg",
+    "tags": [
+      "black",
+      "emissary-ingress"
+    ],
+    "category": "emissary-ingress",
+    "color": "#0086C9",
+    "description": "Emissary Ingress (black) CNCF project icon (Emissary Ingress).",
+    "fullname": "Emissary Ingress (black)",
+    "name": "emissary-ingress-icon-black"
+  },
+  {
+    "path": "icons/emissary-ingress/emissary-ingress-icon-color.svg",
+    "tags": [
+      "color",
+      "emissary-ingress"
+    ],
+    "category": "emissary-ingress",
+    "color": "#0086C9",
+    "description": "Emissary Ingress (color) CNCF project icon (Emissary Ingress).",
+    "fullname": "Emissary Ingress (color)",
+    "name": "emissary-ingress-icon-color"
+  },
+  {
+    "path": "icons/emissary-ingress/emissary-ingress-icon-white.svg",
+    "tags": [
+      "emissary-ingress",
+      "white"
+    ],
+    "category": "emissary-ingress",
+    "color": "#0086C9",
+    "description": "Emissary Ingress (white) CNCF project icon (Emissary Ingress).",
+    "fullname": "Emissary Ingress (white)",
+    "name": "emissary-ingress-icon-white"
   },
   {
     "path": "icons/envoy/envoy-icon-black.svg",
@@ -406,6 +2089,84 @@
     "name": "envoy-icon-white"
   },
   {
+    "path": "icons/envoy-gateway/envoy-gateway-icon-black.svg",
+    "tags": [
+      "black",
+      "envoy-gateway",
+      "gateway",
+      "proxy"
+    ],
+    "category": "envoy-gateway",
+    "color": "#0086C9",
+    "description": "Envoy Gateway (black) CNCF project icon (Envoy Gateway).",
+    "fullname": "Envoy Gateway (black)",
+    "name": "envoy-gateway-icon-black"
+  },
+  {
+    "path": "icons/envoy-gateway/envoy-gateway-icon-color.svg",
+    "tags": [
+      "color",
+      "envoy-gateway",
+      "gateway",
+      "proxy"
+    ],
+    "category": "envoy-gateway",
+    "color": "#0086C9",
+    "description": "Envoy Gateway (color) CNCF project icon (Envoy Gateway).",
+    "fullname": "Envoy Gateway (color)",
+    "name": "envoy-gateway-icon-color"
+  },
+  {
+    "path": "icons/envoy-gateway/envoy-gateway-icon-white.svg",
+    "tags": [
+      "envoy-gateway",
+      "gateway",
+      "proxy",
+      "white"
+    ],
+    "category": "envoy-gateway",
+    "color": "#0086C9",
+    "description": "Envoy Gateway (white) CNCF project icon (Envoy Gateway).",
+    "fullname": "Envoy Gateway (white)",
+    "name": "envoy-gateway-icon-white"
+  },
+  {
+    "path": "icons/eraser/eraser-icon-black.svg",
+    "tags": [
+      "black",
+      "eraser"
+    ],
+    "category": "eraser",
+    "color": "#0086C9",
+    "description": "Eraser (black) CNCF project icon (Eraser).",
+    "fullname": "Eraser (black)",
+    "name": "eraser-icon-black"
+  },
+  {
+    "path": "icons/eraser/eraser-icon-color.svg",
+    "tags": [
+      "color",
+      "eraser"
+    ],
+    "category": "eraser",
+    "color": "#0086C9",
+    "description": "Eraser (color) CNCF project icon (Eraser).",
+    "fullname": "Eraser (color)",
+    "name": "eraser-icon-color"
+  },
+  {
+    "path": "icons/eraser/eraser-icon-white.svg",
+    "tags": [
+      "eraser",
+      "white"
+    ],
+    "category": "eraser",
+    "color": "#0086C9",
+    "description": "Eraser (white) CNCF project icon (Eraser).",
+    "fullname": "Eraser (white)",
+    "name": "eraser-icon-white"
+  },
+  {
     "path": "icons/etcd/etcd-icon-black.svg",
     "tags": [
       "black",
@@ -446,6 +2207,42 @@
     "description": "etcd (white) CNCF project icon (etcd).",
     "fullname": "etcd (white)",
     "name": "etcd-icon-white"
+  },
+  {
+    "path": "icons/external-secrets-operator/external-secrets-operator-icon-black.svg",
+    "tags": [
+      "black",
+      "external-secrets-operator"
+    ],
+    "category": "external-secrets-operator",
+    "color": "#0086C9",
+    "description": "External Secrets Operator (black) CNCF project icon (External Secrets Operator).",
+    "fullname": "External Secrets Operator (black)",
+    "name": "external-secrets-operator-icon-black"
+  },
+  {
+    "path": "icons/external-secrets-operator/external-secrets-operator-icon-color.svg",
+    "tags": [
+      "color",
+      "external-secrets-operator"
+    ],
+    "category": "external-secrets-operator",
+    "color": "#0086C9",
+    "description": "External Secrets Operator (color) CNCF project icon (External Secrets Operator).",
+    "fullname": "External Secrets Operator (color)",
+    "name": "external-secrets-operator-icon-color"
+  },
+  {
+    "path": "icons/external-secrets-operator/external-secrets-operator-icon-white.svg",
+    "tags": [
+      "external-secrets-operator",
+      "white"
+    ],
+    "category": "external-secrets-operator",
+    "color": "#0086C9",
+    "description": "External Secrets Operator (white) CNCF project icon (External Secrets Operator).",
+    "fullname": "External Secrets Operator (white)",
+    "name": "external-secrets-operator-icon-white"
   },
   {
     "path": "icons/falco/falco-icon-black.svg",
@@ -490,6 +2287,84 @@
     "name": "falco-icon-white"
   },
   {
+    "path": "icons/flagger/flagger-icon-black.svg",
+    "tags": [
+      "black",
+      "canary",
+      "flagger",
+      "progressive-delivery"
+    ],
+    "category": "flagger",
+    "color": "#0086C9",
+    "description": "Flagger (black) CNCF project icon (Flagger).",
+    "fullname": "Flagger (black)",
+    "name": "flagger-icon-black"
+  },
+  {
+    "path": "icons/flagger/flagger-icon-color.svg",
+    "tags": [
+      "canary",
+      "color",
+      "flagger",
+      "progressive-delivery"
+    ],
+    "category": "flagger",
+    "color": "#0086C9",
+    "description": "Flagger (color) CNCF project icon (Flagger).",
+    "fullname": "Flagger (color)",
+    "name": "flagger-icon-color"
+  },
+  {
+    "path": "icons/flagger/flagger-icon-white.svg",
+    "tags": [
+      "canary",
+      "flagger",
+      "progressive-delivery",
+      "white"
+    ],
+    "category": "flagger",
+    "color": "#0086C9",
+    "description": "Flagger (white) CNCF project icon (Flagger).",
+    "fullname": "Flagger (white)",
+    "name": "flagger-icon-white"
+  },
+  {
+    "path": "icons/flatcar/flatcar-icon-black.svg",
+    "tags": [
+      "black",
+      "flatcar"
+    ],
+    "category": "flatcar",
+    "color": "#0086C9",
+    "description": "Flatcar (black) CNCF project icon (Flatcar).",
+    "fullname": "Flatcar (black)",
+    "name": "flatcar-icon-black"
+  },
+  {
+    "path": "icons/flatcar/flatcar-icon-color.svg",
+    "tags": [
+      "color",
+      "flatcar"
+    ],
+    "category": "flatcar",
+    "color": "#0086C9",
+    "description": "Flatcar (color) CNCF project icon (Flatcar).",
+    "fullname": "Flatcar (color)",
+    "name": "flatcar-icon-color"
+  },
+  {
+    "path": "icons/flatcar/flatcar-icon-white.svg",
+    "tags": [
+      "flatcar",
+      "white"
+    ],
+    "category": "flatcar",
+    "color": "#0086C9",
+    "description": "Flatcar (white) CNCF project icon (Flatcar).",
+    "fullname": "Flatcar (white)",
+    "name": "flatcar-icon-white"
+  },
+  {
     "path": "icons/fluent-bit/fluentbit-icon-color.svg",
     "tags": [
       "color",
@@ -498,8 +2373,8 @@
     ],
     "category": "fluent-bit",
     "color": "#0086C9",
-    "description": "Fluentbit Icon Color CNCF project icon (Fluent Bit).",
-    "fullname": "Fluentbit Icon Color",
+    "description": "Fluent Bit (color) CNCF project icon (Fluent Bit).",
+    "fullname": "Fluent Bit (color)",
     "name": "fluentbit-icon-color"
   },
   {
@@ -540,6 +2415,42 @@
     "description": "Fluentd (white) CNCF project icon (Fluentd).",
     "fullname": "Fluentd (white)",
     "name": "fluentd-icon-white"
+  },
+  {
+    "path": "icons/fluid/fluid-icon-black.svg",
+    "tags": [
+      "black",
+      "fluid"
+    ],
+    "category": "fluid",
+    "color": "#0086C9",
+    "description": "Fluid (black) CNCF project icon (Fluid).",
+    "fullname": "Fluid (black)",
+    "name": "fluid-icon-black"
+  },
+  {
+    "path": "icons/fluid/fluid-icon-color.svg",
+    "tags": [
+      "color",
+      "fluid"
+    ],
+    "category": "fluid",
+    "color": "#0086C9",
+    "description": "Fluid (color) CNCF project icon (Fluid).",
+    "fullname": "Fluid (color)",
+    "name": "fluid-icon-color"
+  },
+  {
+    "path": "icons/fluid/fluid-icon-white.svg",
+    "tags": [
+      "fluid",
+      "white"
+    ],
+    "category": "fluid",
+    "color": "#0086C9",
+    "description": "Fluid (white) CNCF project icon (Fluid).",
+    "fullname": "Fluid (white)",
+    "name": "fluid-icon-white"
   },
   {
     "path": "icons/flux/flux-icon-black.svg",
@@ -623,6 +2534,42 @@
     "name": "grpc-icon-white"
   },
   {
+    "path": "icons/hami/hami-icon-black.svg",
+    "tags": [
+      "black",
+      "hami"
+    ],
+    "category": "hami",
+    "color": "#0086C9",
+    "description": "HAMi (black) CNCF project icon (HAMi).",
+    "fullname": "HAMi (black)",
+    "name": "hami-icon-black"
+  },
+  {
+    "path": "icons/hami/hami-icon-color.svg",
+    "tags": [
+      "color",
+      "hami"
+    ],
+    "category": "hami",
+    "color": "#0086C9",
+    "description": "HAMi (color) CNCF project icon (HAMi).",
+    "fullname": "HAMi (color)",
+    "name": "hami-icon-color"
+  },
+  {
+    "path": "icons/hami/hami-icon-white.svg",
+    "tags": [
+      "hami",
+      "white"
+    ],
+    "category": "hami",
+    "color": "#0086C9",
+    "description": "HAMi (white) CNCF project icon (HAMi).",
+    "fullname": "HAMi (white)",
+    "name": "hami-icon-white"
+  },
+  {
     "path": "icons/harbor/harbor-icon-black.svg",
     "tags": [
       "black",
@@ -660,6 +2607,42 @@
     "description": "Harbor (white) CNCF project icon (Harbor).",
     "fullname": "Harbor (white)",
     "name": "harbor-icon-white"
+  },
+  {
+    "path": "icons/headlamp/headlamp-icon-black.svg",
+    "tags": [
+      "black",
+      "headlamp"
+    ],
+    "category": "headlamp",
+    "color": "#0086C9",
+    "description": "Headlamp (black) CNCF project icon (Headlamp).",
+    "fullname": "Headlamp (black)",
+    "name": "headlamp-icon-black"
+  },
+  {
+    "path": "icons/headlamp/headlamp-icon-color.svg",
+    "tags": [
+      "color",
+      "headlamp"
+    ],
+    "category": "headlamp",
+    "color": "#0086C9",
+    "description": "Headlamp (color) CNCF project icon (Headlamp).",
+    "fullname": "Headlamp (color)",
+    "name": "headlamp-icon-color"
+  },
+  {
+    "path": "icons/headlamp/headlamp-icon-white.svg",
+    "tags": [
+      "headlamp",
+      "white"
+    ],
+    "category": "headlamp",
+    "color": "#0086C9",
+    "description": "Headlamp (white) CNCF project icon (Headlamp).",
+    "fullname": "Headlamp (white)",
+    "name": "headlamp-icon-white"
   },
   {
     "path": "icons/helm/helm-icon-black.svg",
@@ -702,6 +2685,300 @@
     "description": "Helm (white) CNCF project icon (Helm).",
     "fullname": "Helm (white)",
     "name": "helm-icon-white"
+  },
+  {
+    "path": "icons/higress/higress-icon-black.svg",
+    "tags": [
+      "black",
+      "higress"
+    ],
+    "category": "higress",
+    "color": "#0086C9",
+    "description": "Higress (black) CNCF project icon (Higress).",
+    "fullname": "Higress (black)",
+    "name": "higress-icon-black"
+  },
+  {
+    "path": "icons/higress/higress-icon-color.svg",
+    "tags": [
+      "color",
+      "higress"
+    ],
+    "category": "higress",
+    "color": "#0086C9",
+    "description": "Higress (color) CNCF project icon (Higress).",
+    "fullname": "Higress (color)",
+    "name": "higress-icon-color"
+  },
+  {
+    "path": "icons/higress/higress-icon-white.svg",
+    "tags": [
+      "higress",
+      "white"
+    ],
+    "category": "higress",
+    "color": "#0086C9",
+    "description": "Higress (white) CNCF project icon (Higress).",
+    "fullname": "Higress (white)",
+    "name": "higress-icon-white"
+  },
+  {
+    "path": "icons/holmesgpt/holmesgpt-icon-black.svg",
+    "tags": [
+      "black",
+      "holmesgpt"
+    ],
+    "category": "holmesgpt",
+    "color": "#0086C9",
+    "description": "Holmesgpt (black) CNCF project icon (Holmesgpt).",
+    "fullname": "Holmesgpt (black)",
+    "name": "holmesgpt-icon-black"
+  },
+  {
+    "path": "icons/holmesgpt/holmesgpt-icon-color.svg",
+    "tags": [
+      "color",
+      "holmesgpt"
+    ],
+    "category": "holmesgpt",
+    "color": "#0086C9",
+    "description": "Holmesgpt (color) CNCF project icon (Holmesgpt).",
+    "fullname": "Holmesgpt (color)",
+    "name": "holmesgpt-icon-color"
+  },
+  {
+    "path": "icons/holmesgpt/holmesgpt-icon-white.svg",
+    "tags": [
+      "holmesgpt",
+      "white"
+    ],
+    "category": "holmesgpt",
+    "color": "#0086C9",
+    "description": "Holmesgpt (white) CNCF project icon (Holmesgpt).",
+    "fullname": "Holmesgpt (white)",
+    "name": "holmesgpt-icon-white"
+  },
+  {
+    "path": "icons/hwameistor/hwameistor-icon-black.svg",
+    "tags": [
+      "black",
+      "hwameistor"
+    ],
+    "category": "hwameistor",
+    "color": "#0086C9",
+    "description": "Hwameistor (black) CNCF project icon (Hwameistor).",
+    "fullname": "Hwameistor (black)",
+    "name": "hwameistor-icon-black"
+  },
+  {
+    "path": "icons/hwameistor/hwameistor-icon-color.svg",
+    "tags": [
+      "color",
+      "hwameistor"
+    ],
+    "category": "hwameistor",
+    "color": "#0086C9",
+    "description": "Hwameistor (color) CNCF project icon (Hwameistor).",
+    "fullname": "Hwameistor (color)",
+    "name": "hwameistor-icon-color"
+  },
+  {
+    "path": "icons/hwameistor/hwameistor-icon-white.svg",
+    "tags": [
+      "hwameistor",
+      "white"
+    ],
+    "category": "hwameistor",
+    "color": "#0086C9",
+    "description": "Hwameistor (white) CNCF project icon (Hwameistor).",
+    "fullname": "Hwameistor (white)",
+    "name": "hwameistor-icon-white"
+  },
+  {
+    "path": "icons/hyperlight/hyperlight-icon-black.svg",
+    "tags": [
+      "black",
+      "hyperlight"
+    ],
+    "category": "hyperlight",
+    "color": "#0086C9",
+    "description": "Hyperlight (black) CNCF project icon (Hyperlight).",
+    "fullname": "Hyperlight (black)",
+    "name": "hyperlight-icon-black"
+  },
+  {
+    "path": "icons/hyperlight/hyperlight-icon-color.svg",
+    "tags": [
+      "color",
+      "hyperlight"
+    ],
+    "category": "hyperlight",
+    "color": "#0086C9",
+    "description": "Hyperlight (color) CNCF project icon (Hyperlight).",
+    "fullname": "Hyperlight (color)",
+    "name": "hyperlight-icon-color"
+  },
+  {
+    "path": "icons/hyperlight/hyperlight-icon-white.svg",
+    "tags": [
+      "hyperlight",
+      "white"
+    ],
+    "category": "hyperlight",
+    "color": "#0086C9",
+    "description": "Hyperlight (white) CNCF project icon (Hyperlight).",
+    "fullname": "Hyperlight (white)",
+    "name": "hyperlight-icon-white"
+  },
+  {
+    "path": "icons/in-toto/in-toto-icon-black.svg",
+    "tags": [
+      "black",
+      "in-toto",
+      "security",
+      "supply-chain"
+    ],
+    "category": "in-toto",
+    "color": "#0086C9",
+    "description": "in-toto (black) CNCF project icon (in-toto).",
+    "fullname": "in-toto (black)",
+    "name": "in-toto-icon-black"
+  },
+  {
+    "path": "icons/in-toto/in-toto-icon-color.svg",
+    "tags": [
+      "color",
+      "in-toto",
+      "security",
+      "supply-chain"
+    ],
+    "category": "in-toto",
+    "color": "#0086C9",
+    "description": "in-toto (color) CNCF project icon (in-toto).",
+    "fullname": "in-toto (color)",
+    "name": "in-toto-icon-color"
+  },
+  {
+    "path": "icons/in-toto/in-toto-icon-white.svg",
+    "tags": [
+      "in-toto",
+      "security",
+      "supply-chain",
+      "white"
+    ],
+    "category": "in-toto",
+    "color": "#0086C9",
+    "description": "in-toto (white) CNCF project icon (in-toto).",
+    "fullname": "in-toto (white)",
+    "name": "in-toto-icon-white"
+  },
+  {
+    "path": "icons/inclavare/inclavare-icon-black.svg",
+    "tags": [
+      "black",
+      "inclavare"
+    ],
+    "category": "inclavare",
+    "color": "#0086C9",
+    "description": "Inclavare (black) CNCF project icon (Inclavare).",
+    "fullname": "Inclavare (black)",
+    "name": "inclavare-icon-black"
+  },
+  {
+    "path": "icons/inclavare/inclavare-icon-color.svg",
+    "tags": [
+      "color",
+      "inclavare"
+    ],
+    "category": "inclavare",
+    "color": "#0086C9",
+    "description": "Inclavare (color) CNCF project icon (Inclavare).",
+    "fullname": "Inclavare (color)",
+    "name": "inclavare-icon-color"
+  },
+  {
+    "path": "icons/inclavare/inclavare-icon-white.svg",
+    "tags": [
+      "inclavare",
+      "white"
+    ],
+    "category": "inclavare",
+    "color": "#0086C9",
+    "description": "Inclavare (white) CNCF project icon (Inclavare).",
+    "fullname": "Inclavare (white)",
+    "name": "inclavare-icon-white"
+  },
+  {
+    "path": "icons/inspektor-gadget/inspektor-gadget-icon-black.svg",
+    "tags": [
+      "black",
+      "inspektor-gadget"
+    ],
+    "category": "inspektor-gadget",
+    "color": "#0086C9",
+    "description": "Inspektor Gadget (black) CNCF project icon (Inspektor Gadget).",
+    "fullname": "Inspektor Gadget (black)",
+    "name": "inspektor-gadget-icon-black"
+  },
+  {
+    "path": "icons/inspektor-gadget/inspektor-gadget-icon-color.svg",
+    "tags": [
+      "color",
+      "inspektor-gadget"
+    ],
+    "category": "inspektor-gadget",
+    "color": "#0086C9",
+    "description": "Inspektor Gadget (color) CNCF project icon (Inspektor Gadget).",
+    "fullname": "Inspektor Gadget (color)",
+    "name": "inspektor-gadget-icon-color"
+  },
+  {
+    "path": "icons/inspektor-gadget/inspektor-gadget-icon-white.svg",
+    "tags": [
+      "inspektor-gadget",
+      "white"
+    ],
+    "category": "inspektor-gadget",
+    "color": "#0086C9",
+    "description": "Inspektor Gadget (white) CNCF project icon (Inspektor Gadget).",
+    "fullname": "Inspektor Gadget (white)",
+    "name": "inspektor-gadget-icon-white"
+  },
+  {
+    "path": "icons/interlink/interlink-icon-black.svg",
+    "tags": [
+      "black",
+      "interlink"
+    ],
+    "category": "interlink",
+    "color": "#0086C9",
+    "description": "Interlink (black) CNCF project icon (Interlink).",
+    "fullname": "Interlink (black)",
+    "name": "interlink-icon-black"
+  },
+  {
+    "path": "icons/interlink/interlink-icon-color.svg",
+    "tags": [
+      "color",
+      "interlink"
+    ],
+    "category": "interlink",
+    "color": "#0086C9",
+    "description": "Interlink (color) CNCF project icon (Interlink).",
+    "fullname": "Interlink (color)",
+    "name": "interlink-icon-color"
+  },
+  {
+    "path": "icons/interlink/interlink-icon-white.svg",
+    "tags": [
+      "interlink",
+      "white"
+    ],
+    "category": "interlink",
+    "color": "#0086C9",
+    "description": "Interlink (white) CNCF project icon (Interlink).",
+    "fullname": "Interlink (white)",
+    "name": "interlink-icon-white"
   },
   {
     "path": "icons/istio/istio-icon-black.svg",
@@ -772,6 +3049,19 @@
     "name": "jaeger-icon-color"
   },
   {
+    "path": "icons/jaeger/jaeger-icon-reverse-color.svg",
+    "tags": [
+      "jaeger",
+      "reverse-color",
+      "tracing"
+    ],
+    "category": "jaeger",
+    "color": "#0086C9",
+    "description": "Jaeger (reverse-color) CNCF project icon (Jaeger).",
+    "fullname": "Jaeger (reverse-color)",
+    "name": "jaeger-icon-reverse-color"
+  },
+  {
     "path": "icons/jaeger/jaeger-icon-white.svg",
     "tags": [
       "jaeger",
@@ -785,17 +3075,154 @@
     "name": "jaeger-icon-white"
   },
   {
-    "path": "icons/jaeger/jaeger-icon-reverse-color.svg",
+    "path": "icons/jobset/jobset-icon-black.svg",
+    "tags": [
+      "batch",
+      "black",
+      "jobs",
+      "jobset"
+    ],
+    "category": "jobset",
+    "color": "#0086C9",
+    "description": "JobSet (black) CNCF project icon (JobSet).",
+    "fullname": "JobSet (black)",
+    "name": "jobset-icon-black"
+  },
+  {
+    "path": "icons/jobset/jobset-icon-color.svg",
+    "tags": [
+      "batch",
+      "color",
+      "jobs",
+      "jobset"
+    ],
+    "category": "jobset",
+    "color": "#0086C9",
+    "description": "JobSet (color) CNCF project icon (JobSet).",
+    "fullname": "JobSet (color)",
+    "name": "jobset-icon-color"
+  },
+  {
+    "path": "icons/jobset/jobset-icon-white.svg",
+    "tags": [
+      "batch",
+      "jobs",
+      "jobset",
+      "white"
+    ],
+    "category": "jobset",
+    "color": "#0086C9",
+    "description": "JobSet (white) CNCF project icon (JobSet).",
+    "fullname": "JobSet (white)",
+    "name": "jobset-icon-white"
+  },
+  {
+    "path": "icons/k0s/k0s-icon-black.svg",
+    "tags": [
+      "black",
+      "k0s"
+    ],
+    "category": "k0s",
+    "color": "#0086C9",
+    "description": "k0s (black) CNCF project icon (k0s).",
+    "fullname": "k0s (black)",
+    "name": "k0s-icon-black"
+  },
+  {
+    "path": "icons/k0s/k0s-icon-color.svg",
     "tags": [
       "color",
-      "jaeger",
-      "tracing"
+      "k0s"
     ],
-    "category": "jaeger",
+    "category": "k0s",
     "color": "#0086C9",
-    "description": "Jaeger Icon Reverse Color CNCF project icon (Jaeger).",
-    "fullname": "Jaeger Icon Reverse Color",
-    "name": "jaeger-icon-reverse-color"
+    "description": "k0s (color) CNCF project icon (k0s).",
+    "fullname": "k0s (color)",
+    "name": "k0s-icon-color"
+  },
+  {
+    "path": "icons/k0s/k0s-icon-white.svg",
+    "tags": [
+      "k0s",
+      "white"
+    ],
+    "category": "k0s",
+    "color": "#0086C9",
+    "description": "k0s (white) CNCF project icon (k0s).",
+    "fullname": "k0s (white)",
+    "name": "k0s-icon-white"
+  },
+  {
+    "path": "icons/k3s/k3s-icon-black.svg",
+    "tags": [
+      "black",
+      "k3s"
+    ],
+    "category": "k3s",
+    "color": "#0086C9",
+    "description": "k3s (black) CNCF project icon (k3s).",
+    "fullname": "k3s (black)",
+    "name": "k3s-icon-black"
+  },
+  {
+    "path": "icons/k3s/k3s-icon-color.svg",
+    "tags": [
+      "color",
+      "k3s"
+    ],
+    "category": "k3s",
+    "color": "#0086C9",
+    "description": "k3s (color) CNCF project icon (k3s).",
+    "fullname": "k3s (color)",
+    "name": "k3s-icon-color"
+  },
+  {
+    "path": "icons/k3s/k3s-icon-white.svg",
+    "tags": [
+      "k3s",
+      "white"
+    ],
+    "category": "k3s",
+    "color": "#0086C9",
+    "description": "k3s (white) CNCF project icon (k3s).",
+    "fullname": "k3s (white)",
+    "name": "k3s-icon-white"
+  },
+  {
+    "path": "icons/k8gb/k8gb-icon-black.svg",
+    "tags": [
+      "black",
+      "k8gb"
+    ],
+    "category": "k8gb",
+    "color": "#0086C9",
+    "description": "K8GB (black) CNCF project icon (K8GB).",
+    "fullname": "K8GB (black)",
+    "name": "k8gb-icon-black"
+  },
+  {
+    "path": "icons/k8gb/k8gb-icon-color.svg",
+    "tags": [
+      "color",
+      "k8gb"
+    ],
+    "category": "k8gb",
+    "color": "#0086C9",
+    "description": "K8GB (color) CNCF project icon (K8GB).",
+    "fullname": "K8GB (color)",
+    "name": "k8gb-icon-color"
+  },
+  {
+    "path": "icons/k8gb/k8gb-icon-white.svg",
+    "tags": [
+      "k8gb",
+      "white"
+    ],
+    "category": "k8gb",
+    "color": "#0086C9",
+    "description": "K8GB (white) CNCF project icon (K8GB).",
+    "fullname": "K8GB (white)",
+    "name": "k8gb-icon-white"
   },
   {
     "path": "icons/k8s-control-plane/api-labeled.svg",
@@ -1806,6 +4233,588 @@
     "name": "vol-labeled"
   },
   {
+    "path": "icons/k8sgpt/k8sgpt-icon-black.svg",
+    "tags": [
+      "black",
+      "k8sgpt"
+    ],
+    "category": "k8sgpt",
+    "color": "#0086C9",
+    "description": "k8sgpt (black) CNCF project icon (k8sgpt).",
+    "fullname": "k8sgpt (black)",
+    "name": "k8sgpt-icon-black"
+  },
+  {
+    "path": "icons/k8sgpt/k8sgpt-icon-color.svg",
+    "tags": [
+      "color",
+      "k8sgpt"
+    ],
+    "category": "k8sgpt",
+    "color": "#0086C9",
+    "description": "k8sgpt (color) CNCF project icon (k8sgpt).",
+    "fullname": "k8sgpt (color)",
+    "name": "k8sgpt-icon-color"
+  },
+  {
+    "path": "icons/k8sgpt/k8sgpt-icon-white.svg",
+    "tags": [
+      "k8sgpt",
+      "white"
+    ],
+    "category": "k8sgpt",
+    "color": "#0086C9",
+    "description": "k8sgpt (white) CNCF project icon (k8sgpt).",
+    "fullname": "k8sgpt (white)",
+    "name": "k8sgpt-icon-white"
+  },
+  {
+    "path": "icons/kagent/kagent-icon-black.svg",
+    "tags": [
+      "black",
+      "kagent"
+    ],
+    "category": "kagent",
+    "color": "#0086C9",
+    "description": "Kagent (black) CNCF project icon (Kagent).",
+    "fullname": "Kagent (black)",
+    "name": "kagent-icon-black"
+  },
+  {
+    "path": "icons/kagent/kagent-icon-color.svg",
+    "tags": [
+      "color",
+      "kagent"
+    ],
+    "category": "kagent",
+    "color": "#0086C9",
+    "description": "Kagent (color) CNCF project icon (Kagent).",
+    "fullname": "Kagent (color)",
+    "name": "kagent-icon-color"
+  },
+  {
+    "path": "icons/kagent/kagent-icon-white.svg",
+    "tags": [
+      "kagent",
+      "white"
+    ],
+    "category": "kagent",
+    "color": "#0086C9",
+    "description": "Kagent (white) CNCF project icon (Kagent).",
+    "fullname": "Kagent (white)",
+    "name": "kagent-icon-white"
+  },
+  {
+    "path": "icons/kai-scheduler/kai-scheduler-icon-black.svg",
+    "tags": [
+      "black",
+      "kai-scheduler"
+    ],
+    "category": "kai-scheduler",
+    "color": "#0086C9",
+    "description": "Kai Scheduler (black) CNCF project icon (Kai Scheduler).",
+    "fullname": "Kai Scheduler (black)",
+    "name": "kai-scheduler-icon-black"
+  },
+  {
+    "path": "icons/kai-scheduler/kai-scheduler-icon-color.svg",
+    "tags": [
+      "color",
+      "kai-scheduler"
+    ],
+    "category": "kai-scheduler",
+    "color": "#0086C9",
+    "description": "Kai Scheduler (color) CNCF project icon (Kai Scheduler).",
+    "fullname": "Kai Scheduler (color)",
+    "name": "kai-scheduler-icon-color"
+  },
+  {
+    "path": "icons/kai-scheduler/kai-scheduler-icon-white.svg",
+    "tags": [
+      "kai-scheduler",
+      "white"
+    ],
+    "category": "kai-scheduler",
+    "color": "#0086C9",
+    "description": "Kai Scheduler (white) CNCF project icon (Kai Scheduler).",
+    "fullname": "Kai Scheduler (white)",
+    "name": "kai-scheduler-icon-white"
+  },
+  {
+    "path": "icons/kairos/kairos-icon-black.svg",
+    "tags": [
+      "black",
+      "kairos"
+    ],
+    "category": "kairos",
+    "color": "#0086C9",
+    "description": "Kairos (black) CNCF project icon (Kairos).",
+    "fullname": "Kairos (black)",
+    "name": "kairos-icon-black"
+  },
+  {
+    "path": "icons/kairos/kairos-icon-color.svg",
+    "tags": [
+      "color",
+      "kairos"
+    ],
+    "category": "kairos",
+    "color": "#0086C9",
+    "description": "Kairos (color) CNCF project icon (Kairos).",
+    "fullname": "Kairos (color)",
+    "name": "kairos-icon-color"
+  },
+  {
+    "path": "icons/kairos/kairos-icon-white.svg",
+    "tags": [
+      "kairos",
+      "white"
+    ],
+    "category": "kairos",
+    "color": "#0086C9",
+    "description": "Kairos (white) CNCF project icon (Kairos).",
+    "fullname": "Kairos (white)",
+    "name": "kairos-icon-white"
+  },
+  {
+    "path": "icons/kaito/kaito-icon-black.svg",
+    "tags": [
+      "black",
+      "kaito"
+    ],
+    "category": "kaito",
+    "color": "#0086C9",
+    "description": "Kaito (black) CNCF project icon (Kaito).",
+    "fullname": "Kaito (black)",
+    "name": "kaito-icon-black"
+  },
+  {
+    "path": "icons/kaito/kaito-icon-color.svg",
+    "tags": [
+      "color",
+      "kaito"
+    ],
+    "category": "kaito",
+    "color": "#0086C9",
+    "description": "Kaito (color) CNCF project icon (Kaito).",
+    "fullname": "Kaito (color)",
+    "name": "kaito-icon-color"
+  },
+  {
+    "path": "icons/kaito/kaito-icon-white.svg",
+    "tags": [
+      "kaito",
+      "white"
+    ],
+    "category": "kaito",
+    "color": "#0086C9",
+    "description": "Kaito (white) CNCF project icon (Kaito).",
+    "fullname": "Kaito (white)",
+    "name": "kaito-icon-white"
+  },
+  {
+    "path": "icons/karmada/karmada-icon-black.svg",
+    "tags": [
+      "black",
+      "karmada"
+    ],
+    "category": "karmada",
+    "color": "#0086C9",
+    "description": "Karmada (black) CNCF project icon (Karmada).",
+    "fullname": "Karmada (black)",
+    "name": "karmada-icon-black"
+  },
+  {
+    "path": "icons/karmada/karmada-icon-color.svg",
+    "tags": [
+      "color",
+      "karmada"
+    ],
+    "category": "karmada",
+    "color": "#0086C9",
+    "description": "Karmada (color) CNCF project icon (Karmada).",
+    "fullname": "Karmada (color)",
+    "name": "karmada-icon-color"
+  },
+  {
+    "path": "icons/karmada/karmada-icon-white.svg",
+    "tags": [
+      "karmada",
+      "white"
+    ],
+    "category": "karmada",
+    "color": "#0086C9",
+    "description": "Karmada (white) CNCF project icon (Karmada).",
+    "fullname": "Karmada (white)",
+    "name": "karmada-icon-white"
+  },
+  {
+    "path": "icons/kbind/kbind-icon-black.svg",
+    "tags": [
+      "black",
+      "kbind"
+    ],
+    "category": "kbind",
+    "color": "#0086C9",
+    "description": "Kbind (black) CNCF project icon (Kbind).",
+    "fullname": "Kbind (black)",
+    "name": "kbind-icon-black"
+  },
+  {
+    "path": "icons/kbind/kbind-icon-color.svg",
+    "tags": [
+      "color",
+      "kbind"
+    ],
+    "category": "kbind",
+    "color": "#0086C9",
+    "description": "Kbind (color) CNCF project icon (Kbind).",
+    "fullname": "Kbind (color)",
+    "name": "kbind-icon-color"
+  },
+  {
+    "path": "icons/kbind/kbind-icon-white.svg",
+    "tags": [
+      "kbind",
+      "white"
+    ],
+    "category": "kbind",
+    "color": "#0086C9",
+    "description": "Kbind (white) CNCF project icon (Kbind).",
+    "fullname": "Kbind (white)",
+    "name": "kbind-icon-white"
+  },
+  {
+    "path": "icons/kcl/kcl-icon-black.svg",
+    "tags": [
+      "black",
+      "kcl"
+    ],
+    "category": "kcl",
+    "color": "#0086C9",
+    "description": "Kcl (black) CNCF project icon (Kcl).",
+    "fullname": "Kcl (black)",
+    "name": "kcl-icon-black"
+  },
+  {
+    "path": "icons/kcl/kcl-icon-color.svg",
+    "tags": [
+      "color",
+      "kcl"
+    ],
+    "category": "kcl",
+    "color": "#0086C9",
+    "description": "Kcl (color) CNCF project icon (Kcl).",
+    "fullname": "Kcl (color)",
+    "name": "kcl-icon-color"
+  },
+  {
+    "path": "icons/kcl/kcl-icon-white.svg",
+    "tags": [
+      "kcl",
+      "white"
+    ],
+    "category": "kcl",
+    "color": "#0086C9",
+    "description": "Kcl (white) CNCF project icon (Kcl).",
+    "fullname": "Kcl (white)",
+    "name": "kcl-icon-white"
+  },
+  {
+    "path": "icons/kcp/kcp-icon-black.svg",
+    "tags": [
+      "black",
+      "kcp"
+    ],
+    "category": "kcp",
+    "color": "#0086C9",
+    "description": "Kcp (black) CNCF project icon (Kcp).",
+    "fullname": "Kcp (black)",
+    "name": "kcp-icon-black"
+  },
+  {
+    "path": "icons/kcp/kcp-icon-color.svg",
+    "tags": [
+      "color",
+      "kcp"
+    ],
+    "category": "kcp",
+    "color": "#0086C9",
+    "description": "Kcp (color) CNCF project icon (Kcp).",
+    "fullname": "Kcp (color)",
+    "name": "kcp-icon-color"
+  },
+  {
+    "path": "icons/kcp/kcp-icon-white.svg",
+    "tags": [
+      "kcp",
+      "white"
+    ],
+    "category": "kcp",
+    "color": "#0086C9",
+    "description": "Kcp (white) CNCF project icon (Kcp).",
+    "fullname": "Kcp (white)",
+    "name": "kcp-icon-white"
+  },
+  {
+    "path": "icons/keda/keda-icon-black.svg",
+    "tags": [
+      "autoscaling",
+      "black",
+      "event-driven",
+      "keda"
+    ],
+    "category": "keda",
+    "color": "#0086C9",
+    "description": "KEDA (black) CNCF project icon (KEDA).",
+    "fullname": "KEDA (black)",
+    "name": "keda-icon-black"
+  },
+  {
+    "path": "icons/keda/keda-icon-color.svg",
+    "tags": [
+      "autoscaling",
+      "color",
+      "event-driven",
+      "keda"
+    ],
+    "category": "keda",
+    "color": "#0086C9",
+    "description": "KEDA (color) CNCF project icon (KEDA).",
+    "fullname": "KEDA (color)",
+    "name": "keda-icon-color"
+  },
+  {
+    "path": "icons/keda/keda-icon-white.svg",
+    "tags": [
+      "autoscaling",
+      "event-driven",
+      "keda",
+      "white"
+    ],
+    "category": "keda",
+    "color": "#0086C9",
+    "description": "KEDA (white) CNCF project icon (KEDA).",
+    "fullname": "KEDA (white)",
+    "name": "keda-icon-white"
+  },
+  {
+    "path": "icons/kepler/kepler-icon-black.svg",
+    "tags": [
+      "black",
+      "kepler"
+    ],
+    "category": "kepler",
+    "color": "#0086C9",
+    "description": "Kepler (black) CNCF project icon (Kepler).",
+    "fullname": "Kepler (black)",
+    "name": "kepler-icon-black"
+  },
+  {
+    "path": "icons/kepler/kepler-icon-color.svg",
+    "tags": [
+      "color",
+      "kepler"
+    ],
+    "category": "kepler",
+    "color": "#0086C9",
+    "description": "Kepler (color) CNCF project icon (Kepler).",
+    "fullname": "Kepler (color)",
+    "name": "kepler-icon-color"
+  },
+  {
+    "path": "icons/kepler/kepler-icon-white.svg",
+    "tags": [
+      "kepler",
+      "white"
+    ],
+    "category": "kepler",
+    "color": "#0086C9",
+    "description": "Kepler (white) CNCF project icon (Kepler).",
+    "fullname": "Kepler (white)",
+    "name": "kepler-icon-white"
+  },
+  {
+    "path": "icons/keycloak/keycloak-icon-black.svg",
+    "tags": [
+      "black",
+      "keycloak"
+    ],
+    "category": "keycloak",
+    "color": "#0086C9",
+    "description": "Keycloak (black) CNCF project icon (Keycloak).",
+    "fullname": "Keycloak (black)",
+    "name": "keycloak-icon-black"
+  },
+  {
+    "path": "icons/keycloak/keycloak-icon-color.svg",
+    "tags": [
+      "color",
+      "keycloak"
+    ],
+    "category": "keycloak",
+    "color": "#0086C9",
+    "description": "Keycloak (color) CNCF project icon (Keycloak).",
+    "fullname": "Keycloak (color)",
+    "name": "keycloak-icon-color"
+  },
+  {
+    "path": "icons/keycloak/keycloak-icon-white.svg",
+    "tags": [
+      "keycloak",
+      "white"
+    ],
+    "category": "keycloak",
+    "color": "#0086C9",
+    "description": "Keycloak (white) CNCF project icon (Keycloak).",
+    "fullname": "Keycloak (white)",
+    "name": "keycloak-icon-white"
+  },
+  {
+    "path": "icons/keylime/keylime-icon-black.svg",
+    "tags": [
+      "black",
+      "keylime"
+    ],
+    "category": "keylime",
+    "color": "#0086C9",
+    "description": "Keylime (black) CNCF project icon (Keylime).",
+    "fullname": "Keylime (black)",
+    "name": "keylime-icon-black"
+  },
+  {
+    "path": "icons/keylime/keylime-icon-color.svg",
+    "tags": [
+      "color",
+      "keylime"
+    ],
+    "category": "keylime",
+    "color": "#0086C9",
+    "description": "Keylime (color) CNCF project icon (Keylime).",
+    "fullname": "Keylime (color)",
+    "name": "keylime-icon-color"
+  },
+  {
+    "path": "icons/keylime/keylime-icon-white.svg",
+    "tags": [
+      "keylime",
+      "white"
+    ],
+    "category": "keylime",
+    "color": "#0086C9",
+    "description": "Keylime (white) CNCF project icon (Keylime).",
+    "fullname": "Keylime (white)",
+    "name": "keylime-icon-white"
+  },
+  {
+    "path": "icons/kgateway/kgateway-icon-black.svg",
+    "tags": [
+      "black",
+      "kgateway"
+    ],
+    "category": "kgateway",
+    "color": "#0086C9",
+    "description": "Kgateway (black) CNCF project icon (Kgateway).",
+    "fullname": "Kgateway (black)",
+    "name": "kgateway-icon-black"
+  },
+  {
+    "path": "icons/kgateway/kgateway-icon-color.svg",
+    "tags": [
+      "color",
+      "kgateway"
+    ],
+    "category": "kgateway",
+    "color": "#0086C9",
+    "description": "Kgateway (color) CNCF project icon (Kgateway).",
+    "fullname": "Kgateway (color)",
+    "name": "kgateway-icon-color"
+  },
+  {
+    "path": "icons/kgateway/kgateway-icon-white.svg",
+    "tags": [
+      "kgateway",
+      "white"
+    ],
+    "category": "kgateway",
+    "color": "#0086C9",
+    "description": "Kgateway (white) CNCF project icon (Kgateway).",
+    "fullname": "Kgateway (white)",
+    "name": "kgateway-icon-white"
+  },
+  {
+    "path": "icons/kitops/kitops-icon-black.svg",
+    "tags": [
+      "black",
+      "kitops"
+    ],
+    "category": "kitops",
+    "color": "#0086C9",
+    "description": "Kitops (black) CNCF project icon (Kitops).",
+    "fullname": "Kitops (black)",
+    "name": "kitops-icon-black"
+  },
+  {
+    "path": "icons/kitops/kitops-icon-color.svg",
+    "tags": [
+      "color",
+      "kitops"
+    ],
+    "category": "kitops",
+    "color": "#0086C9",
+    "description": "Kitops (color) CNCF project icon (Kitops).",
+    "fullname": "Kitops (color)",
+    "name": "kitops-icon-color"
+  },
+  {
+    "path": "icons/kitops/kitops-icon-white.svg",
+    "tags": [
+      "kitops",
+      "white"
+    ],
+    "category": "kitops",
+    "color": "#0086C9",
+    "description": "Kitops (white) CNCF project icon (Kitops).",
+    "fullname": "Kitops (white)",
+    "name": "kitops-icon-white"
+  },
+  {
+    "path": "icons/kmesh/kmesh-icon-black.svg",
+    "tags": [
+      "black",
+      "kmesh"
+    ],
+    "category": "kmesh",
+    "color": "#0086C9",
+    "description": "Kmesh (black) CNCF project icon (Kmesh).",
+    "fullname": "Kmesh (black)",
+    "name": "kmesh-icon-black"
+  },
+  {
+    "path": "icons/kmesh/kmesh-icon-color.svg",
+    "tags": [
+      "color",
+      "kmesh"
+    ],
+    "category": "kmesh",
+    "color": "#0086C9",
+    "description": "Kmesh (color) CNCF project icon (Kmesh).",
+    "fullname": "Kmesh (color)",
+    "name": "kmesh-icon-color"
+  },
+  {
+    "path": "icons/kmesh/kmesh-icon-white.svg",
+    "tags": [
+      "kmesh",
+      "white"
+    ],
+    "category": "kmesh",
+    "color": "#0086C9",
+    "description": "Kmesh (white) CNCF project icon (Kmesh).",
+    "fullname": "Kmesh (white)",
+    "name": "kmesh-icon-white"
+  },
+  {
     "path": "icons/knative/knative-icon-color.svg",
     "tags": [
       "color",
@@ -1817,6 +4826,789 @@
     "description": "Knative (color) CNCF project icon (Knative).",
     "fullname": "Knative (color)",
     "name": "knative-icon-color"
+  },
+  {
+    "path": "icons/ko/ko-icon-color.svg",
+    "tags": [
+      "build",
+      "color",
+      "go",
+      "ko"
+    ],
+    "category": "ko",
+    "color": "#0086C9",
+    "description": "ko (color) CNCF project icon (ko).",
+    "fullname": "ko (color)",
+    "name": "ko-icon-color"
+  },
+  {
+    "path": "icons/konveyor/konveyor-icon-black.svg",
+    "tags": [
+      "black",
+      "konveyor"
+    ],
+    "category": "konveyor",
+    "color": "#0086C9",
+    "description": "Konveyor (black) CNCF project icon (Konveyor).",
+    "fullname": "Konveyor (black)",
+    "name": "konveyor-icon-black"
+  },
+  {
+    "path": "icons/konveyor/konveyor-icon-color.svg",
+    "tags": [
+      "color",
+      "konveyor"
+    ],
+    "category": "konveyor",
+    "color": "#0086C9",
+    "description": "Konveyor (color) CNCF project icon (Konveyor).",
+    "fullname": "Konveyor (color)",
+    "name": "konveyor-icon-color"
+  },
+  {
+    "path": "icons/konveyor/konveyor-icon-white.svg",
+    "tags": [
+      "konveyor",
+      "white"
+    ],
+    "category": "konveyor",
+    "color": "#0086C9",
+    "description": "Konveyor (white) CNCF project icon (Konveyor).",
+    "fullname": "Konveyor (white)",
+    "name": "konveyor-icon-white"
+  },
+  {
+    "path": "icons/koordinator/koordinator-icon-black.svg",
+    "tags": [
+      "black",
+      "koordinator"
+    ],
+    "category": "koordinator",
+    "color": "#0086C9",
+    "description": "Koordinator (black) CNCF project icon (Koordinator).",
+    "fullname": "Koordinator (black)",
+    "name": "koordinator-icon-black"
+  },
+  {
+    "path": "icons/koordinator/koordinator-icon-color.svg",
+    "tags": [
+      "color",
+      "koordinator"
+    ],
+    "category": "koordinator",
+    "color": "#0086C9",
+    "description": "Koordinator (color) CNCF project icon (Koordinator).",
+    "fullname": "Koordinator (color)",
+    "name": "koordinator-icon-color"
+  },
+  {
+    "path": "icons/koordinator/koordinator-icon-white.svg",
+    "tags": [
+      "koordinator",
+      "white"
+    ],
+    "category": "koordinator",
+    "color": "#0086C9",
+    "description": "Koordinator (white) CNCF project icon (Koordinator).",
+    "fullname": "Koordinator (white)",
+    "name": "koordinator-icon-white"
+  },
+  {
+    "path": "icons/kpt/kpt-icon-black.svg",
+    "tags": [
+      "black",
+      "kpt"
+    ],
+    "category": "kpt",
+    "color": "#0086C9",
+    "description": "Kpt (black) CNCF project icon (Kpt).",
+    "fullname": "Kpt (black)",
+    "name": "kpt-icon-black"
+  },
+  {
+    "path": "icons/kpt/kpt-icon-color.svg",
+    "tags": [
+      "color",
+      "kpt"
+    ],
+    "category": "kpt",
+    "color": "#0086C9",
+    "description": "Kpt (color) CNCF project icon (Kpt).",
+    "fullname": "Kpt (color)",
+    "name": "kpt-icon-color"
+  },
+  {
+    "path": "icons/kpt/kpt-icon-white.svg",
+    "tags": [
+      "kpt",
+      "white"
+    ],
+    "category": "kpt",
+    "color": "#0086C9",
+    "description": "Kpt (white) CNCF project icon (Kpt).",
+    "fullname": "Kpt (white)",
+    "name": "kpt-icon-white"
+  },
+  {
+    "path": "icons/krkn/krkn-icon-black.svg",
+    "tags": [
+      "black",
+      "krkn"
+    ],
+    "category": "krkn",
+    "color": "#0086C9",
+    "description": "Krkn (black) CNCF project icon (Krkn).",
+    "fullname": "Krkn (black)",
+    "name": "krkn-icon-black"
+  },
+  {
+    "path": "icons/krkn/krkn-icon-color.svg",
+    "tags": [
+      "color",
+      "krkn"
+    ],
+    "category": "krkn",
+    "color": "#0086C9",
+    "description": "Krkn (color) CNCF project icon (Krkn).",
+    "fullname": "Krkn (color)",
+    "name": "krkn-icon-color"
+  },
+  {
+    "path": "icons/krkn/krkn-icon-white.svg",
+    "tags": [
+      "krkn",
+      "white"
+    ],
+    "category": "krkn",
+    "color": "#0086C9",
+    "description": "Krkn (white) CNCF project icon (Krkn).",
+    "fullname": "Krkn (white)",
+    "name": "krkn-icon-white"
+  },
+  {
+    "path": "icons/kserve/kserve-icon-black.svg",
+    "tags": [
+      "black",
+      "inference",
+      "kserve",
+      "ml"
+    ],
+    "category": "kserve",
+    "color": "#0086C9",
+    "description": "KServe (black) CNCF project icon (KServe).",
+    "fullname": "KServe (black)",
+    "name": "kserve-icon-black"
+  },
+  {
+    "path": "icons/kserve/kserve-icon-color.svg",
+    "tags": [
+      "color",
+      "inference",
+      "kserve",
+      "ml"
+    ],
+    "category": "kserve",
+    "color": "#0086C9",
+    "description": "KServe (color) CNCF project icon (KServe).",
+    "fullname": "KServe (color)",
+    "name": "kserve-icon-color"
+  },
+  {
+    "path": "icons/kserve/kserve-icon-white.svg",
+    "tags": [
+      "inference",
+      "kserve",
+      "ml",
+      "white"
+    ],
+    "category": "kserve",
+    "color": "#0086C9",
+    "description": "KServe (white) CNCF project icon (KServe).",
+    "fullname": "KServe (white)",
+    "name": "kserve-icon-white"
+  },
+  {
+    "path": "icons/kuadrant/kuadrant-icon-black.svg",
+    "tags": [
+      "black",
+      "kuadrant"
+    ],
+    "category": "kuadrant",
+    "color": "#0086C9",
+    "description": "Kuadrant (black) CNCF project icon (Kuadrant).",
+    "fullname": "Kuadrant (black)",
+    "name": "kuadrant-icon-black"
+  },
+  {
+    "path": "icons/kuadrant/kuadrant-icon-color.svg",
+    "tags": [
+      "color",
+      "kuadrant"
+    ],
+    "category": "kuadrant",
+    "color": "#0086C9",
+    "description": "Kuadrant (color) CNCF project icon (Kuadrant).",
+    "fullname": "Kuadrant (color)",
+    "name": "kuadrant-icon-color"
+  },
+  {
+    "path": "icons/kuadrant/kuadrant-icon-white.svg",
+    "tags": [
+      "kuadrant",
+      "white"
+    ],
+    "category": "kuadrant",
+    "color": "#0086C9",
+    "description": "Kuadrant (white) CNCF project icon (Kuadrant).",
+    "fullname": "Kuadrant (white)",
+    "name": "kuadrant-icon-white"
+  },
+  {
+    "path": "icons/kuasar/kuasar-icon-black.svg",
+    "tags": [
+      "black",
+      "kuasar"
+    ],
+    "category": "kuasar",
+    "color": "#0086C9",
+    "description": "Kuasar (black) CNCF project icon (Kuasar).",
+    "fullname": "Kuasar (black)",
+    "name": "kuasar-icon-black"
+  },
+  {
+    "path": "icons/kuasar/kuasar-icon-color.svg",
+    "tags": [
+      "color",
+      "kuasar"
+    ],
+    "category": "kuasar",
+    "color": "#0086C9",
+    "description": "Kuasar (color) CNCF project icon (Kuasar).",
+    "fullname": "Kuasar (color)",
+    "name": "kuasar-icon-color"
+  },
+  {
+    "path": "icons/kuasar/kuasar-icon-white.svg",
+    "tags": [
+      "kuasar",
+      "white"
+    ],
+    "category": "kuasar",
+    "color": "#0086C9",
+    "description": "Kuasar (white) CNCF project icon (Kuasar).",
+    "fullname": "Kuasar (white)",
+    "name": "kuasar-icon-white"
+  },
+  {
+    "path": "icons/kube-burner/kube-burner-icon-black.svg",
+    "tags": [
+      "black",
+      "kube-burner"
+    ],
+    "category": "kube-burner",
+    "color": "#0086C9",
+    "description": "Kube Burner (black) CNCF project icon (Kube Burner).",
+    "fullname": "Kube Burner (black)",
+    "name": "kube-burner-icon-black"
+  },
+  {
+    "path": "icons/kube-burner/kube-burner-icon-color.svg",
+    "tags": [
+      "color",
+      "kube-burner"
+    ],
+    "category": "kube-burner",
+    "color": "#0086C9",
+    "description": "Kube Burner (color) CNCF project icon (Kube Burner).",
+    "fullname": "Kube Burner (color)",
+    "name": "kube-burner-icon-color"
+  },
+  {
+    "path": "icons/kube-burner/kube-burner-icon-white.svg",
+    "tags": [
+      "kube-burner",
+      "white"
+    ],
+    "category": "kube-burner",
+    "color": "#0086C9",
+    "description": "Kube Burner (white) CNCF project icon (Kube Burner).",
+    "fullname": "Kube Burner (white)",
+    "name": "kube-burner-icon-white"
+  },
+  {
+    "path": "icons/kube-ovn/kube-ovn-icon-black.svg",
+    "tags": [
+      "black",
+      "kube-ovn"
+    ],
+    "category": "kube-ovn",
+    "color": "#0086C9",
+    "description": "Kube Ovn (black) CNCF project icon (Kube Ovn).",
+    "fullname": "Kube Ovn (black)",
+    "name": "kube-ovn-icon-black"
+  },
+  {
+    "path": "icons/kube-ovn/kube-ovn-icon-color.svg",
+    "tags": [
+      "color",
+      "kube-ovn"
+    ],
+    "category": "kube-ovn",
+    "color": "#0086C9",
+    "description": "Kube Ovn (color) CNCF project icon (Kube Ovn).",
+    "fullname": "Kube Ovn (color)",
+    "name": "kube-ovn-icon-color"
+  },
+  {
+    "path": "icons/kube-ovn/kube-ovn-icon-white.svg",
+    "tags": [
+      "kube-ovn",
+      "white"
+    ],
+    "category": "kube-ovn",
+    "color": "#0086C9",
+    "description": "Kube Ovn (white) CNCF project icon (Kube Ovn).",
+    "fullname": "Kube Ovn (white)",
+    "name": "kube-ovn-icon-white"
+  },
+  {
+    "path": "icons/kube-rs/kube-rs-icon-black.svg",
+    "tags": [
+      "black",
+      "client",
+      "kube-rs",
+      "rust"
+    ],
+    "category": "kube-rs",
+    "color": "#0086C9",
+    "description": "kube-rs (black) CNCF project icon (kube-rs).",
+    "fullname": "kube-rs (black)",
+    "name": "kube-rs-icon-black"
+  },
+  {
+    "path": "icons/kube-rs/kube-rs-icon-white.svg",
+    "tags": [
+      "client",
+      "kube-rs",
+      "rust",
+      "white"
+    ],
+    "category": "kube-rs",
+    "color": "#0086C9",
+    "description": "kube-rs (white) CNCF project icon (kube-rs).",
+    "fullname": "kube-rs (white)",
+    "name": "kube-rs-icon-white"
+  },
+  {
+    "path": "icons/kubean/kubean-icon-black.svg",
+    "tags": [
+      "black",
+      "kubean"
+    ],
+    "category": "kubean",
+    "color": "#0086C9",
+    "description": "Kubean (black) CNCF project icon (Kubean).",
+    "fullname": "Kubean (black)",
+    "name": "kubean-icon-black"
+  },
+  {
+    "path": "icons/kubean/kubean-icon-color.svg",
+    "tags": [
+      "color",
+      "kubean"
+    ],
+    "category": "kubean",
+    "color": "#0086C9",
+    "description": "Kubean (color) CNCF project icon (Kubean).",
+    "fullname": "Kubean (color)",
+    "name": "kubean-icon-color"
+  },
+  {
+    "path": "icons/kubean/kubean-icon-white.svg",
+    "tags": [
+      "kubean",
+      "white"
+    ],
+    "category": "kubean",
+    "color": "#0086C9",
+    "description": "Kubean (white) CNCF project icon (Kubean).",
+    "fullname": "Kubean (white)",
+    "name": "kubean-icon-white"
+  },
+  {
+    "path": "icons/kubearmor/kubearmor-icon-black.svg",
+    "tags": [
+      "black",
+      "kubearmor"
+    ],
+    "category": "kubearmor",
+    "color": "#0086C9",
+    "description": "Kubearmor (black) CNCF project icon (Kubearmor).",
+    "fullname": "Kubearmor (black)",
+    "name": "kubearmor-icon-black"
+  },
+  {
+    "path": "icons/kubearmor/kubearmor-icon-color.svg",
+    "tags": [
+      "color",
+      "kubearmor"
+    ],
+    "category": "kubearmor",
+    "color": "#0086C9",
+    "description": "Kubearmor (color) CNCF project icon (Kubearmor).",
+    "fullname": "Kubearmor (color)",
+    "name": "kubearmor-icon-color"
+  },
+  {
+    "path": "icons/kubearmor/kubearmor-icon-white.svg",
+    "tags": [
+      "kubearmor",
+      "white"
+    ],
+    "category": "kubearmor",
+    "color": "#0086C9",
+    "description": "Kubearmor (white) CNCF project icon (Kubearmor).",
+    "fullname": "Kubearmor (white)",
+    "name": "kubearmor-icon-white"
+  },
+  {
+    "path": "icons/kubeedge/kubeedge-icon-black.svg",
+    "tags": [
+      "black",
+      "edge",
+      "kubeedge"
+    ],
+    "category": "kubeedge",
+    "color": "#0086C9",
+    "description": "KubeEdge (black) CNCF project icon (KubeEdge).",
+    "fullname": "KubeEdge (black)",
+    "name": "kubeedge-icon-black"
+  },
+  {
+    "path": "icons/kubeedge/kubeedge-icon-color.svg",
+    "tags": [
+      "color",
+      "edge",
+      "kubeedge"
+    ],
+    "category": "kubeedge",
+    "color": "#0086C9",
+    "description": "KubeEdge (color) CNCF project icon (KubeEdge).",
+    "fullname": "KubeEdge (color)",
+    "name": "kubeedge-icon-color"
+  },
+  {
+    "path": "icons/kubeedge/kubeedge-icon-white.svg",
+    "tags": [
+      "edge",
+      "kubeedge",
+      "white"
+    ],
+    "category": "kubeedge",
+    "color": "#0086C9",
+    "description": "KubeEdge (white) CNCF project icon (KubeEdge).",
+    "fullname": "KubeEdge (white)",
+    "name": "kubeedge-icon-white"
+  },
+  {
+    "path": "icons/kubeelasti/kubeelasti-icon-black.svg",
+    "tags": [
+      "black",
+      "kubeelasti"
+    ],
+    "category": "kubeelasti",
+    "color": "#0086C9",
+    "description": "Kubeelasti (black) CNCF project icon (Kubeelasti).",
+    "fullname": "Kubeelasti (black)",
+    "name": "kubeelasti-icon-black"
+  },
+  {
+    "path": "icons/kubeelasti/kubeelasti-icon-color.svg",
+    "tags": [
+      "color",
+      "kubeelasti"
+    ],
+    "category": "kubeelasti",
+    "color": "#0086C9",
+    "description": "Kubeelasti (color) CNCF project icon (Kubeelasti).",
+    "fullname": "Kubeelasti (color)",
+    "name": "kubeelasti-icon-color"
+  },
+  {
+    "path": "icons/kubeelasti/kubeelasti-icon-white.svg",
+    "tags": [
+      "kubeelasti",
+      "white"
+    ],
+    "category": "kubeelasti",
+    "color": "#0086C9",
+    "description": "Kubeelasti (white) CNCF project icon (Kubeelasti).",
+    "fullname": "Kubeelasti (white)",
+    "name": "kubeelasti-icon-white"
+  },
+  {
+    "path": "icons/kubefleet/kubefleet-icon-black.svg",
+    "tags": [
+      "black",
+      "kubefleet"
+    ],
+    "category": "kubefleet",
+    "color": "#0086C9",
+    "description": "Kubefleet (black) CNCF project icon (Kubefleet).",
+    "fullname": "Kubefleet (black)",
+    "name": "kubefleet-icon-black"
+  },
+  {
+    "path": "icons/kubefleet/kubefleet-icon-color.svg",
+    "tags": [
+      "color",
+      "kubefleet"
+    ],
+    "category": "kubefleet",
+    "color": "#0086C9",
+    "description": "Kubefleet (color) CNCF project icon (Kubefleet).",
+    "fullname": "Kubefleet (color)",
+    "name": "kubefleet-icon-color"
+  },
+  {
+    "path": "icons/kubefleet/kubefleet-icon-white.svg",
+    "tags": [
+      "kubefleet",
+      "white"
+    ],
+    "category": "kubefleet",
+    "color": "#0086C9",
+    "description": "Kubefleet (white) CNCF project icon (Kubefleet).",
+    "fullname": "Kubefleet (white)",
+    "name": "kubefleet-icon-white"
+  },
+  {
+    "path": "icons/kubeflow/kubeflow-icon-black.svg",
+    "tags": [
+      "ai",
+      "black",
+      "kubeflow",
+      "ml"
+    ],
+    "category": "kubeflow",
+    "color": "#0086C9",
+    "description": "Kubeflow (black) CNCF project icon (Kubeflow).",
+    "fullname": "Kubeflow (black)",
+    "name": "kubeflow-icon-black"
+  },
+  {
+    "path": "icons/kubeflow/kubeflow-icon-color.svg",
+    "tags": [
+      "ai",
+      "color",
+      "kubeflow",
+      "ml"
+    ],
+    "category": "kubeflow",
+    "color": "#0086C9",
+    "description": "Kubeflow (color) CNCF project icon (Kubeflow).",
+    "fullname": "Kubeflow (color)",
+    "name": "kubeflow-icon-color"
+  },
+  {
+    "path": "icons/kubeflow/kubeflow-icon-white.svg",
+    "tags": [
+      "ai",
+      "kubeflow",
+      "ml",
+      "white"
+    ],
+    "category": "kubeflow",
+    "color": "#0086C9",
+    "description": "Kubeflow (white) CNCF project icon (Kubeflow).",
+    "fullname": "Kubeflow (white)",
+    "name": "kubeflow-icon-white"
+  },
+  {
+    "path": "icons/kubeflow-notebooks/kubeflow-notebooks-icon-black.svg",
+    "tags": [
+      "black",
+      "kubeflow-notebooks"
+    ],
+    "category": "kubeflow-notebooks",
+    "color": "#0086C9",
+    "description": "Kubeflow Notebooks (black) CNCF project icon (Kubeflow Notebooks).",
+    "fullname": "Kubeflow Notebooks (black)",
+    "name": "kubeflow-notebooks-icon-black"
+  },
+  {
+    "path": "icons/kubeflow-notebooks/kubeflow-notebooks-icon-color.svg",
+    "tags": [
+      "color",
+      "kubeflow-notebooks"
+    ],
+    "category": "kubeflow-notebooks",
+    "color": "#0086C9",
+    "description": "Kubeflow Notebooks (color) CNCF project icon (Kubeflow Notebooks).",
+    "fullname": "Kubeflow Notebooks (color)",
+    "name": "kubeflow-notebooks-icon-color"
+  },
+  {
+    "path": "icons/kubeflow-notebooks/kubeflow-notebooks-icon-white.svg",
+    "tags": [
+      "kubeflow-notebooks",
+      "white"
+    ],
+    "category": "kubeflow-notebooks",
+    "color": "#0086C9",
+    "description": "Kubeflow Notebooks (white) CNCF project icon (Kubeflow Notebooks).",
+    "fullname": "Kubeflow Notebooks (white)",
+    "name": "kubeflow-notebooks-icon-white"
+  },
+  {
+    "path": "icons/kubeflow-pipelines/kubeflow-pipelines-icon-black.svg",
+    "tags": [
+      "black",
+      "kubeflow-pipelines"
+    ],
+    "category": "kubeflow-pipelines",
+    "color": "#0086C9",
+    "description": "Kubeflow Pipelines (black) CNCF project icon (Kubeflow Pipelines).",
+    "fullname": "Kubeflow Pipelines (black)",
+    "name": "kubeflow-pipelines-icon-black"
+  },
+  {
+    "path": "icons/kubeflow-pipelines/kubeflow-pipelines-icon-color.svg",
+    "tags": [
+      "color",
+      "kubeflow-pipelines"
+    ],
+    "category": "kubeflow-pipelines",
+    "color": "#0086C9",
+    "description": "Kubeflow Pipelines (color) CNCF project icon (Kubeflow Pipelines).",
+    "fullname": "Kubeflow Pipelines (color)",
+    "name": "kubeflow-pipelines-icon-color"
+  },
+  {
+    "path": "icons/kubeflow-pipelines/kubeflow-pipelines-icon-white.svg",
+    "tags": [
+      "kubeflow-pipelines",
+      "white"
+    ],
+    "category": "kubeflow-pipelines",
+    "color": "#0086C9",
+    "description": "Kubeflow Pipelines (white) CNCF project icon (Kubeflow Pipelines).",
+    "fullname": "Kubeflow Pipelines (white)",
+    "name": "kubeflow-pipelines-icon-white"
+  },
+  {
+    "path": "icons/kubeflow-spark-operator/kubeflow-spark-operator-icon-black.svg",
+    "tags": [
+      "black",
+      "kubeflow-spark-operator",
+      "ml",
+      "spark"
+    ],
+    "category": "kubeflow-spark-operator",
+    "color": "#0086C9",
+    "description": "Kubeflow Spark Operator (black) CNCF project icon (Kubeflow Spark Operator).",
+    "fullname": "Kubeflow Spark Operator (black)",
+    "name": "kubeflow-spark-operator-icon-black"
+  },
+  {
+    "path": "icons/kubeflow-spark-operator/kubeflow-spark-operator-icon-color.svg",
+    "tags": [
+      "color",
+      "kubeflow-spark-operator",
+      "ml",
+      "spark"
+    ],
+    "category": "kubeflow-spark-operator",
+    "color": "#0086C9",
+    "description": "Kubeflow Spark Operator (color) CNCF project icon (Kubeflow Spark Operator).",
+    "fullname": "Kubeflow Spark Operator (color)",
+    "name": "kubeflow-spark-operator-icon-color"
+  },
+  {
+    "path": "icons/kubeflow-spark-operator/kubeflow-spark-operator-icon-white.svg",
+    "tags": [
+      "kubeflow-spark-operator",
+      "ml",
+      "spark",
+      "white"
+    ],
+    "category": "kubeflow-spark-operator",
+    "color": "#0086C9",
+    "description": "Kubeflow Spark Operator (white) CNCF project icon (Kubeflow Spark Operator).",
+    "fullname": "Kubeflow Spark Operator (white)",
+    "name": "kubeflow-spark-operator-icon-white"
+  },
+  {
+    "path": "icons/kubeflow-trainer/kubeflow-trainer-icon-black.svg",
+    "tags": [
+      "black",
+      "kubeflow-trainer"
+    ],
+    "category": "kubeflow-trainer",
+    "color": "#0086C9",
+    "description": "Kubeflow Trainer (black) CNCF project icon (Kubeflow Trainer).",
+    "fullname": "Kubeflow Trainer (black)",
+    "name": "kubeflow-trainer-icon-black"
+  },
+  {
+    "path": "icons/kubeflow-trainer/kubeflow-trainer-icon-color.svg",
+    "tags": [
+      "color",
+      "kubeflow-trainer"
+    ],
+    "category": "kubeflow-trainer",
+    "color": "#0086C9",
+    "description": "Kubeflow Trainer (color) CNCF project icon (Kubeflow Trainer).",
+    "fullname": "Kubeflow Trainer (color)",
+    "name": "kubeflow-trainer-icon-color"
+  },
+  {
+    "path": "icons/kubeflow-trainer/kubeflow-trainer-icon-white.svg",
+    "tags": [
+      "kubeflow-trainer",
+      "white"
+    ],
+    "category": "kubeflow-trainer",
+    "color": "#0086C9",
+    "description": "Kubeflow Trainer (white) CNCF project icon (Kubeflow Trainer).",
+    "fullname": "Kubeflow Trainer (white)",
+    "name": "kubeflow-trainer-icon-white"
+  },
+  {
+    "path": "icons/kuberhealthy/kuberhealthy-icon-black.svg",
+    "tags": [
+      "black",
+      "kuberhealthy"
+    ],
+    "category": "kuberhealthy",
+    "color": "#0086C9",
+    "description": "Kuberhealthy (black) CNCF project icon (Kuberhealthy).",
+    "fullname": "Kuberhealthy (black)",
+    "name": "kuberhealthy-icon-black"
+  },
+  {
+    "path": "icons/kuberhealthy/kuberhealthy-icon-color.svg",
+    "tags": [
+      "color",
+      "kuberhealthy"
+    ],
+    "category": "kuberhealthy",
+    "color": "#0086C9",
+    "description": "Kuberhealthy (color) CNCF project icon (Kuberhealthy).",
+    "fullname": "Kuberhealthy (color)",
+    "name": "kuberhealthy-icon-color"
+  },
+  {
+    "path": "icons/kuberhealthy/kuberhealthy-icon-white.svg",
+    "tags": [
+      "kuberhealthy",
+      "white"
+    ],
+    "category": "kuberhealthy",
+    "color": "#0086C9",
+    "description": "Kuberhealthy (white) CNCF project icon (Kuberhealthy).",
+    "fullname": "Kuberhealthy (white)",
+    "name": "kuberhealthy-icon-white"
   },
   {
     "path": "icons/kubernetes/kubernetes-icon-black.svg",
@@ -1856,6 +5648,453 @@
     "description": "Kubernetes (white) CNCF project icon (Kubernetes).",
     "fullname": "Kubernetes (white)",
     "name": "kubernetes-icon-white"
+  },
+  {
+    "path": "icons/kubescape/kubescape-icon-black.svg",
+    "tags": [
+      "black",
+      "kubescape"
+    ],
+    "category": "kubescape",
+    "color": "#0086C9",
+    "description": "Kubescape (black) CNCF project icon (Kubescape).",
+    "fullname": "Kubescape (black)",
+    "name": "kubescape-icon-black"
+  },
+  {
+    "path": "icons/kubescape/kubescape-icon-color.svg",
+    "tags": [
+      "color",
+      "kubescape"
+    ],
+    "category": "kubescape",
+    "color": "#0086C9",
+    "description": "Kubescape (color) CNCF project icon (Kubescape).",
+    "fullname": "Kubescape (color)",
+    "name": "kubescape-icon-color"
+  },
+  {
+    "path": "icons/kubescape/kubescape-icon-white.svg",
+    "tags": [
+      "kubescape",
+      "white"
+    ],
+    "category": "kubescape",
+    "color": "#0086C9",
+    "description": "Kubescape (white) CNCF project icon (Kubescape).",
+    "fullname": "Kubescape (white)",
+    "name": "kubescape-icon-white"
+  },
+  {
+    "path": "icons/kubeslice/kubeslice-icon-black.svg",
+    "tags": [
+      "black",
+      "kubeslice"
+    ],
+    "category": "kubeslice",
+    "color": "#0086C9",
+    "description": "Kubeslice (black) CNCF project icon (Kubeslice).",
+    "fullname": "Kubeslice (black)",
+    "name": "kubeslice-icon-black"
+  },
+  {
+    "path": "icons/kubeslice/kubeslice-icon-color.svg",
+    "tags": [
+      "color",
+      "kubeslice"
+    ],
+    "category": "kubeslice",
+    "color": "#0086C9",
+    "description": "Kubeslice (color) CNCF project icon (Kubeslice).",
+    "fullname": "Kubeslice (color)",
+    "name": "kubeslice-icon-color"
+  },
+  {
+    "path": "icons/kubeslice/kubeslice-icon-white.svg",
+    "tags": [
+      "kubeslice",
+      "white"
+    ],
+    "category": "kubeslice",
+    "color": "#0086C9",
+    "description": "Kubeslice (white) CNCF project icon (Kubeslice).",
+    "fullname": "Kubeslice (white)",
+    "name": "kubeslice-icon-white"
+  },
+  {
+    "path": "icons/kubestellar/kubestellar-icon-black.svg",
+    "tags": [
+      "black",
+      "kubestellar"
+    ],
+    "category": "kubestellar",
+    "color": "#0086C9",
+    "description": "Kubestellar (black) CNCF project icon (Kubestellar).",
+    "fullname": "Kubestellar (black)",
+    "name": "kubestellar-icon-black"
+  },
+  {
+    "path": "icons/kubestellar/kubestellar-icon-color.svg",
+    "tags": [
+      "color",
+      "kubestellar"
+    ],
+    "category": "kubestellar",
+    "color": "#0086C9",
+    "description": "Kubestellar (color) CNCF project icon (Kubestellar).",
+    "fullname": "Kubestellar (color)",
+    "name": "kubestellar-icon-color"
+  },
+  {
+    "path": "icons/kubestellar/kubestellar-icon-white.svg",
+    "tags": [
+      "kubestellar",
+      "white"
+    ],
+    "category": "kubestellar",
+    "color": "#0086C9",
+    "description": "Kubestellar (white) CNCF project icon (Kubestellar).",
+    "fullname": "Kubestellar (white)",
+    "name": "kubestellar-icon-white"
+  },
+  {
+    "path": "icons/kubevela/kubevela-icon-black.svg",
+    "tags": [
+      "black",
+      "kubevela"
+    ],
+    "category": "kubevela",
+    "color": "#0086C9",
+    "description": "Kubevela (black) CNCF project icon (Kubevela).",
+    "fullname": "Kubevela (black)",
+    "name": "kubevela-icon-black"
+  },
+  {
+    "path": "icons/kubevela/kubevela-icon-color.svg",
+    "tags": [
+      "color",
+      "kubevela"
+    ],
+    "category": "kubevela",
+    "color": "#0086C9",
+    "description": "Kubevela (color) CNCF project icon (Kubevela).",
+    "fullname": "Kubevela (color)",
+    "name": "kubevela-icon-color"
+  },
+  {
+    "path": "icons/kubevela/kubevela-icon-white.svg",
+    "tags": [
+      "kubevela",
+      "white"
+    ],
+    "category": "kubevela",
+    "color": "#0086C9",
+    "description": "Kubevela (white) CNCF project icon (Kubevela).",
+    "fullname": "Kubevela (white)",
+    "name": "kubevela-icon-white"
+  },
+  {
+    "path": "icons/kubevirt/kubevirt-icon-black.svg",
+    "tags": [
+      "black",
+      "kubevirt",
+      "virtualization",
+      "vm"
+    ],
+    "category": "kubevirt",
+    "color": "#0086C9",
+    "description": "KubeVirt (black) CNCF project icon (KubeVirt).",
+    "fullname": "KubeVirt (black)",
+    "name": "kubevirt-icon-black"
+  },
+  {
+    "path": "icons/kubevirt/kubevirt-icon-color.svg",
+    "tags": [
+      "color",
+      "kubevirt",
+      "virtualization",
+      "vm"
+    ],
+    "category": "kubevirt",
+    "color": "#0086C9",
+    "description": "KubeVirt (color) CNCF project icon (KubeVirt).",
+    "fullname": "KubeVirt (color)",
+    "name": "kubevirt-icon-color"
+  },
+  {
+    "path": "icons/kubevirt/kubevirt-icon-white.svg",
+    "tags": [
+      "kubevirt",
+      "virtualization",
+      "vm",
+      "white"
+    ],
+    "category": "kubevirt",
+    "color": "#0086C9",
+    "description": "KubeVirt (white) CNCF project icon (KubeVirt).",
+    "fullname": "KubeVirt (white)",
+    "name": "kubevirt-icon-white"
+  },
+  {
+    "path": "icons/kubewarden/kubewarden-icon-black.svg",
+    "tags": [
+      "black",
+      "kubewarden"
+    ],
+    "category": "kubewarden",
+    "color": "#0086C9",
+    "description": "Kubewarden (black) CNCF project icon (Kubewarden).",
+    "fullname": "Kubewarden (black)",
+    "name": "kubewarden-icon-black"
+  },
+  {
+    "path": "icons/kubewarden/kubewarden-icon-color.svg",
+    "tags": [
+      "color",
+      "kubewarden"
+    ],
+    "category": "kubewarden",
+    "color": "#0086C9",
+    "description": "Kubewarden (color) CNCF project icon (Kubewarden).",
+    "fullname": "Kubewarden (color)",
+    "name": "kubewarden-icon-color"
+  },
+  {
+    "path": "icons/kubewarden/kubewarden-icon-white.svg",
+    "tags": [
+      "kubewarden",
+      "white"
+    ],
+    "category": "kubewarden",
+    "color": "#0086C9",
+    "description": "Kubewarden (white) CNCF project icon (Kubewarden).",
+    "fullname": "Kubewarden (white)",
+    "name": "kubewarden-icon-white"
+  },
+  {
+    "path": "icons/kudo/kudo-icon-black.svg",
+    "tags": [
+      "black",
+      "kudo"
+    ],
+    "category": "kudo",
+    "color": "#0086C9",
+    "description": "Kudo (black) CNCF project icon (Kudo).",
+    "fullname": "Kudo (black)",
+    "name": "kudo-icon-black"
+  },
+  {
+    "path": "icons/kudo/kudo-icon-color.svg",
+    "tags": [
+      "color",
+      "kudo"
+    ],
+    "category": "kudo",
+    "color": "#0086C9",
+    "description": "Kudo (color) CNCF project icon (Kudo).",
+    "fullname": "Kudo (color)",
+    "name": "kudo-icon-color"
+  },
+  {
+    "path": "icons/kudo/kudo-icon-white.svg",
+    "tags": [
+      "kudo",
+      "white"
+    ],
+    "category": "kudo",
+    "color": "#0086C9",
+    "description": "Kudo (white) CNCF project icon (Kudo).",
+    "fullname": "Kudo (white)",
+    "name": "kudo-icon-white"
+  },
+  {
+    "path": "icons/kueue/kueue-icon-black.svg",
+    "tags": [
+      "batch",
+      "black",
+      "kueue",
+      "queue",
+      "scheduling"
+    ],
+    "category": "kueue",
+    "color": "#0086C9",
+    "description": "Kueue (black) CNCF project icon (Kueue).",
+    "fullname": "Kueue (black)",
+    "name": "kueue-icon-black"
+  },
+  {
+    "path": "icons/kueue/kueue-icon-color.svg",
+    "tags": [
+      "batch",
+      "color",
+      "kueue",
+      "queue",
+      "scheduling"
+    ],
+    "category": "kueue",
+    "color": "#0086C9",
+    "description": "Kueue (color) CNCF project icon (Kueue).",
+    "fullname": "Kueue (color)",
+    "name": "kueue-icon-color"
+  },
+  {
+    "path": "icons/kueue/kueue-icon-white.svg",
+    "tags": [
+      "batch",
+      "kueue",
+      "queue",
+      "scheduling",
+      "white"
+    ],
+    "category": "kueue",
+    "color": "#0086C9",
+    "description": "Kueue (white) CNCF project icon (Kueue).",
+    "fullname": "Kueue (white)",
+    "name": "kueue-icon-white"
+  },
+  {
+    "path": "icons/kueueviz/kueueviz-icon-black.svg",
+    "tags": [
+      "black",
+      "kueueviz"
+    ],
+    "category": "kueueviz",
+    "color": "#0086C9",
+    "description": "KueueViz (black) CNCF project icon (KueueViz).",
+    "fullname": "KueueViz (black)",
+    "name": "kueueviz-icon-black"
+  },
+  {
+    "path": "icons/kueueviz/kueueviz-icon-color.svg",
+    "tags": [
+      "color",
+      "kueueviz"
+    ],
+    "category": "kueueviz",
+    "color": "#0086C9",
+    "description": "KueueViz (color) CNCF project icon (KueueViz).",
+    "fullname": "KueueViz (color)",
+    "name": "kueueviz-icon-color"
+  },
+  {
+    "path": "icons/kueueviz/kueueviz-icon-white.svg",
+    "tags": [
+      "kueueviz",
+      "white"
+    ],
+    "category": "kueueviz",
+    "color": "#0086C9",
+    "description": "KueueViz (white) CNCF project icon (KueueViz).",
+    "fullname": "KueueViz (white)",
+    "name": "kueueviz-icon-white"
+  },
+  {
+    "path": "icons/kuma/kuma-icon-black.svg",
+    "tags": [
+      "black",
+      "kuma"
+    ],
+    "category": "kuma",
+    "color": "#0086C9",
+    "description": "Kuma (black) CNCF project icon (Kuma).",
+    "fullname": "Kuma (black)",
+    "name": "kuma-icon-black"
+  },
+  {
+    "path": "icons/kuma/kuma-icon-color.svg",
+    "tags": [
+      "color",
+      "kuma"
+    ],
+    "category": "kuma",
+    "color": "#0086C9",
+    "description": "Kuma (color) CNCF project icon (Kuma).",
+    "fullname": "Kuma (color)",
+    "name": "kuma-icon-color"
+  },
+  {
+    "path": "icons/kuma/kuma-icon-white.svg",
+    "tags": [
+      "kuma",
+      "white"
+    ],
+    "category": "kuma",
+    "color": "#0086C9",
+    "description": "Kuma (white) CNCF project icon (Kuma).",
+    "fullname": "Kuma (white)",
+    "name": "kuma-icon-white"
+  },
+  {
+    "path": "icons/kured/kured-icon-black.svg",
+    "tags": [
+      "black",
+      "kured"
+    ],
+    "category": "kured",
+    "color": "#0086C9",
+    "description": "Kured (black) CNCF project icon (Kured).",
+    "fullname": "Kured (black)",
+    "name": "kured-icon-black"
+  },
+  {
+    "path": "icons/kured/kured-icon-color.svg",
+    "tags": [
+      "color",
+      "kured"
+    ],
+    "category": "kured",
+    "color": "#0086C9",
+    "description": "Kured (color) CNCF project icon (Kured).",
+    "fullname": "Kured (color)",
+    "name": "kured-icon-color"
+  },
+  {
+    "path": "icons/kured/kured-icon-white.svg",
+    "tags": [
+      "kured",
+      "white"
+    ],
+    "category": "kured",
+    "color": "#0086C9",
+    "description": "Kured (white) CNCF project icon (Kured).",
+    "fullname": "Kured (white)",
+    "name": "kured-icon-white"
+  },
+  {
+    "path": "icons/kusionstack/kusionstack-icon-black.svg",
+    "tags": [
+      "black",
+      "kusionstack"
+    ],
+    "category": "kusionstack",
+    "color": "#0086C9",
+    "description": "Kusionstack (black) CNCF project icon (Kusionstack).",
+    "fullname": "Kusionstack (black)",
+    "name": "kusionstack-icon-black"
+  },
+  {
+    "path": "icons/kusionstack/kusionstack-icon-color.svg",
+    "tags": [
+      "color",
+      "kusionstack"
+    ],
+    "category": "kusionstack",
+    "color": "#0086C9",
+    "description": "Kusionstack (color) CNCF project icon (Kusionstack).",
+    "fullname": "Kusionstack (color)",
+    "name": "kusionstack-icon-color"
+  },
+  {
+    "path": "icons/kusionstack/kusionstack-icon-white.svg",
+    "tags": [
+      "kusionstack",
+      "white"
+    ],
+    "category": "kusionstack",
+    "color": "#0086C9",
+    "description": "Kusionstack (white) CNCF project icon (Kusionstack).",
+    "fullname": "Kusionstack (white)",
+    "name": "kusionstack-icon-white"
   },
   {
     "path": "icons/kyverno/kyverno-icon-black.svg",
@@ -1943,13 +6182,389 @@
     "tags": [
       "linkerd",
       "mesh",
-      "service-mesh"
+      "service-mesh",
+      "wireframe"
     ],
     "category": "linkerd",
     "color": "#0086C9",
-    "description": "Linkerd Icon Wireframe CNCF project icon (Linkerd).",
-    "fullname": "Linkerd Icon Wireframe",
+    "description": "Linkerd (wireframe) CNCF project icon (Linkerd).",
+    "fullname": "Linkerd (wireframe)",
     "name": "linkerd-icon-wireframe"
+  },
+  {
+    "path": "icons/litmus/litmus-icon-black.svg",
+    "tags": [
+      "black",
+      "chaos",
+      "litmus",
+      "testing"
+    ],
+    "category": "litmus",
+    "color": "#0086C9",
+    "description": "LitmusChaos (black) CNCF project icon (LitmusChaos).",
+    "fullname": "LitmusChaos (black)",
+    "name": "litmus-icon-black"
+  },
+  {
+    "path": "icons/litmus/litmus-icon-color.svg",
+    "tags": [
+      "chaos",
+      "color",
+      "litmus",
+      "testing"
+    ],
+    "category": "litmus",
+    "color": "#0086C9",
+    "description": "LitmusChaos (color) CNCF project icon (LitmusChaos).",
+    "fullname": "LitmusChaos (color)",
+    "name": "litmus-icon-color"
+  },
+  {
+    "path": "icons/litmus/litmus-icon-white.svg",
+    "tags": [
+      "chaos",
+      "litmus",
+      "testing",
+      "white"
+    ],
+    "category": "litmus",
+    "color": "#0086C9",
+    "description": "LitmusChaos (white) CNCF project icon (LitmusChaos).",
+    "fullname": "LitmusChaos (white)",
+    "name": "litmus-icon-white"
+  },
+  {
+    "path": "icons/llm-d/llm-d-icon-black.svg",
+    "tags": [
+      "black",
+      "llm-d"
+    ],
+    "category": "llm-d",
+    "color": "#0086C9",
+    "description": "llm-d (black) CNCF project icon (llm-d).",
+    "fullname": "llm-d (black)",
+    "name": "llm-d-icon-black"
+  },
+  {
+    "path": "icons/llm-d/llm-d-icon-color.svg",
+    "tags": [
+      "color",
+      "llm-d"
+    ],
+    "category": "llm-d",
+    "color": "#0086C9",
+    "description": "llm-d (color) CNCF project icon (llm-d).",
+    "fullname": "llm-d (color)",
+    "name": "llm-d-icon-color"
+  },
+  {
+    "path": "icons/llm-d/llm-d-icon-white.svg",
+    "tags": [
+      "llm-d",
+      "white"
+    ],
+    "category": "llm-d",
+    "color": "#0086C9",
+    "description": "llm-d (white) CNCF project icon (llm-d).",
+    "fullname": "llm-d (white)",
+    "name": "llm-d-icon-white"
+  },
+  {
+    "path": "icons/logging-operator/logging-operator-icon-black.svg",
+    "tags": [
+      "black",
+      "logging-operator"
+    ],
+    "category": "logging-operator",
+    "color": "#0086C9",
+    "description": "Logging Operator (black) CNCF project icon (Logging Operator).",
+    "fullname": "Logging Operator (black)",
+    "name": "logging-operator-icon-black"
+  },
+  {
+    "path": "icons/logging-operator/logging-operator-icon-color.svg",
+    "tags": [
+      "color",
+      "logging-operator"
+    ],
+    "category": "logging-operator",
+    "color": "#0086C9",
+    "description": "Logging Operator (color) CNCF project icon (Logging Operator).",
+    "fullname": "Logging Operator (color)",
+    "name": "logging-operator-icon-color"
+  },
+  {
+    "path": "icons/logging-operator/logging-operator-icon-white.svg",
+    "tags": [
+      "logging-operator",
+      "white"
+    ],
+    "category": "logging-operator",
+    "color": "#0086C9",
+    "description": "Logging Operator (white) CNCF project icon (Logging Operator).",
+    "fullname": "Logging Operator (white)",
+    "name": "logging-operator-icon-white"
+  },
+  {
+    "path": "icons/longhorn/longhorn-icon-black.svg",
+    "tags": [
+      "black",
+      "longhorn",
+      "storage"
+    ],
+    "category": "longhorn",
+    "color": "#0086C9",
+    "description": "Longhorn (black) CNCF project icon (Longhorn).",
+    "fullname": "Longhorn (black)",
+    "name": "longhorn-icon-black"
+  },
+  {
+    "path": "icons/longhorn/longhorn-icon-color.svg",
+    "tags": [
+      "color",
+      "longhorn",
+      "storage"
+    ],
+    "category": "longhorn",
+    "color": "#0086C9",
+    "description": "Longhorn (color) CNCF project icon (Longhorn).",
+    "fullname": "Longhorn (color)",
+    "name": "longhorn-icon-color"
+  },
+  {
+    "path": "icons/longhorn/longhorn-icon-white.svg",
+    "tags": [
+      "longhorn",
+      "storage",
+      "white"
+    ],
+    "category": "longhorn",
+    "color": "#0086C9",
+    "description": "Longhorn (white) CNCF project icon (Longhorn).",
+    "fullname": "Longhorn (white)",
+    "name": "longhorn-icon-white"
+  },
+  {
+    "path": "icons/loxilb/loxilb-icon-black.svg",
+    "tags": [
+      "black",
+      "loxilb"
+    ],
+    "category": "loxilb",
+    "color": "#0086C9",
+    "description": "Loxilb (black) CNCF project icon (Loxilb).",
+    "fullname": "Loxilb (black)",
+    "name": "loxilb-icon-black"
+  },
+  {
+    "path": "icons/loxilb/loxilb-icon-color.svg",
+    "tags": [
+      "color",
+      "loxilb"
+    ],
+    "category": "loxilb",
+    "color": "#0086C9",
+    "description": "Loxilb (color) CNCF project icon (Loxilb).",
+    "fullname": "Loxilb (color)",
+    "name": "loxilb-icon-color"
+  },
+  {
+    "path": "icons/loxilb/loxilb-icon-white.svg",
+    "tags": [
+      "loxilb",
+      "white"
+    ],
+    "category": "loxilb",
+    "color": "#0086C9",
+    "description": "Loxilb (white) CNCF project icon (Loxilb).",
+    "fullname": "Loxilb (white)",
+    "name": "loxilb-icon-white"
+  },
+  {
+    "path": "icons/lws/lws-icon-black.svg",
+    "tags": [
+      "batch",
+      "black",
+      "inference",
+      "lws"
+    ],
+    "category": "lws",
+    "color": "#0086C9",
+    "description": "LWS (black) CNCF project icon (LWS).",
+    "fullname": "LWS (black)",
+    "name": "lws-icon-black"
+  },
+  {
+    "path": "icons/lws/lws-icon-color.svg",
+    "tags": [
+      "batch",
+      "color",
+      "inference",
+      "lws"
+    ],
+    "category": "lws",
+    "color": "#0086C9",
+    "description": "LWS (color) CNCF project icon (LWS).",
+    "fullname": "LWS (color)",
+    "name": "lws-icon-color"
+  },
+  {
+    "path": "icons/lws/lws-icon-white.svg",
+    "tags": [
+      "batch",
+      "inference",
+      "lws",
+      "white"
+    ],
+    "category": "lws",
+    "color": "#0086C9",
+    "description": "LWS (white) CNCF project icon (LWS).",
+    "fullname": "LWS (white)",
+    "name": "lws-icon-white"
+  },
+  {
+    "path": "icons/metal3-io/metal3-io-icon-black.svg",
+    "tags": [
+      "black",
+      "metal3-io"
+    ],
+    "category": "metal3-io",
+    "color": "#0086C9",
+    "description": "Metal3 (black) CNCF project icon (Metal3).",
+    "fullname": "Metal3 (black)",
+    "name": "metal3-io-icon-black"
+  },
+  {
+    "path": "icons/metal3-io/metal3-io-icon-color.svg",
+    "tags": [
+      "color",
+      "metal3-io"
+    ],
+    "category": "metal3-io",
+    "color": "#0086C9",
+    "description": "Metal3 (color) CNCF project icon (Metal3).",
+    "fullname": "Metal3 (color)",
+    "name": "metal3-io-icon-color"
+  },
+  {
+    "path": "icons/metal3-io/metal3-io-icon-white.svg",
+    "tags": [
+      "metal3-io",
+      "white"
+    ],
+    "category": "metal3-io",
+    "color": "#0086C9",
+    "description": "Metal3 (white) CNCF project icon (Metal3).",
+    "fullname": "Metal3 (white)",
+    "name": "metal3-io-icon-white"
+  },
+  {
+    "path": "icons/metallb/metallb-icon-black.svg",
+    "tags": [
+      "black",
+      "metallb"
+    ],
+    "category": "metallb",
+    "color": "#0086C9",
+    "description": "MetalLB (black) CNCF project icon (MetalLB).",
+    "fullname": "MetalLB (black)",
+    "name": "metallb-icon-black"
+  },
+  {
+    "path": "icons/metallb/metallb-icon-color.svg",
+    "tags": [
+      "color",
+      "metallb"
+    ],
+    "category": "metallb",
+    "color": "#0086C9",
+    "description": "MetalLB (color) CNCF project icon (MetalLB).",
+    "fullname": "MetalLB (color)",
+    "name": "metallb-icon-color"
+  },
+  {
+    "path": "icons/metallb/metallb-icon-white.svg",
+    "tags": [
+      "metallb",
+      "white"
+    ],
+    "category": "metallb",
+    "color": "#0086C9",
+    "description": "MetalLB (white) CNCF project icon (MetalLB).",
+    "fullname": "MetalLB (white)",
+    "name": "metallb-icon-white"
+  },
+  {
+    "path": "icons/microcks/microcks-icon-black.svg",
+    "tags": [
+      "black",
+      "microcks"
+    ],
+    "category": "microcks",
+    "color": "#0086C9",
+    "description": "Microcks (black) CNCF project icon (Microcks).",
+    "fullname": "Microcks (black)",
+    "name": "microcks-icon-black"
+  },
+  {
+    "path": "icons/microcks/microcks-icon-color.svg",
+    "tags": [
+      "color",
+      "microcks"
+    ],
+    "category": "microcks",
+    "color": "#0086C9",
+    "description": "Microcks (color) CNCF project icon (Microcks).",
+    "fullname": "Microcks (color)",
+    "name": "microcks-icon-color"
+  },
+  {
+    "path": "icons/microcks/microcks-icon-white.svg",
+    "tags": [
+      "microcks",
+      "white"
+    ],
+    "category": "microcks",
+    "color": "#0086C9",
+    "description": "Microcks (white) CNCF project icon (Microcks).",
+    "fullname": "Microcks (white)",
+    "name": "microcks-icon-white"
+  },
+  {
+    "path": "icons/modelpack/modelpack-icon-black.svg",
+    "tags": [
+      "black",
+      "modelpack"
+    ],
+    "category": "modelpack",
+    "color": "#0086C9",
+    "description": "Modelpack (black) CNCF project icon (Modelpack).",
+    "fullname": "Modelpack (black)",
+    "name": "modelpack-icon-black"
+  },
+  {
+    "path": "icons/modelpack/modelpack-icon-color.svg",
+    "tags": [
+      "color",
+      "modelpack"
+    ],
+    "category": "modelpack",
+    "color": "#0086C9",
+    "description": "Modelpack (color) CNCF project icon (Modelpack).",
+    "fullname": "Modelpack (color)",
+    "name": "modelpack-icon-color"
+  },
+  {
+    "path": "icons/modelpack/modelpack-icon-white.svg",
+    "tags": [
+      "modelpack",
+      "white"
+    ],
+    "category": "modelpack",
+    "color": "#0086C9",
+    "description": "Modelpack (white) CNCF project icon (Modelpack).",
+    "fullname": "Modelpack (white)",
+    "name": "modelpack-icon-white"
   },
   {
     "path": "icons/nats/nats-icon-black.svg",
@@ -1991,6 +6606,206 @@
     "name": "nats-icon-white"
   },
   {
+    "path": "icons/networkservicemesh/networkservicemesh-icon-black.svg",
+    "tags": [
+      "black",
+      "networkservicemesh"
+    ],
+    "category": "networkservicemesh",
+    "color": "#0086C9",
+    "description": "Networkservicemesh (black) CNCF project icon (Networkservicemesh).",
+    "fullname": "Networkservicemesh (black)",
+    "name": "networkservicemesh-icon-black"
+  },
+  {
+    "path": "icons/networkservicemesh/networkservicemesh-icon-color.svg",
+    "tags": [
+      "color",
+      "networkservicemesh"
+    ],
+    "category": "networkservicemesh",
+    "color": "#0086C9",
+    "description": "Networkservicemesh (color) CNCF project icon (Networkservicemesh).",
+    "fullname": "Networkservicemesh (color)",
+    "name": "networkservicemesh-icon-color"
+  },
+  {
+    "path": "icons/networkservicemesh/networkservicemesh-icon-white.svg",
+    "tags": [
+      "networkservicemesh",
+      "white"
+    ],
+    "category": "networkservicemesh",
+    "color": "#0086C9",
+    "description": "Networkservicemesh (white) CNCF project icon (Networkservicemesh).",
+    "fullname": "Networkservicemesh (white)",
+    "name": "networkservicemesh-icon-white"
+  },
+  {
+    "path": "icons/nmstate/nmstate-icon-black.svg",
+    "tags": [
+      "black",
+      "nmstate"
+    ],
+    "category": "nmstate",
+    "color": "#0086C9",
+    "description": "Nmstate (black) CNCF project icon (Nmstate).",
+    "fullname": "Nmstate (black)",
+    "name": "nmstate-icon-black"
+  },
+  {
+    "path": "icons/nmstate/nmstate-icon-color.svg",
+    "tags": [
+      "color",
+      "nmstate"
+    ],
+    "category": "nmstate",
+    "color": "#0086C9",
+    "description": "Nmstate (color) CNCF project icon (Nmstate).",
+    "fullname": "Nmstate (color)",
+    "name": "nmstate-icon-color"
+  },
+  {
+    "path": "icons/nmstate/nmstate-icon-white.svg",
+    "tags": [
+      "nmstate",
+      "white"
+    ],
+    "category": "nmstate",
+    "color": "#0086C9",
+    "description": "Nmstate (white) CNCF project icon (Nmstate).",
+    "fullname": "Nmstate (white)",
+    "name": "nmstate-icon-white"
+  },
+  {
+    "path": "icons/notary/notary-icon-black.svg",
+    "tags": [
+      "black",
+      "notary",
+      "signing",
+      "supply-chain"
+    ],
+    "category": "notary",
+    "color": "#0086C9",
+    "description": "Notary (black) CNCF project icon (Notary).",
+    "fullname": "Notary (black)",
+    "name": "notary-icon-black"
+  },
+  {
+    "path": "icons/notary/notary-icon-color.svg",
+    "tags": [
+      "color",
+      "notary",
+      "signing",
+      "supply-chain"
+    ],
+    "category": "notary",
+    "color": "#0086C9",
+    "description": "Notary (color) CNCF project icon (Notary).",
+    "fullname": "Notary (color)",
+    "name": "notary-icon-color"
+  },
+  {
+    "path": "icons/notary/notary-icon-white.svg",
+    "tags": [
+      "notary",
+      "signing",
+      "supply-chain",
+      "white"
+    ],
+    "category": "notary",
+    "color": "#0086C9",
+    "description": "Notary (white) CNCF project icon (Notary).",
+    "fullname": "Notary (white)",
+    "name": "notary-icon-white"
+  },
+  {
+    "path": "icons/oauth2-proxy/oauth2-proxy-icon-black.svg",
+    "tags": [
+      "black",
+      "oauth2-proxy"
+    ],
+    "category": "oauth2-proxy",
+    "color": "#0086C9",
+    "description": "OAuth2 Proxy (black) CNCF project icon (OAuth2 Proxy).",
+    "fullname": "OAuth2 Proxy (black)",
+    "name": "oauth2-proxy-icon-black"
+  },
+  {
+    "path": "icons/oauth2-proxy/oauth2-proxy-icon-color.svg",
+    "tags": [
+      "color",
+      "oauth2-proxy"
+    ],
+    "category": "oauth2-proxy",
+    "color": "#0086C9",
+    "description": "OAuth2 Proxy (color) CNCF project icon (OAuth2 Proxy).",
+    "fullname": "OAuth2 Proxy (color)",
+    "name": "oauth2-proxy-icon-color"
+  },
+  {
+    "path": "icons/oauth2-proxy/oauth2-proxy-icon-white.svg",
+    "tags": [
+      "oauth2-proxy",
+      "white"
+    ],
+    "category": "oauth2-proxy",
+    "color": "#0086C9",
+    "description": "OAuth2 Proxy (white) CNCF project icon (OAuth2 Proxy).",
+    "fullname": "OAuth2 Proxy (white)",
+    "name": "oauth2-proxy-icon-white"
+  },
+  {
+    "path": "icons/opcr/opcr-icon-color.svg",
+    "tags": [
+      "color",
+      "oci",
+      "opcr",
+      "policy"
+    ],
+    "category": "opcr",
+    "color": "#0086C9",
+    "description": "OPCR (color) CNCF project icon (OPCR).",
+    "fullname": "OPCR (color)",
+    "name": "opcr-icon-color"
+  },
+  {
+    "path": "icons/open-cluster-management/open-cluster-management-icon-black.svg",
+    "tags": [
+      "black",
+      "open-cluster-management"
+    ],
+    "category": "open-cluster-management",
+    "color": "#0086C9",
+    "description": "Open Cluster Management (black) CNCF project icon (Open Cluster Management).",
+    "fullname": "Open Cluster Management (black)",
+    "name": "open-cluster-management-icon-black"
+  },
+  {
+    "path": "icons/open-cluster-management/open-cluster-management-icon-color.svg",
+    "tags": [
+      "color",
+      "open-cluster-management"
+    ],
+    "category": "open-cluster-management",
+    "color": "#0086C9",
+    "description": "Open Cluster Management (color) CNCF project icon (Open Cluster Management).",
+    "fullname": "Open Cluster Management (color)",
+    "name": "open-cluster-management-icon-color"
+  },
+  {
+    "path": "icons/open-cluster-management/open-cluster-management-icon-white.svg",
+    "tags": [
+      "open-cluster-management",
+      "white"
+    ],
+    "category": "open-cluster-management",
+    "color": "#0086C9",
+    "description": "Open Cluster Management (white) CNCF project icon (Open Cluster Management).",
+    "fullname": "Open Cluster Management (white)",
+    "name": "open-cluster-management-icon-white"
+  },
+  {
     "path": "icons/open-policy-agent/opa-icon-black.svg",
     "tags": [
       "black",
@@ -2000,8 +6815,8 @@
     ],
     "category": "open-policy-agent",
     "color": "#0086C9",
-    "description": "OPA Icon Black CNCF project icon (Open Policy Agent).",
-    "fullname": "OPA Icon Black",
+    "description": "Open Policy Agent (black) CNCF project icon (Open Policy Agent).",
+    "fullname": "Open Policy Agent (black)",
     "name": "opa-icon-black"
   },
   {
@@ -2014,8 +6829,8 @@
     ],
     "category": "open-policy-agent",
     "color": "#0086C9",
-    "description": "OPA Icon Color CNCF project icon (Open Policy Agent).",
-    "fullname": "OPA Icon Color",
+    "description": "Open Policy Agent (color) CNCF project icon (Open Policy Agent).",
+    "fullname": "Open Policy Agent (color)",
     "name": "opa-icon-color"
   },
   {
@@ -2028,9 +6843,335 @@
     ],
     "category": "open-policy-agent",
     "color": "#0086C9",
-    "description": "OPA Icon White CNCF project icon (Open Policy Agent).",
-    "fullname": "OPA Icon White",
+    "description": "Open Policy Agent (white) CNCF project icon (Open Policy Agent).",
+    "fullname": "Open Policy Agent (white)",
     "name": "opa-icon-white"
+  },
+  {
+    "path": "icons/openchoreo/openchoreo-icon-black.svg",
+    "tags": [
+      "black",
+      "openchoreo"
+    ],
+    "category": "openchoreo",
+    "color": "#0086C9",
+    "description": "Openchoreo (black) CNCF project icon (Openchoreo).",
+    "fullname": "Openchoreo (black)",
+    "name": "openchoreo-icon-black"
+  },
+  {
+    "path": "icons/openchoreo/openchoreo-icon-color.svg",
+    "tags": [
+      "color",
+      "openchoreo"
+    ],
+    "category": "openchoreo",
+    "color": "#0086C9",
+    "description": "Openchoreo (color) CNCF project icon (Openchoreo).",
+    "fullname": "Openchoreo (color)",
+    "name": "openchoreo-icon-color"
+  },
+  {
+    "path": "icons/openchoreo/openchoreo-icon-white.svg",
+    "tags": [
+      "openchoreo",
+      "white"
+    ],
+    "category": "openchoreo",
+    "color": "#0086C9",
+    "description": "Openchoreo (white) CNCF project icon (Openchoreo).",
+    "fullname": "Openchoreo (white)",
+    "name": "openchoreo-icon-white"
+  },
+  {
+    "path": "icons/opencost/opencost-icon-black.svg",
+    "tags": [
+      "black",
+      "cost",
+      "finops",
+      "opencost"
+    ],
+    "category": "opencost",
+    "color": "#0086C9",
+    "description": "OpenCost (black) CNCF project icon (OpenCost).",
+    "fullname": "OpenCost (black)",
+    "name": "opencost-icon-black"
+  },
+  {
+    "path": "icons/opencost/opencost-icon-color.svg",
+    "tags": [
+      "color",
+      "cost",
+      "finops",
+      "opencost"
+    ],
+    "category": "opencost",
+    "color": "#0086C9",
+    "description": "OpenCost (color) CNCF project icon (OpenCost).",
+    "fullname": "OpenCost (color)",
+    "name": "opencost-icon-color"
+  },
+  {
+    "path": "icons/opencost/opencost-icon-white.svg",
+    "tags": [
+      "cost",
+      "finops",
+      "opencost",
+      "white"
+    ],
+    "category": "opencost",
+    "color": "#0086C9",
+    "description": "OpenCost (white) CNCF project icon (OpenCost).",
+    "fullname": "OpenCost (white)",
+    "name": "opencost-icon-white"
+  },
+  {
+    "path": "icons/openebs/openebs-icon-black.svg",
+    "tags": [
+      "black",
+      "openebs"
+    ],
+    "category": "openebs",
+    "color": "#0086C9",
+    "description": "OpenEBS (black) CNCF project icon (OpenEBS).",
+    "fullname": "OpenEBS (black)",
+    "name": "openebs-icon-black"
+  },
+  {
+    "path": "icons/openebs/openebs-icon-color.svg",
+    "tags": [
+      "color",
+      "openebs"
+    ],
+    "category": "openebs",
+    "color": "#0086C9",
+    "description": "OpenEBS (color) CNCF project icon (OpenEBS).",
+    "fullname": "OpenEBS (color)",
+    "name": "openebs-icon-color"
+  },
+  {
+    "path": "icons/openebs/openebs-icon-white.svg",
+    "tags": [
+      "openebs",
+      "white"
+    ],
+    "category": "openebs",
+    "color": "#0086C9",
+    "description": "OpenEBS (white) CNCF project icon (OpenEBS).",
+    "fullname": "OpenEBS (white)",
+    "name": "openebs-icon-white"
+  },
+  {
+    "path": "icons/openfeature/openfeature-icon-black.svg",
+    "tags": [
+      "black",
+      "feature-flags",
+      "openfeature"
+    ],
+    "category": "openfeature",
+    "color": "#0086C9",
+    "description": "OpenFeature (black) CNCF project icon (OpenFeature).",
+    "fullname": "OpenFeature (black)",
+    "name": "openfeature-icon-black"
+  },
+  {
+    "path": "icons/openfeature/openfeature-icon-white.svg",
+    "tags": [
+      "feature-flags",
+      "openfeature",
+      "white"
+    ],
+    "category": "openfeature",
+    "color": "#0086C9",
+    "description": "OpenFeature (white) CNCF project icon (OpenFeature).",
+    "fullname": "OpenFeature (white)",
+    "name": "openfeature-icon-white"
+  },
+  {
+    "path": "icons/openfga/openfga-icon-black.svg",
+    "tags": [
+      "authz",
+      "black",
+      "fga",
+      "openfga"
+    ],
+    "category": "openfga",
+    "color": "#0086C9",
+    "description": "OpenFGA (black) CNCF project icon (OpenFGA).",
+    "fullname": "OpenFGA (black)",
+    "name": "openfga-icon-black"
+  },
+  {
+    "path": "icons/openfga/openfga-icon-color.svg",
+    "tags": [
+      "authz",
+      "color",
+      "fga",
+      "openfga"
+    ],
+    "category": "openfga",
+    "color": "#0086C9",
+    "description": "OpenFGA (color) CNCF project icon (OpenFGA).",
+    "fullname": "OpenFGA (color)",
+    "name": "openfga-icon-color"
+  },
+  {
+    "path": "icons/openfga/openfga-icon-white.svg",
+    "tags": [
+      "authz",
+      "fga",
+      "openfga",
+      "white"
+    ],
+    "category": "openfga",
+    "color": "#0086C9",
+    "description": "OpenFGA (white) CNCF project icon (OpenFGA).",
+    "fullname": "OpenFGA (white)",
+    "name": "openfga-icon-white"
+  },
+  {
+    "path": "icons/openfunction/openfunction-icon-black.svg",
+    "tags": [
+      "black",
+      "openfunction"
+    ],
+    "category": "openfunction",
+    "color": "#0086C9",
+    "description": "Openfunction (black) CNCF project icon (Openfunction).",
+    "fullname": "Openfunction (black)",
+    "name": "openfunction-icon-black"
+  },
+  {
+    "path": "icons/openfunction/openfunction-icon-color.svg",
+    "tags": [
+      "color",
+      "openfunction"
+    ],
+    "category": "openfunction",
+    "color": "#0086C9",
+    "description": "Openfunction (color) CNCF project icon (Openfunction).",
+    "fullname": "Openfunction (color)",
+    "name": "openfunction-icon-color"
+  },
+  {
+    "path": "icons/openfunction/openfunction-icon-white.svg",
+    "tags": [
+      "openfunction",
+      "white"
+    ],
+    "category": "openfunction",
+    "color": "#0086C9",
+    "description": "Openfunction (white) CNCF project icon (Openfunction).",
+    "fullname": "Openfunction (white)",
+    "name": "openfunction-icon-white"
+  },
+  {
+    "path": "icons/opengemini/opengemini-icon-black.svg",
+    "tags": [
+      "black",
+      "opengemini"
+    ],
+    "category": "opengemini",
+    "color": "#0086C9",
+    "description": "openGemini (black) CNCF project icon (openGemini).",
+    "fullname": "openGemini (black)",
+    "name": "opengemini-icon-black"
+  },
+  {
+    "path": "icons/opengemini/opengemini-icon-color.svg",
+    "tags": [
+      "color",
+      "opengemini"
+    ],
+    "category": "opengemini",
+    "color": "#0086C9",
+    "description": "openGemini (color) CNCF project icon (openGemini).",
+    "fullname": "openGemini (color)",
+    "name": "opengemini-icon-color"
+  },
+  {
+    "path": "icons/opengemini/opengemini-icon-white.svg",
+    "tags": [
+      "opengemini",
+      "white"
+    ],
+    "category": "opengemini",
+    "color": "#0086C9",
+    "description": "openGemini (white) CNCF project icon (openGemini).",
+    "fullname": "openGemini (white)",
+    "name": "opengemini-icon-white"
+  },
+  {
+    "path": "icons/opengitops/opengitops-icon-black.svg",
+    "tags": [
+      "black",
+      "opengitops"
+    ],
+    "category": "opengitops",
+    "color": "#0086C9",
+    "description": "Opengitops (black) CNCF project icon (Opengitops).",
+    "fullname": "Opengitops (black)",
+    "name": "opengitops-icon-black"
+  },
+  {
+    "path": "icons/opengitops/opengitops-icon-color.svg",
+    "tags": [
+      "color",
+      "opengitops"
+    ],
+    "category": "opengitops",
+    "color": "#0086C9",
+    "description": "Opengitops (color) CNCF project icon (Opengitops).",
+    "fullname": "Opengitops (color)",
+    "name": "opengitops-icon-color"
+  },
+  {
+    "path": "icons/opengitops/opengitops-icon-white.svg",
+    "tags": [
+      "opengitops",
+      "white"
+    ],
+    "category": "opengitops",
+    "color": "#0086C9",
+    "description": "Opengitops (white) CNCF project icon (Opengitops).",
+    "fullname": "Opengitops (white)",
+    "name": "opengitops-icon-white"
+  },
+  {
+    "path": "icons/openkruise/openkruise-icon-black.svg",
+    "tags": [
+      "black",
+      "openkruise"
+    ],
+    "category": "openkruise",
+    "color": "#0086C9",
+    "description": "OpenKruise (black) CNCF project icon (OpenKruise).",
+    "fullname": "OpenKruise (black)",
+    "name": "openkruise-icon-black"
+  },
+  {
+    "path": "icons/openkruise/openkruise-icon-color.svg",
+    "tags": [
+      "color",
+      "openkruise"
+    ],
+    "category": "openkruise",
+    "color": "#0086C9",
+    "description": "OpenKruise (color) CNCF project icon (OpenKruise).",
+    "fullname": "OpenKruise (color)",
+    "name": "openkruise-icon-color"
+  },
+  {
+    "path": "icons/openkruise/openkruise-icon-white.svg",
+    "tags": [
+      "openkruise",
+      "white"
+    ],
+    "category": "openkruise",
+    "color": "#0086C9",
+    "description": "OpenKruise (white) CNCF project icon (OpenKruise).",
+    "fullname": "OpenKruise (white)",
+    "name": "openkruise-icon-white"
   },
   {
     "path": "icons/opentelemetry/opentelemetry-icon-black.svg",
@@ -2075,6 +7216,528 @@
     "name": "opentelemetry-icon-white"
   },
   {
+    "path": "icons/opentofu/opentofu-icon-black.svg",
+    "tags": [
+      "black",
+      "opentofu"
+    ],
+    "category": "opentofu",
+    "color": "#0086C9",
+    "description": "OpenTofu (black) CNCF project icon (OpenTofu).",
+    "fullname": "OpenTofu (black)",
+    "name": "opentofu-icon-black"
+  },
+  {
+    "path": "icons/opentofu/opentofu-icon-color.svg",
+    "tags": [
+      "color",
+      "opentofu"
+    ],
+    "category": "opentofu",
+    "color": "#0086C9",
+    "description": "OpenTofu (color) CNCF project icon (OpenTofu).",
+    "fullname": "OpenTofu (color)",
+    "name": "opentofu-icon-color"
+  },
+  {
+    "path": "icons/opentofu/opentofu-icon-white.svg",
+    "tags": [
+      "opentofu",
+      "white"
+    ],
+    "category": "opentofu",
+    "color": "#0086C9",
+    "description": "OpenTofu (white) CNCF project icon (OpenTofu).",
+    "fullname": "OpenTofu (white)",
+    "name": "opentofu-icon-white"
+  },
+  {
+    "path": "icons/openyurt/openyurt-icon-black.svg",
+    "tags": [
+      "black",
+      "openyurt"
+    ],
+    "category": "openyurt",
+    "color": "#0086C9",
+    "description": "OpenYurt (black) CNCF project icon (OpenYurt).",
+    "fullname": "OpenYurt (black)",
+    "name": "openyurt-icon-black"
+  },
+  {
+    "path": "icons/openyurt/openyurt-icon-color.svg",
+    "tags": [
+      "color",
+      "openyurt"
+    ],
+    "category": "openyurt",
+    "color": "#0086C9",
+    "description": "OpenYurt (color) CNCF project icon (OpenYurt).",
+    "fullname": "OpenYurt (color)",
+    "name": "openyurt-icon-color"
+  },
+  {
+    "path": "icons/openyurt/openyurt-icon-white.svg",
+    "tags": [
+      "openyurt",
+      "white"
+    ],
+    "category": "openyurt",
+    "color": "#0086C9",
+    "description": "OpenYurt (white) CNCF project icon (OpenYurt).",
+    "fullname": "OpenYurt (white)",
+    "name": "openyurt-icon-white"
+  },
+  {
+    "path": "icons/operator-framework/operator-framework-icon-black.svg",
+    "tags": [
+      "black",
+      "operator-framework"
+    ],
+    "category": "operator-framework",
+    "color": "#0086C9",
+    "description": "Operator Framework (black) CNCF project icon (Operator Framework).",
+    "fullname": "Operator Framework (black)",
+    "name": "operator-framework-icon-black"
+  },
+  {
+    "path": "icons/operator-framework/operator-framework-icon-color.svg",
+    "tags": [
+      "color",
+      "operator-framework"
+    ],
+    "category": "operator-framework",
+    "color": "#0086C9",
+    "description": "Operator Framework (color) CNCF project icon (Operator Framework).",
+    "fullname": "Operator Framework (color)",
+    "name": "operator-framework-icon-color"
+  },
+  {
+    "path": "icons/operator-framework/operator-framework-icon-white.svg",
+    "tags": [
+      "operator-framework",
+      "white"
+    ],
+    "category": "operator-framework",
+    "color": "#0086C9",
+    "description": "Operator Framework (white) CNCF project icon (Operator Framework).",
+    "fullname": "Operator Framework (white)",
+    "name": "operator-framework-icon-white"
+  },
+  {
+    "path": "icons/oscal-compass/oscal-compass-icon-black.svg",
+    "tags": [
+      "black",
+      "compliance",
+      "oscal",
+      "oscal-compass"
+    ],
+    "category": "oscal-compass",
+    "color": "#0086C9",
+    "description": "OSCAL Compass (black) CNCF project icon (OSCAL Compass).",
+    "fullname": "OSCAL Compass (black)",
+    "name": "oscal-compass-icon-black"
+  },
+  {
+    "path": "icons/oscal-compass/oscal-compass-icon-color.svg",
+    "tags": [
+      "color",
+      "compliance",
+      "oscal",
+      "oscal-compass"
+    ],
+    "category": "oscal-compass",
+    "color": "#0086C9",
+    "description": "OSCAL Compass (color) CNCF project icon (OSCAL Compass).",
+    "fullname": "OSCAL Compass (color)",
+    "name": "oscal-compass-icon-color"
+  },
+  {
+    "path": "icons/oscal-compass/oscal-compass-icon-white.svg",
+    "tags": [
+      "compliance",
+      "oscal",
+      "oscal-compass",
+      "white"
+    ],
+    "category": "oscal-compass",
+    "color": "#0086C9",
+    "description": "OSCAL Compass (white) CNCF project icon (OSCAL Compass).",
+    "fullname": "OSCAL Compass (white)",
+    "name": "oscal-compass-icon-white"
+  },
+  {
+    "path": "icons/ovn-kubernetes/ovn-kubernetes-icon-black.svg",
+    "tags": [
+      "black",
+      "ovn-kubernetes"
+    ],
+    "category": "ovn-kubernetes",
+    "color": "#0086C9",
+    "description": "OVN-Kubernetes (black) CNCF project icon (OVN-Kubernetes).",
+    "fullname": "OVN-Kubernetes (black)",
+    "name": "ovn-kubernetes-icon-black"
+  },
+  {
+    "path": "icons/ovn-kubernetes/ovn-kubernetes-icon-color.svg",
+    "tags": [
+      "color",
+      "ovn-kubernetes"
+    ],
+    "category": "ovn-kubernetes",
+    "color": "#0086C9",
+    "description": "OVN-Kubernetes (color) CNCF project icon (OVN-Kubernetes).",
+    "fullname": "OVN-Kubernetes (color)",
+    "name": "ovn-kubernetes-icon-color"
+  },
+  {
+    "path": "icons/ovn-kubernetes/ovn-kubernetes-icon-white.svg",
+    "tags": [
+      "ovn-kubernetes",
+      "white"
+    ],
+    "category": "ovn-kubernetes",
+    "color": "#0086C9",
+    "description": "OVN-Kubernetes (white) CNCF project icon (OVN-Kubernetes).",
+    "fullname": "OVN-Kubernetes (white)",
+    "name": "ovn-kubernetes-icon-white"
+  },
+  {
+    "path": "icons/paralus/paralus-icon-black.svg",
+    "tags": [
+      "black",
+      "paralus"
+    ],
+    "category": "paralus",
+    "color": "#0086C9",
+    "description": "Paralus (black) CNCF project icon (Paralus).",
+    "fullname": "Paralus (black)",
+    "name": "paralus-icon-black"
+  },
+  {
+    "path": "icons/paralus/paralus-icon-color.svg",
+    "tags": [
+      "color",
+      "paralus"
+    ],
+    "category": "paralus",
+    "color": "#0086C9",
+    "description": "Paralus (color) CNCF project icon (Paralus).",
+    "fullname": "Paralus (color)",
+    "name": "paralus-icon-color"
+  },
+  {
+    "path": "icons/paralus/paralus-icon-white.svg",
+    "tags": [
+      "paralus",
+      "white"
+    ],
+    "category": "paralus",
+    "color": "#0086C9",
+    "description": "Paralus (white) CNCF project icon (Paralus).",
+    "fullname": "Paralus (white)",
+    "name": "paralus-icon-white"
+  },
+  {
+    "path": "icons/parsec/parsec-icon-black.svg",
+    "tags": [
+      "black",
+      "parsec"
+    ],
+    "category": "parsec",
+    "color": "#0086C9",
+    "description": "Parsec (black) CNCF project icon (Parsec).",
+    "fullname": "Parsec (black)",
+    "name": "parsec-icon-black"
+  },
+  {
+    "path": "icons/parsec/parsec-icon-color.svg",
+    "tags": [
+      "color",
+      "parsec"
+    ],
+    "category": "parsec",
+    "color": "#0086C9",
+    "description": "Parsec (color) CNCF project icon (Parsec).",
+    "fullname": "Parsec (color)",
+    "name": "parsec-icon-color"
+  },
+  {
+    "path": "icons/parsec/parsec-icon-white.svg",
+    "tags": [
+      "parsec",
+      "white"
+    ],
+    "category": "parsec",
+    "color": "#0086C9",
+    "description": "Parsec (white) CNCF project icon (Parsec).",
+    "fullname": "Parsec (white)",
+    "name": "parsec-icon-white"
+  },
+  {
+    "path": "icons/perses/perses-icon-black.svg",
+    "tags": [
+      "black",
+      "perses"
+    ],
+    "category": "perses",
+    "color": "#0086C9",
+    "description": "Perses (black) CNCF project icon (Perses).",
+    "fullname": "Perses (black)",
+    "name": "perses-icon-black"
+  },
+  {
+    "path": "icons/perses/perses-icon-color.svg",
+    "tags": [
+      "color",
+      "perses"
+    ],
+    "category": "perses",
+    "color": "#0086C9",
+    "description": "Perses (color) CNCF project icon (Perses).",
+    "fullname": "Perses (color)",
+    "name": "perses-icon-color"
+  },
+  {
+    "path": "icons/perses/perses-icon-white.svg",
+    "tags": [
+      "perses",
+      "white"
+    ],
+    "category": "perses",
+    "color": "#0086C9",
+    "description": "Perses (white) CNCF project icon (Perses).",
+    "fullname": "Perses (white)",
+    "name": "perses-icon-white"
+  },
+  {
+    "path": "icons/pipecd/pipecd-icon-black.svg",
+    "tags": [
+      "black",
+      "pipecd"
+    ],
+    "category": "pipecd",
+    "color": "#0086C9",
+    "description": "Pipecd (black) CNCF project icon (Pipecd).",
+    "fullname": "Pipecd (black)",
+    "name": "pipecd-icon-black"
+  },
+  {
+    "path": "icons/pipecd/pipecd-icon-color.svg",
+    "tags": [
+      "color",
+      "pipecd"
+    ],
+    "category": "pipecd",
+    "color": "#0086C9",
+    "description": "Pipecd (color) CNCF project icon (Pipecd).",
+    "fullname": "Pipecd (color)",
+    "name": "pipecd-icon-color"
+  },
+  {
+    "path": "icons/pipecd/pipecd-icon-reverse-color.svg",
+    "tags": [
+      "pipecd",
+      "reverse-color"
+    ],
+    "category": "pipecd",
+    "color": "#0086C9",
+    "description": "Pipecd (reverse-color) CNCF project icon (Pipecd).",
+    "fullname": "Pipecd (reverse-color)",
+    "name": "pipecd-icon-reverse-color"
+  },
+  {
+    "path": "icons/pipecd/pipecd-icon-white.svg",
+    "tags": [
+      "pipecd",
+      "white"
+    ],
+    "category": "pipecd",
+    "color": "#0086C9",
+    "description": "Pipecd (white) CNCF project icon (Pipecd).",
+    "fullname": "Pipecd (white)",
+    "name": "pipecd-icon-white"
+  },
+  {
+    "path": "icons/piraeus-datastore/piraeus-datastore-icon-black.svg",
+    "tags": [
+      "black",
+      "piraeus-datastore"
+    ],
+    "category": "piraeus-datastore",
+    "color": "#0086C9",
+    "description": "Piraeus Datastore (black) CNCF project icon (Piraeus Datastore).",
+    "fullname": "Piraeus Datastore (black)",
+    "name": "piraeus-datastore-icon-black"
+  },
+  {
+    "path": "icons/piraeus-datastore/piraeus-datastore-icon-color.svg",
+    "tags": [
+      "color",
+      "piraeus-datastore"
+    ],
+    "category": "piraeus-datastore",
+    "color": "#0086C9",
+    "description": "Piraeus Datastore (color) CNCF project icon (Piraeus Datastore).",
+    "fullname": "Piraeus Datastore (color)",
+    "name": "piraeus-datastore-icon-color"
+  },
+  {
+    "path": "icons/piraeus-datastore/piraeus-datastore-icon-white.svg",
+    "tags": [
+      "piraeus-datastore",
+      "white"
+    ],
+    "category": "piraeus-datastore",
+    "color": "#0086C9",
+    "description": "Piraeus Datastore (white) CNCF project icon (Piraeus Datastore).",
+    "fullname": "Piraeus Datastore (white)",
+    "name": "piraeus-datastore-icon-white"
+  },
+  {
+    "path": "icons/pixie/pixie-icon-black.svg",
+    "tags": [
+      "black",
+      "pixie"
+    ],
+    "category": "pixie",
+    "color": "#0086C9",
+    "description": "Pixie (black) CNCF project icon (Pixie).",
+    "fullname": "Pixie (black)",
+    "name": "pixie-icon-black"
+  },
+  {
+    "path": "icons/pixie/pixie-icon-color.svg",
+    "tags": [
+      "color",
+      "pixie"
+    ],
+    "category": "pixie",
+    "color": "#0086C9",
+    "description": "Pixie (color) CNCF project icon (Pixie).",
+    "fullname": "Pixie (color)",
+    "name": "pixie-icon-color"
+  },
+  {
+    "path": "icons/pixie/pixie-icon-white.svg",
+    "tags": [
+      "pixie",
+      "white"
+    ],
+    "category": "pixie",
+    "color": "#0086C9",
+    "description": "Pixie (white) CNCF project icon (Pixie).",
+    "fullname": "Pixie (white)",
+    "name": "pixie-icon-white"
+  },
+  {
+    "path": "icons/podman-container-tools/podman-container-tools-icon-black.svg",
+    "tags": [
+      "black",
+      "podman-container-tools"
+    ],
+    "category": "podman-container-tools",
+    "color": "#0086C9",
+    "description": "Podman Container Tools (black) CNCF project icon (Podman Container Tools).",
+    "fullname": "Podman Container Tools (black)",
+    "name": "podman-container-tools-icon-black"
+  },
+  {
+    "path": "icons/podman-container-tools/podman-container-tools-icon-color.svg",
+    "tags": [
+      "color",
+      "podman-container-tools"
+    ],
+    "category": "podman-container-tools",
+    "color": "#0086C9",
+    "description": "Podman Container Tools (color) CNCF project icon (Podman Container Tools).",
+    "fullname": "Podman Container Tools (color)",
+    "name": "podman-container-tools-icon-color"
+  },
+  {
+    "path": "icons/podman-container-tools/podman-container-tools-icon-white.svg",
+    "tags": [
+      "podman-container-tools",
+      "white"
+    ],
+    "category": "podman-container-tools",
+    "color": "#0086C9",
+    "description": "Podman Container Tools (white) CNCF project icon (Podman Container Tools).",
+    "fullname": "Podman Container Tools (white)",
+    "name": "podman-container-tools-icon-white"
+  },
+  {
+    "path": "icons/podman-desktop/podman-desktop-icon-black.svg",
+    "tags": [
+      "black",
+      "podman-desktop"
+    ],
+    "category": "podman-desktop",
+    "color": "#0086C9",
+    "description": "Podman Desktop (black) CNCF project icon (Podman Desktop).",
+    "fullname": "Podman Desktop (black)",
+    "name": "podman-desktop-icon-black"
+  },
+  {
+    "path": "icons/podman-desktop/podman-desktop-icon-color.svg",
+    "tags": [
+      "color",
+      "podman-desktop"
+    ],
+    "category": "podman-desktop",
+    "color": "#0086C9",
+    "description": "Podman Desktop (color) CNCF project icon (Podman Desktop).",
+    "fullname": "Podman Desktop (color)",
+    "name": "podman-desktop-icon-color"
+  },
+  {
+    "path": "icons/podman-desktop/podman-desktop-icon-white.svg",
+    "tags": [
+      "podman-desktop",
+      "white"
+    ],
+    "category": "podman-desktop",
+    "color": "#0086C9",
+    "description": "Podman Desktop (white) CNCF project icon (Podman Desktop).",
+    "fullname": "Podman Desktop (white)",
+    "name": "podman-desktop-icon-white"
+  },
+  {
+    "path": "icons/porter/porter-icon-black.svg",
+    "tags": [
+      "black",
+      "porter"
+    ],
+    "category": "porter",
+    "color": "#0086C9",
+    "description": "Porter (black) CNCF project icon (Porter).",
+    "fullname": "Porter (black)",
+    "name": "porter-icon-black"
+  },
+  {
+    "path": "icons/porter/porter-icon-color.svg",
+    "tags": [
+      "color",
+      "porter"
+    ],
+    "category": "porter",
+    "color": "#0086C9",
+    "description": "Porter (color) CNCF project icon (Porter).",
+    "fullname": "Porter (color)",
+    "name": "porter-icon-color"
+  },
+  {
+    "path": "icons/porter/porter-icon-white.svg",
+    "tags": [
+      "porter",
+      "white"
+    ],
+    "category": "porter",
+    "color": "#0086C9",
+    "description": "Porter (white) CNCF project icon (Porter).",
+    "fullname": "Porter (white)",
+    "name": "porter-icon-white"
+  },
+  {
     "path": "icons/prometheus/prometheus-icon-black.svg",
     "tags": [
       "black",
@@ -2115,6 +7778,78 @@
     "description": "Prometheus (white) CNCF project icon (Prometheus).",
     "fullname": "Prometheus (white)",
     "name": "prometheus-icon-white"
+  },
+  {
+    "path": "icons/radius/radius-icon-black.svg",
+    "tags": [
+      "black",
+      "radius"
+    ],
+    "category": "radius",
+    "color": "#0086C9",
+    "description": "Radius (black) CNCF project icon (Radius).",
+    "fullname": "Radius (black)",
+    "name": "radius-icon-black"
+  },
+  {
+    "path": "icons/radius/radius-icon-color.svg",
+    "tags": [
+      "color",
+      "radius"
+    ],
+    "category": "radius",
+    "color": "#0086C9",
+    "description": "Radius (color) CNCF project icon (Radius).",
+    "fullname": "Radius (color)",
+    "name": "radius-icon-color"
+  },
+  {
+    "path": "icons/radius/radius-icon-white.svg",
+    "tags": [
+      "radius",
+      "white"
+    ],
+    "category": "radius",
+    "color": "#0086C9",
+    "description": "Radius (white) CNCF project icon (Radius).",
+    "fullname": "Radius (white)",
+    "name": "radius-icon-white"
+  },
+  {
+    "path": "icons/ratify/ratify-icon-black.svg",
+    "tags": [
+      "black",
+      "ratify"
+    ],
+    "category": "ratify",
+    "color": "#0086C9",
+    "description": "Ratify (black) CNCF project icon (Ratify).",
+    "fullname": "Ratify (black)",
+    "name": "ratify-icon-black"
+  },
+  {
+    "path": "icons/ratify/ratify-icon-color.svg",
+    "tags": [
+      "color",
+      "ratify"
+    ],
+    "category": "ratify",
+    "color": "#0086C9",
+    "description": "Ratify (color) CNCF project icon (Ratify).",
+    "fullname": "Ratify (color)",
+    "name": "ratify-icon-color"
+  },
+  {
+    "path": "icons/ratify/ratify-icon-white.svg",
+    "tags": [
+      "ratify",
+      "white"
+    ],
+    "category": "ratify",
+    "color": "#0086C9",
+    "description": "Ratify (white) CNCF project icon (Ratify).",
+    "fullname": "Ratify (white)",
+    "name": "ratify-icon-white"
   },
   {
     "path": "icons/rook/rook-icon-black.svg",
@@ -2159,6 +7894,380 @@
     "name": "rook-icon-white"
   },
   {
+    "path": "icons/runme-notebooks/runme-notebooks-icon-black.svg",
+    "tags": [
+      "black",
+      "runme-notebooks"
+    ],
+    "category": "runme-notebooks",
+    "color": "#0086C9",
+    "description": "Runme Notebooks (black) CNCF project icon (Runme Notebooks).",
+    "fullname": "Runme Notebooks (black)",
+    "name": "runme-notebooks-icon-black"
+  },
+  {
+    "path": "icons/runme-notebooks/runme-notebooks-icon-color.svg",
+    "tags": [
+      "color",
+      "runme-notebooks"
+    ],
+    "category": "runme-notebooks",
+    "color": "#0086C9",
+    "description": "Runme Notebooks (color) CNCF project icon (Runme Notebooks).",
+    "fullname": "Runme Notebooks (color)",
+    "name": "runme-notebooks-icon-color"
+  },
+  {
+    "path": "icons/runme-notebooks/runme-notebooks-icon-white.svg",
+    "tags": [
+      "runme-notebooks",
+      "white"
+    ],
+    "category": "runme-notebooks",
+    "color": "#0086C9",
+    "description": "Runme Notebooks (white) CNCF project icon (Runme Notebooks).",
+    "fullname": "Runme Notebooks (white)",
+    "name": "runme-notebooks-icon-white"
+  },
+  {
+    "path": "icons/schemahero/schemahero-icon-black.svg",
+    "tags": [
+      "black",
+      "schemahero"
+    ],
+    "category": "schemahero",
+    "color": "#0086C9",
+    "description": "Schemahero (black) CNCF project icon (Schemahero).",
+    "fullname": "Schemahero (black)",
+    "name": "schemahero-icon-black"
+  },
+  {
+    "path": "icons/schemahero/schemahero-icon-color.svg",
+    "tags": [
+      "color",
+      "schemahero"
+    ],
+    "category": "schemahero",
+    "color": "#0086C9",
+    "description": "Schemahero (color) CNCF project icon (Schemahero).",
+    "fullname": "Schemahero (color)",
+    "name": "schemahero-icon-color"
+  },
+  {
+    "path": "icons/schemahero/schemahero-icon-white.svg",
+    "tags": [
+      "schemahero",
+      "white"
+    ],
+    "category": "schemahero",
+    "color": "#0086C9",
+    "description": "Schemahero (white) CNCF project icon (Schemahero).",
+    "fullname": "Schemahero (white)",
+    "name": "schemahero-icon-white"
+  },
+  {
+    "path": "icons/score/score-icon-black.svg",
+    "tags": [
+      "black",
+      "score"
+    ],
+    "category": "score",
+    "color": "#0086C9",
+    "description": "Score (black) CNCF project icon (Score).",
+    "fullname": "Score (black)",
+    "name": "score-icon-black"
+  },
+  {
+    "path": "icons/score/score-icon-color.svg",
+    "tags": [
+      "color",
+      "score"
+    ],
+    "category": "score",
+    "color": "#0086C9",
+    "description": "Score (color) CNCF project icon (Score).",
+    "fullname": "Score (color)",
+    "name": "score-icon-color"
+  },
+  {
+    "path": "icons/score/score-icon-white.svg",
+    "tags": [
+      "score",
+      "white"
+    ],
+    "category": "score",
+    "color": "#0086C9",
+    "description": "Score (white) CNCF project icon (Score).",
+    "fullname": "Score (white)",
+    "name": "score-icon-white"
+  },
+  {
+    "path": "icons/sermant/sermant-icon-black.svg",
+    "tags": [
+      "black",
+      "sermant"
+    ],
+    "category": "sermant",
+    "color": "#0086C9",
+    "description": "Sermant (black) CNCF project icon (Sermant).",
+    "fullname": "Sermant (black)",
+    "name": "sermant-icon-black"
+  },
+  {
+    "path": "icons/sermant/sermant-icon-color.svg",
+    "tags": [
+      "color",
+      "sermant"
+    ],
+    "category": "sermant",
+    "color": "#0086C9",
+    "description": "Sermant (color) CNCF project icon (Sermant).",
+    "fullname": "Sermant (color)",
+    "name": "sermant-icon-color"
+  },
+  {
+    "path": "icons/sermant/sermant-icon-white.svg",
+    "tags": [
+      "sermant",
+      "white"
+    ],
+    "category": "sermant",
+    "color": "#0086C9",
+    "description": "Sermant (white) CNCF project icon (Sermant).",
+    "fullname": "Sermant (white)",
+    "name": "sermant-icon-white"
+  },
+  {
+    "path": "icons/serverless-devs/serverless-devs-icon-black.svg",
+    "tags": [
+      "black",
+      "serverless-devs"
+    ],
+    "category": "serverless-devs",
+    "color": "#0086C9",
+    "description": "Serverless Devs (black) CNCF project icon (Serverless Devs).",
+    "fullname": "Serverless Devs (black)",
+    "name": "serverless-devs-icon-black"
+  },
+  {
+    "path": "icons/serverless-devs/serverless-devs-icon-color.svg",
+    "tags": [
+      "color",
+      "serverless-devs"
+    ],
+    "category": "serverless-devs",
+    "color": "#0086C9",
+    "description": "Serverless Devs (color) CNCF project icon (Serverless Devs).",
+    "fullname": "Serverless Devs (color)",
+    "name": "serverless-devs-icon-color"
+  },
+  {
+    "path": "icons/serverless-devs/serverless-devs-icon-white.svg",
+    "tags": [
+      "serverless-devs",
+      "white"
+    ],
+    "category": "serverless-devs",
+    "color": "#0086C9",
+    "description": "Serverless Devs (white) CNCF project icon (Serverless Devs).",
+    "fullname": "Serverless Devs (white)",
+    "name": "serverless-devs-icon-white"
+  },
+  {
+    "path": "icons/serverlessworkflow/serverlessworkflow-icon-black.svg",
+    "tags": [
+      "black",
+      "serverlessworkflow"
+    ],
+    "category": "serverlessworkflow",
+    "color": "#0086C9",
+    "description": "Serverlessworkflow (black) CNCF project icon (Serverlessworkflow).",
+    "fullname": "Serverlessworkflow (black)",
+    "name": "serverlessworkflow-icon-black"
+  },
+  {
+    "path": "icons/serverlessworkflow/serverlessworkflow-icon-color.svg",
+    "tags": [
+      "color",
+      "serverlessworkflow"
+    ],
+    "category": "serverlessworkflow",
+    "color": "#0086C9",
+    "description": "Serverlessworkflow (color) CNCF project icon (Serverlessworkflow).",
+    "fullname": "Serverlessworkflow (color)",
+    "name": "serverlessworkflow-icon-color"
+  },
+  {
+    "path": "icons/serverlessworkflow/serverlessworkflow-icon-white.svg",
+    "tags": [
+      "serverlessworkflow",
+      "white"
+    ],
+    "category": "serverlessworkflow",
+    "color": "#0086C9",
+    "description": "Serverlessworkflow (white) CNCF project icon (Serverlessworkflow).",
+    "fullname": "Serverlessworkflow (white)",
+    "name": "serverlessworkflow-icon-white"
+  },
+  {
+    "path": "icons/shipwright/shipwright-icon-black.svg",
+    "tags": [
+      "black",
+      "shipwright"
+    ],
+    "category": "shipwright",
+    "color": "#0086C9",
+    "description": "Shipwright (black) CNCF project icon (Shipwright).",
+    "fullname": "Shipwright (black)",
+    "name": "shipwright-icon-black"
+  },
+  {
+    "path": "icons/shipwright/shipwright-icon-color.svg",
+    "tags": [
+      "color",
+      "shipwright"
+    ],
+    "category": "shipwright",
+    "color": "#0086C9",
+    "description": "Shipwright (color) CNCF project icon (Shipwright).",
+    "fullname": "Shipwright (color)",
+    "name": "shipwright-icon-color"
+  },
+  {
+    "path": "icons/shipwright/shipwright-icon-white.svg",
+    "tags": [
+      "shipwright",
+      "white"
+    ],
+    "category": "shipwright",
+    "color": "#0086C9",
+    "description": "Shipwright (white) CNCF project icon (Shipwright).",
+    "fullname": "Shipwright (white)",
+    "name": "shipwright-icon-white"
+  },
+  {
+    "path": "icons/slimfaas/slimfaas-icon-black.svg",
+    "tags": [
+      "black",
+      "slimfaas"
+    ],
+    "category": "slimfaas",
+    "color": "#0086C9",
+    "description": "Slimfaas (black) CNCF project icon (Slimfaas).",
+    "fullname": "Slimfaas (black)",
+    "name": "slimfaas-icon-black"
+  },
+  {
+    "path": "icons/slimfaas/slimfaas-icon-color.svg",
+    "tags": [
+      "color",
+      "slimfaas"
+    ],
+    "category": "slimfaas",
+    "color": "#0086C9",
+    "description": "Slimfaas (color) CNCF project icon (Slimfaas).",
+    "fullname": "Slimfaas (color)",
+    "name": "slimfaas-icon-color"
+  },
+  {
+    "path": "icons/slimfaas/slimfaas-icon-white.svg",
+    "tags": [
+      "slimfaas",
+      "white"
+    ],
+    "category": "slimfaas",
+    "color": "#0086C9",
+    "description": "Slimfaas (white) CNCF project icon (Slimfaas).",
+    "fullname": "Slimfaas (white)",
+    "name": "slimfaas-icon-white"
+  },
+  {
+    "path": "icons/slimtoolkit/slimtoolkit-icon-black.svg",
+    "tags": [
+      "black",
+      "slimtoolkit"
+    ],
+    "category": "slimtoolkit",
+    "color": "#0086C9",
+    "description": "Slimtoolkit (black) CNCF project icon (Slimtoolkit).",
+    "fullname": "Slimtoolkit (black)",
+    "name": "slimtoolkit-icon-black"
+  },
+  {
+    "path": "icons/slimtoolkit/slimtoolkit-icon-color.svg",
+    "tags": [
+      "color",
+      "slimtoolkit"
+    ],
+    "category": "slimtoolkit",
+    "color": "#0086C9",
+    "description": "Slimtoolkit (color) CNCF project icon (Slimtoolkit).",
+    "fullname": "Slimtoolkit (color)",
+    "name": "slimtoolkit-icon-color"
+  },
+  {
+    "path": "icons/slimtoolkit/slimtoolkit-icon-white.svg",
+    "tags": [
+      "slimtoolkit",
+      "white"
+    ],
+    "category": "slimtoolkit",
+    "color": "#0086C9",
+    "description": "Slimtoolkit (white) CNCF project icon (Slimtoolkit).",
+    "fullname": "Slimtoolkit (white)",
+    "name": "slimtoolkit-icon-white"
+  },
+  {
+    "path": "icons/sops/sops-icon-color.svg",
+    "tags": [
+      "color",
+      "encryption",
+      "secrets",
+      "sops"
+    ],
+    "category": "sops",
+    "color": "#0086C9",
+    "description": "SOPS (color) CNCF project icon (SOPS).",
+    "fullname": "SOPS (color)",
+    "name": "sops-icon-color"
+  },
+  {
+    "path": "icons/spiderpool/spiderpool-icon-black.svg",
+    "tags": [
+      "black",
+      "spiderpool"
+    ],
+    "category": "spiderpool",
+    "color": "#0086C9",
+    "description": "Spiderpool (black) CNCF project icon (Spiderpool).",
+    "fullname": "Spiderpool (black)",
+    "name": "spiderpool-icon-black"
+  },
+  {
+    "path": "icons/spiderpool/spiderpool-icon-color.svg",
+    "tags": [
+      "color",
+      "spiderpool"
+    ],
+    "category": "spiderpool",
+    "color": "#0086C9",
+    "description": "Spiderpool (color) CNCF project icon (Spiderpool).",
+    "fullname": "Spiderpool (color)",
+    "name": "spiderpool-icon-color"
+  },
+  {
+    "path": "icons/spiderpool/spiderpool-icon-white.svg",
+    "tags": [
+      "spiderpool",
+      "white"
+    ],
+    "category": "spiderpool",
+    "color": "#0086C9",
+    "description": "Spiderpool (white) CNCF project icon (Spiderpool).",
+    "fullname": "Spiderpool (white)",
+    "name": "spiderpool-icon-white"
+  },
+  {
     "path": "icons/spiffe/spiffe-icon-black.svg",
     "tags": [
       "black",
@@ -2198,6 +8307,78 @@
     "name": "spiffe-icon-white"
   },
   {
+    "path": "icons/spin/spin-icon-black.svg",
+    "tags": [
+      "black",
+      "spin"
+    ],
+    "category": "spin",
+    "color": "#0086C9",
+    "description": "Spin (black) CNCF project icon (Spin).",
+    "fullname": "Spin (black)",
+    "name": "spin-icon-black"
+  },
+  {
+    "path": "icons/spin/spin-icon-color.svg",
+    "tags": [
+      "color",
+      "spin"
+    ],
+    "category": "spin",
+    "color": "#0086C9",
+    "description": "Spin (color) CNCF project icon (Spin).",
+    "fullname": "Spin (color)",
+    "name": "spin-icon-color"
+  },
+  {
+    "path": "icons/spin/spin-icon-white.svg",
+    "tags": [
+      "spin",
+      "white"
+    ],
+    "category": "spin",
+    "color": "#0086C9",
+    "description": "Spin (white) CNCF project icon (Spin).",
+    "fullname": "Spin (white)",
+    "name": "spin-icon-white"
+  },
+  {
+    "path": "icons/spinkube/spinkube-icon-black.svg",
+    "tags": [
+      "black",
+      "spinkube"
+    ],
+    "category": "spinkube",
+    "color": "#0086C9",
+    "description": "Spinkube (black) CNCF project icon (Spinkube).",
+    "fullname": "Spinkube (black)",
+    "name": "spinkube-icon-black"
+  },
+  {
+    "path": "icons/spinkube/spinkube-icon-color.svg",
+    "tags": [
+      "color",
+      "spinkube"
+    ],
+    "category": "spinkube",
+    "color": "#0086C9",
+    "description": "Spinkube (color) CNCF project icon (Spinkube).",
+    "fullname": "Spinkube (color)",
+    "name": "spinkube-icon-color"
+  },
+  {
+    "path": "icons/spinkube/spinkube-icon-white.svg",
+    "tags": [
+      "spinkube",
+      "white"
+    ],
+    "category": "spinkube",
+    "color": "#0086C9",
+    "description": "Spinkube (white) CNCF project icon (Spinkube).",
+    "fullname": "Spinkube (white)",
+    "name": "spinkube-icon-white"
+  },
+  {
     "path": "icons/spire/spire-icon-black.svg",
     "tags": [
       "black",
@@ -2235,6 +8416,98 @@
     "description": "SPIRE (white) CNCF project icon (SPIRE).",
     "fullname": "SPIRE (white)",
     "name": "spire-icon-white"
+  },
+  {
+    "path": "icons/stacker/stacker-icon-color.svg",
+    "tags": [
+      "build",
+      "color",
+      "oci",
+      "stacker"
+    ],
+    "category": "stacker",
+    "color": "#0086C9",
+    "description": "Stacker (color) CNCF project icon (Stacker).",
+    "fullname": "Stacker (color)",
+    "name": "stacker-icon-color"
+  },
+  {
+    "path": "icons/strimzi/strimzi-icon-black.svg",
+    "tags": [
+      "black",
+      "kafka",
+      "messaging",
+      "strimzi"
+    ],
+    "category": "strimzi",
+    "color": "#0086C9",
+    "description": "Strimzi (black) CNCF project icon (Strimzi).",
+    "fullname": "Strimzi (black)",
+    "name": "strimzi-icon-black"
+  },
+  {
+    "path": "icons/strimzi/strimzi-icon-color.svg",
+    "tags": [
+      "color",
+      "kafka",
+      "messaging",
+      "strimzi"
+    ],
+    "category": "strimzi",
+    "color": "#0086C9",
+    "description": "Strimzi (color) CNCF project icon (Strimzi).",
+    "fullname": "Strimzi (color)",
+    "name": "strimzi-icon-color"
+  },
+  {
+    "path": "icons/strimzi/strimzi-icon-white.svg",
+    "tags": [
+      "kafka",
+      "messaging",
+      "strimzi",
+      "white"
+    ],
+    "category": "strimzi",
+    "color": "#0086C9",
+    "description": "Strimzi (white) CNCF project icon (Strimzi).",
+    "fullname": "Strimzi (white)",
+    "name": "strimzi-icon-white"
+  },
+  {
+    "path": "icons/submariner/submariner-icon-black.svg",
+    "tags": [
+      "black",
+      "submariner"
+    ],
+    "category": "submariner",
+    "color": "#0086C9",
+    "description": "Submariner (black) CNCF project icon (Submariner).",
+    "fullname": "Submariner (black)",
+    "name": "submariner-icon-black"
+  },
+  {
+    "path": "icons/submariner/submariner-icon-color.svg",
+    "tags": [
+      "color",
+      "submariner"
+    ],
+    "category": "submariner",
+    "color": "#0086C9",
+    "description": "Submariner (color) CNCF project icon (Submariner).",
+    "fullname": "Submariner (color)",
+    "name": "submariner-icon-color"
+  },
+  {
+    "path": "icons/submariner/submariner-icon-white.svg",
+    "tags": [
+      "submariner",
+      "white"
+    ],
+    "category": "submariner",
+    "color": "#0086C9",
+    "description": "Submariner (white) CNCF project icon (Submariner).",
+    "fullname": "Submariner (white)",
+    "name": "submariner-icon-white"
   },
   {
     "path": "icons/tekton/tekton-icon-black.svg",
@@ -2279,6 +8552,42 @@
     "name": "tekton-icon-white"
   },
   {
+    "path": "icons/telepresence/telepresence-icon-black.svg",
+    "tags": [
+      "black",
+      "telepresence"
+    ],
+    "category": "telepresence",
+    "color": "#0086C9",
+    "description": "Telepresence (black) CNCF project icon (Telepresence).",
+    "fullname": "Telepresence (black)",
+    "name": "telepresence-icon-black"
+  },
+  {
+    "path": "icons/telepresence/telepresence-icon-color.svg",
+    "tags": [
+      "color",
+      "telepresence"
+    ],
+    "category": "telepresence",
+    "color": "#0086C9",
+    "description": "Telepresence (color) CNCF project icon (Telepresence).",
+    "fullname": "Telepresence (color)",
+    "name": "telepresence-icon-color"
+  },
+  {
+    "path": "icons/telepresence/telepresence-icon-white.svg",
+    "tags": [
+      "telepresence",
+      "white"
+    ],
+    "category": "telepresence",
+    "color": "#0086C9",
+    "description": "Telepresence (white) CNCF project icon (Telepresence).",
+    "fullname": "Telepresence (white)",
+    "name": "telepresence-icon-white"
+  },
+  {
     "path": "icons/thanos/thanos-icon-black.svg",
     "tags": [
       "black",
@@ -2319,5 +8628,776 @@
     "description": "Thanos (white) CNCF project icon (Thanos).",
     "fullname": "Thanos (white)",
     "name": "thanos-icon-white"
+  },
+  {
+    "path": "icons/tikv/tikv-icon-black.svg",
+    "tags": [
+      "black",
+      "database",
+      "kv",
+      "tikv"
+    ],
+    "category": "tikv",
+    "color": "#0086C9",
+    "description": "TiKV (black) CNCF project icon (TiKV).",
+    "fullname": "TiKV (black)",
+    "name": "tikv-icon-black"
+  },
+  {
+    "path": "icons/tikv/tikv-icon-color.svg",
+    "tags": [
+      "color",
+      "database",
+      "kv",
+      "tikv"
+    ],
+    "category": "tikv",
+    "color": "#0086C9",
+    "description": "TiKV (color) CNCF project icon (TiKV).",
+    "fullname": "TiKV (color)",
+    "name": "tikv-icon-color"
+  },
+  {
+    "path": "icons/tikv/tikv-icon-white.svg",
+    "tags": [
+      "database",
+      "kv",
+      "tikv",
+      "white"
+    ],
+    "category": "tikv",
+    "color": "#0086C9",
+    "description": "TiKV (white) CNCF project icon (TiKV).",
+    "fullname": "TiKV (white)",
+    "name": "tikv-icon-white"
+  },
+  {
+    "path": "icons/tinkerbell/tinkerbell-icon-color-dark.svg",
+    "tags": [
+      "bare-metal",
+      "color-dark",
+      "provisioning",
+      "tinkerbell"
+    ],
+    "category": "tinkerbell",
+    "color": "#0086C9",
+    "description": "Tinkerbell (color-dark) CNCF project icon (Tinkerbell).",
+    "fullname": "Tinkerbell (color-dark)",
+    "name": "tinkerbell-icon-color-dark"
+  },
+  {
+    "path": "icons/tinkerbell/tinkerbell-icon-color-light.svg",
+    "tags": [
+      "bare-metal",
+      "color-light",
+      "provisioning",
+      "tinkerbell"
+    ],
+    "category": "tinkerbell",
+    "color": "#0086C9",
+    "description": "Tinkerbell (color-light) CNCF project icon (Tinkerbell).",
+    "fullname": "Tinkerbell (color-light)",
+    "name": "tinkerbell-icon-color-light"
+  },
+  {
+    "path": "icons/tinkerbell/tinkerbell-icon-white.svg",
+    "tags": [
+      "bare-metal",
+      "provisioning",
+      "tinkerbell",
+      "white"
+    ],
+    "category": "tinkerbell",
+    "color": "#0086C9",
+    "description": "Tinkerbell (white) CNCF project icon (Tinkerbell).",
+    "fullname": "Tinkerbell (white)",
+    "name": "tinkerbell-icon-white"
+  },
+  {
+    "path": "icons/tokenetes/tokenetes-icon-black.svg",
+    "tags": [
+      "black",
+      "tokenetes"
+    ],
+    "category": "tokenetes",
+    "color": "#0086C9",
+    "description": "Tokenetes (black) CNCF project icon (Tokenetes).",
+    "fullname": "Tokenetes (black)",
+    "name": "tokenetes-icon-black"
+  },
+  {
+    "path": "icons/tokenetes/tokenetes-icon-color.svg",
+    "tags": [
+      "color",
+      "tokenetes"
+    ],
+    "category": "tokenetes",
+    "color": "#0086C9",
+    "description": "Tokenetes (color) CNCF project icon (Tokenetes).",
+    "fullname": "Tokenetes (color)",
+    "name": "tokenetes-icon-color"
+  },
+  {
+    "path": "icons/tokenetes/tokenetes-icon-white.svg",
+    "tags": [
+      "tokenetes",
+      "white"
+    ],
+    "category": "tokenetes",
+    "color": "#0086C9",
+    "description": "Tokenetes (white) CNCF project icon (Tokenetes).",
+    "fullname": "Tokenetes (white)",
+    "name": "tokenetes-icon-white"
+  },
+  {
+    "path": "icons/tremor/tremor-icon-black.svg",
+    "tags": [
+      "black",
+      "tremor"
+    ],
+    "category": "tremor",
+    "color": "#0086C9",
+    "description": "Tremor (black) CNCF project icon (Tremor).",
+    "fullname": "Tremor (black)",
+    "name": "tremor-icon-black"
+  },
+  {
+    "path": "icons/tremor/tremor-icon-color.svg",
+    "tags": [
+      "color",
+      "tremor"
+    ],
+    "category": "tremor",
+    "color": "#0086C9",
+    "description": "Tremor (color) CNCF project icon (Tremor).",
+    "fullname": "Tremor (color)",
+    "name": "tremor-icon-color"
+  },
+  {
+    "path": "icons/tremor/tremor-icon-white.svg",
+    "tags": [
+      "tremor",
+      "white"
+    ],
+    "category": "tremor",
+    "color": "#0086C9",
+    "description": "Tremor (white) CNCF project icon (Tremor).",
+    "fullname": "Tremor (white)",
+    "name": "tremor-icon-white"
+  },
+  {
+    "path": "icons/trickster/trickster-icon-black.svg",
+    "tags": [
+      "black",
+      "trickster"
+    ],
+    "category": "trickster",
+    "color": "#0086C9",
+    "description": "Trickster (black) CNCF project icon (Trickster).",
+    "fullname": "Trickster (black)",
+    "name": "trickster-icon-black"
+  },
+  {
+    "path": "icons/trickster/trickster-icon-color.svg",
+    "tags": [
+      "color",
+      "trickster"
+    ],
+    "category": "trickster",
+    "color": "#0086C9",
+    "description": "Trickster (color) CNCF project icon (Trickster).",
+    "fullname": "Trickster (color)",
+    "name": "trickster-icon-color"
+  },
+  {
+    "path": "icons/trickster/trickster-icon-white.svg",
+    "tags": [
+      "trickster",
+      "white"
+    ],
+    "category": "trickster",
+    "color": "#0086C9",
+    "description": "Trickster (white) CNCF project icon (Trickster).",
+    "fullname": "Trickster (white)",
+    "name": "trickster-icon-white"
+  },
+  {
+    "path": "icons/tuf/tuf-icon-black.svg",
+    "tags": [
+      "black",
+      "security",
+      "supply-chain",
+      "tuf"
+    ],
+    "category": "tuf",
+    "color": "#0086C9",
+    "description": "TUF (black) CNCF project icon (TUF).",
+    "fullname": "TUF (black)",
+    "name": "tuf-icon-black"
+  },
+  {
+    "path": "icons/tuf/tuf-icon-color.svg",
+    "tags": [
+      "color",
+      "security",
+      "supply-chain",
+      "tuf"
+    ],
+    "category": "tuf",
+    "color": "#0086C9",
+    "description": "TUF (color) CNCF project icon (TUF).",
+    "fullname": "TUF (color)",
+    "name": "tuf-icon-color"
+  },
+  {
+    "path": "icons/tuf/tuf-icon-white.svg",
+    "tags": [
+      "security",
+      "supply-chain",
+      "tuf",
+      "white"
+    ],
+    "category": "tuf",
+    "color": "#0086C9",
+    "description": "TUF (white) CNCF project icon (TUF).",
+    "fullname": "TUF (white)",
+    "name": "tuf-icon-white"
+  },
+  {
+    "path": "icons/urunc/urunc-icon-black.svg",
+    "tags": [
+      "black",
+      "urunc"
+    ],
+    "category": "urunc",
+    "color": "#0086C9",
+    "description": "Urunc (black) CNCF project icon (Urunc).",
+    "fullname": "Urunc (black)",
+    "name": "urunc-icon-black"
+  },
+  {
+    "path": "icons/urunc/urunc-icon-color.svg",
+    "tags": [
+      "color",
+      "urunc"
+    ],
+    "category": "urunc",
+    "color": "#0086C9",
+    "description": "Urunc (color) CNCF project icon (Urunc).",
+    "fullname": "Urunc (color)",
+    "name": "urunc-icon-color"
+  },
+  {
+    "path": "icons/urunc/urunc-icon-white.svg",
+    "tags": [
+      "urunc",
+      "white"
+    ],
+    "category": "urunc",
+    "color": "#0086C9",
+    "description": "Urunc (white) CNCF project icon (Urunc).",
+    "fullname": "Urunc (white)",
+    "name": "urunc-icon-white"
+  },
+  {
+    "path": "icons/velero/velero-icon-black.svg",
+    "tags": [
+      "backup",
+      "black",
+      "disaster-recovery",
+      "velero"
+    ],
+    "category": "velero",
+    "color": "#0086C9",
+    "description": "Velero (black) CNCF project icon (Velero).",
+    "fullname": "Velero (black)",
+    "name": "velero-icon-black"
+  },
+  {
+    "path": "icons/velero/velero-icon-color.svg",
+    "tags": [
+      "backup",
+      "color",
+      "disaster-recovery",
+      "velero"
+    ],
+    "category": "velero",
+    "color": "#0086C9",
+    "description": "Velero (color) CNCF project icon (Velero).",
+    "fullname": "Velero (color)",
+    "name": "velero-icon-color"
+  },
+  {
+    "path": "icons/velero/velero-icon-white.svg",
+    "tags": [
+      "backup",
+      "disaster-recovery",
+      "velero",
+      "white"
+    ],
+    "category": "velero",
+    "color": "#0086C9",
+    "description": "Velero (white) CNCF project icon (Velero).",
+    "fullname": "Velero (white)",
+    "name": "velero-icon-white"
+  },
+  {
+    "path": "icons/virtualkubelet/virtualkubelet-icon-black.svg",
+    "tags": [
+      "black",
+      "virtualkubelet"
+    ],
+    "category": "virtualkubelet",
+    "color": "#0086C9",
+    "description": "Virtualkubelet (black) CNCF project icon (Virtualkubelet).",
+    "fullname": "Virtualkubelet (black)",
+    "name": "virtualkubelet-icon-black"
+  },
+  {
+    "path": "icons/virtualkubelet/virtualkubelet-icon-color.svg",
+    "tags": [
+      "color",
+      "virtualkubelet"
+    ],
+    "category": "virtualkubelet",
+    "color": "#0086C9",
+    "description": "Virtualkubelet (color) CNCF project icon (Virtualkubelet).",
+    "fullname": "Virtualkubelet (color)",
+    "name": "virtualkubelet-icon-color"
+  },
+  {
+    "path": "icons/virtualkubelet/virtualkubelet-icon-white.svg",
+    "tags": [
+      "virtualkubelet",
+      "white"
+    ],
+    "category": "virtualkubelet",
+    "color": "#0086C9",
+    "description": "Virtualkubelet (white) CNCF project icon (Virtualkubelet).",
+    "fullname": "Virtualkubelet (white)",
+    "name": "virtualkubelet-icon-white"
+  },
+  {
+    "path": "icons/vitess/vitess-icon-black.svg",
+    "tags": [
+      "black",
+      "database",
+      "mysql",
+      "vitess"
+    ],
+    "category": "vitess",
+    "color": "#0086C9",
+    "description": "Vitess (black) CNCF project icon (Vitess).",
+    "fullname": "Vitess (black)",
+    "name": "vitess-icon-black"
+  },
+  {
+    "path": "icons/vitess/vitess-icon-color.svg",
+    "tags": [
+      "color",
+      "database",
+      "mysql",
+      "vitess"
+    ],
+    "category": "vitess",
+    "color": "#0086C9",
+    "description": "Vitess (color) CNCF project icon (Vitess).",
+    "fullname": "Vitess (color)",
+    "name": "vitess-icon-color"
+  },
+  {
+    "path": "icons/vitess/vitess-icon-color-inverted.svg",
+    "tags": [
+      "color-inverted",
+      "database",
+      "mysql",
+      "vitess"
+    ],
+    "category": "vitess",
+    "color": "#0086C9",
+    "description": "Vitess (color-inverted) CNCF project icon (Vitess).",
+    "fullname": "Vitess (color-inverted)",
+    "name": "vitess-icon-color-inverted"
+  },
+  {
+    "path": "icons/vitess/vitess-icon-grey.svg",
+    "tags": [
+      "database",
+      "grey",
+      "mysql",
+      "vitess"
+    ],
+    "category": "vitess",
+    "color": "#0086C9",
+    "description": "Vitess (grey) CNCF project icon (Vitess).",
+    "fullname": "Vitess (grey)",
+    "name": "vitess-icon-grey"
+  },
+  {
+    "path": "icons/vitess/vitess-icon-white.svg",
+    "tags": [
+      "database",
+      "mysql",
+      "vitess",
+      "white"
+    ],
+    "category": "vitess",
+    "color": "#0086C9",
+    "description": "Vitess (white) CNCF project icon (Vitess).",
+    "fullname": "Vitess (white)",
+    "name": "vitess-icon-white"
+  },
+  {
+    "path": "icons/volcano/volcano-icon-black.svg",
+    "tags": [
+      "batch",
+      "black",
+      "scheduling",
+      "volcano"
+    ],
+    "category": "volcano",
+    "color": "#0086C9",
+    "description": "Volcano (black) CNCF project icon (Volcano).",
+    "fullname": "Volcano (black)",
+    "name": "volcano-icon-black"
+  },
+  {
+    "path": "icons/volcano/volcano-icon-color.svg",
+    "tags": [
+      "batch",
+      "color",
+      "scheduling",
+      "volcano"
+    ],
+    "category": "volcano",
+    "color": "#0086C9",
+    "description": "Volcano (color) CNCF project icon (Volcano).",
+    "fullname": "Volcano (color)",
+    "name": "volcano-icon-color"
+  },
+  {
+    "path": "icons/volcano/volcano-icon-white.svg",
+    "tags": [
+      "batch",
+      "scheduling",
+      "volcano",
+      "white"
+    ],
+    "category": "volcano",
+    "color": "#0086C9",
+    "description": "Volcano (white) CNCF project icon (Volcano).",
+    "fullname": "Volcano (white)",
+    "name": "volcano-icon-white"
+  },
+  {
+    "path": "icons/vs-code-kubernetes-tools/vs-code-kubernetes-tools-icon-black.svg",
+    "tags": [
+      "black",
+      "vs-code-kubernetes-tools"
+    ],
+    "category": "vs-code-kubernetes-tools",
+    "color": "#0086C9",
+    "description": "Vs Code Kubernetes Tools (black) CNCF project icon (Vs Code Kubernetes Tools).",
+    "fullname": "Vs Code Kubernetes Tools (black)",
+    "name": "vs-code-kubernetes-tools-icon-black"
+  },
+  {
+    "path": "icons/vs-code-kubernetes-tools/vs-code-kubernetes-tools-icon-color.svg",
+    "tags": [
+      "color",
+      "vs-code-kubernetes-tools"
+    ],
+    "category": "vs-code-kubernetes-tools",
+    "color": "#0086C9",
+    "description": "Vs Code Kubernetes Tools (color) CNCF project icon (Vs Code Kubernetes Tools).",
+    "fullname": "Vs Code Kubernetes Tools (color)",
+    "name": "vs-code-kubernetes-tools-icon-color"
+  },
+  {
+    "path": "icons/vs-code-kubernetes-tools/vs-code-kubernetes-tools-icon-white.svg",
+    "tags": [
+      "vs-code-kubernetes-tools",
+      "white"
+    ],
+    "category": "vs-code-kubernetes-tools",
+    "color": "#0086C9",
+    "description": "Vs Code Kubernetes Tools (white) CNCF project icon (Vs Code Kubernetes Tools).",
+    "fullname": "Vs Code Kubernetes Tools (white)",
+    "name": "vs-code-kubernetes-tools-icon-white"
+  },
+  {
+    "path": "icons/wasm-edge-runtime/wasm-edge-runtime-icon-black.svg",
+    "tags": [
+      "black",
+      "wasm-edge-runtime"
+    ],
+    "category": "wasm-edge-runtime",
+    "color": "#0086C9",
+    "description": "WasmEdge (black) CNCF project icon (WasmEdge).",
+    "fullname": "WasmEdge (black)",
+    "name": "wasm-edge-runtime-icon-black"
+  },
+  {
+    "path": "icons/wasm-edge-runtime/wasm-edge-runtime-icon-color.svg",
+    "tags": [
+      "color",
+      "wasm-edge-runtime"
+    ],
+    "category": "wasm-edge-runtime",
+    "color": "#0086C9",
+    "description": "WasmEdge (color) CNCF project icon (WasmEdge).",
+    "fullname": "WasmEdge (color)",
+    "name": "wasm-edge-runtime-icon-color"
+  },
+  {
+    "path": "icons/wasm-edge-runtime/wasm-edge-runtime-icon-white.svg",
+    "tags": [
+      "wasm-edge-runtime",
+      "white"
+    ],
+    "category": "wasm-edge-runtime",
+    "color": "#0086C9",
+    "description": "WasmEdge (white) CNCF project icon (WasmEdge).",
+    "fullname": "WasmEdge (white)",
+    "name": "wasm-edge-runtime-icon-white"
+  },
+  {
+    "path": "icons/wasmcloud/wasmcloud-icon-black.svg",
+    "tags": [
+      "black",
+      "wasm",
+      "wasmcloud"
+    ],
+    "category": "wasmcloud",
+    "color": "#0086C9",
+    "description": "wasmCloud (black) CNCF project icon (wasmCloud).",
+    "fullname": "wasmCloud (black)",
+    "name": "wasmcloud-icon-black"
+  },
+  {
+    "path": "icons/wasmcloud/wasmcloud-icon-color.svg",
+    "tags": [
+      "color",
+      "wasm",
+      "wasmcloud"
+    ],
+    "category": "wasmcloud",
+    "color": "#0086C9",
+    "description": "wasmCloud (color) CNCF project icon (wasmCloud).",
+    "fullname": "wasmCloud (color)",
+    "name": "wasmcloud-icon-color"
+  },
+  {
+    "path": "icons/wasmcloud/wasmcloud-icon-white.svg",
+    "tags": [
+      "wasm",
+      "wasmcloud",
+      "white"
+    ],
+    "category": "wasmcloud",
+    "color": "#0086C9",
+    "description": "wasmCloud (white) CNCF project icon (wasmCloud).",
+    "fullname": "wasmCloud (white)",
+    "name": "wasmcloud-icon-white"
+  },
+  {
+    "path": "icons/werf/werf-icon-black.svg",
+    "tags": [
+      "black",
+      "werf"
+    ],
+    "category": "werf",
+    "color": "#0086C9",
+    "description": "Werf (black) CNCF project icon (Werf).",
+    "fullname": "Werf (black)",
+    "name": "werf-icon-black"
+  },
+  {
+    "path": "icons/werf/werf-icon-color.svg",
+    "tags": [
+      "color",
+      "werf"
+    ],
+    "category": "werf",
+    "color": "#0086C9",
+    "description": "Werf (color) CNCF project icon (Werf).",
+    "fullname": "Werf (color)",
+    "name": "werf-icon-color"
+  },
+  {
+    "path": "icons/werf/werf-icon-white.svg",
+    "tags": [
+      "werf",
+      "white"
+    ],
+    "category": "werf",
+    "color": "#0086C9",
+    "description": "Werf (white) CNCF project icon (Werf).",
+    "fullname": "Werf (white)",
+    "name": "werf-icon-white"
+  },
+  {
+    "path": "icons/xregistry/xregistry-icon-black.svg",
+    "tags": [
+      "black",
+      "xregistry"
+    ],
+    "category": "xregistry",
+    "color": "#0086C9",
+    "description": "Xregistry (black) CNCF project icon (Xregistry).",
+    "fullname": "Xregistry (black)",
+    "name": "xregistry-icon-black"
+  },
+  {
+    "path": "icons/xregistry/xregistry-icon-color.svg",
+    "tags": [
+      "color",
+      "xregistry"
+    ],
+    "category": "xregistry",
+    "color": "#0086C9",
+    "description": "Xregistry (color) CNCF project icon (Xregistry).",
+    "fullname": "Xregistry (color)",
+    "name": "xregistry-icon-color"
+  },
+  {
+    "path": "icons/xregistry/xregistry-icon-white.svg",
+    "tags": [
+      "white",
+      "xregistry"
+    ],
+    "category": "xregistry",
+    "color": "#0086C9",
+    "description": "Xregistry (white) CNCF project icon (Xregistry).",
+    "fullname": "Xregistry (white)",
+    "name": "xregistry-icon-white"
+  },
+  {
+    "path": "icons/youki/youki-icon-black.svg",
+    "tags": [
+      "black",
+      "youki"
+    ],
+    "category": "youki",
+    "color": "#0086C9",
+    "description": "Youki (black) CNCF project icon (Youki).",
+    "fullname": "Youki (black)",
+    "name": "youki-icon-black"
+  },
+  {
+    "path": "icons/youki/youki-icon-color.svg",
+    "tags": [
+      "color",
+      "youki"
+    ],
+    "category": "youki",
+    "color": "#0086C9",
+    "description": "Youki (color) CNCF project icon (Youki).",
+    "fullname": "Youki (color)",
+    "name": "youki-icon-color"
+  },
+  {
+    "path": "icons/youki/youki-icon-white.svg",
+    "tags": [
+      "white",
+      "youki"
+    ],
+    "category": "youki",
+    "color": "#0086C9",
+    "description": "Youki (white) CNCF project icon (Youki).",
+    "fullname": "Youki (white)",
+    "name": "youki-icon-white"
+  },
+  {
+    "path": "icons/zot/zot-icon-black.svg",
+    "tags": [
+      "black",
+      "zot"
+    ],
+    "category": "zot",
+    "color": "#0086C9",
+    "description": "Zot (black) CNCF project icon (Zot).",
+    "fullname": "Zot (black)",
+    "name": "zot-icon-black"
+  },
+  {
+    "path": "icons/zot/zot-icon-color.svg",
+    "tags": [
+      "color",
+      "zot"
+    ],
+    "category": "zot",
+    "color": "#0086C9",
+    "description": "Zot (color) CNCF project icon (Zot).",
+    "fullname": "Zot (color)",
+    "name": "zot-icon-color"
+  },
+  {
+    "path": "icons/zot/zot-icon-white.svg",
+    "tags": [
+      "white",
+      "zot"
+    ],
+    "category": "zot",
+    "color": "#0086C9",
+    "description": "Zot (white) CNCF project icon (Zot).",
+    "fullname": "Zot (white)",
+    "name": "zot-icon-white"
+  },
+  {
+    "path": "icons/ztunnel/ztunnel-icon-black.svg",
+    "tags": [
+      "ambient",
+      "black",
+      "mesh",
+      "ztunnel"
+    ],
+    "category": "ztunnel",
+    "color": "#0086C9",
+    "description": "ztunnel (black) CNCF project icon (ztunnel).",
+    "fullname": "ztunnel (black)",
+    "name": "ztunnel-icon-black"
+  },
+  {
+    "path": "icons/ztunnel/ztunnel-icon-color.svg",
+    "tags": [
+      "ambient",
+      "color",
+      "mesh",
+      "ztunnel"
+    ],
+    "category": "ztunnel",
+    "color": "#0086C9",
+    "description": "ztunnel (color) CNCF project icon (ztunnel).",
+    "fullname": "ztunnel (color)",
+    "name": "ztunnel-icon-color"
+  },
+  {
+    "path": "icons/ztunnel/ztunnel-icon-grey.svg",
+    "tags": [
+      "ambient",
+      "grey",
+      "mesh",
+      "ztunnel"
+    ],
+    "category": "ztunnel",
+    "color": "#0086C9",
+    "description": "ztunnel (grey) CNCF project icon (ztunnel).",
+    "fullname": "ztunnel (grey)",
+    "name": "ztunnel-icon-grey"
+  },
+  {
+    "path": "icons/ztunnel/ztunnel-icon-white.svg",
+    "tags": [
+      "ambient",
+      "mesh",
+      "white",
+      "ztunnel"
+    ],
+    "category": "ztunnel",
+    "color": "#0086C9",
+    "description": "ztunnel (white) CNCF project icon (ztunnel).",
+    "fullname": "ztunnel (white)",
+    "name": "ztunnel-icon-white"
   }
 ]
