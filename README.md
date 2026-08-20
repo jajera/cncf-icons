@@ -17,8 +17,8 @@ official Kubernetes architecture icons.
 
 ## Statistics
 
-- **168** total SVG icons
-  - **96** CNCF project artwork icons (color / black / white, plus a few
+- **739** total SVG icons
+  - **667** CNCF project artwork icons (color / black / white, plus a few
     special variants)
   - **72** Kubernetes architecture icons (resources, control plane,
     infrastructure; labeled and unlabeled where available)
